@@ -8,7 +8,7 @@ interface HeaderProps {
 
 export default function Header({ count, onLogoClick }: HeaderProps) {
   return (
-    <header className="flex items-center justify-between gap-4 py-6">
+    <header className="flex flex-wrap items-center justify-between gap-x-4 gap-y-3 py-8 sm:py-10">
       <Link
         href="/"
         onClick={(e) => {
@@ -17,9 +17,9 @@ export default function Header({ count, onLogoClick }: HeaderProps) {
         }}
         className="group flex shrink-0 items-center gap-3"
       >
-        <SealIcon className="h-11 w-11 shrink-0 transition-opacity group-hover:opacity-90 sm:h-12 sm:w-12" />
-        <span className="text-2xl font-black tracking-tight sm:text-3xl">
-          Stupid <span className="text-mint">Hit</span>
+        <SealIcon className="h-14 w-14 shrink-0 transition-opacity group-hover:opacity-90 sm:h-16 sm:w-16" />
+        <span className="text-4xl font-black tracking-tight sm:text-5xl">
+          stupid <span className="text-mint">hit</span>
         </span>
       </Link>
       <div className="flex shrink-0 items-center gap-2 font-mono text-[11px] uppercase tracking-widest text-smoke">
