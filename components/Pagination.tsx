@@ -1,6 +1,7 @@
 interface PaginationProps {
   total: number;
   index: number;
+  accent: string;
   onPrev: () => void;
   onNext: () => void;
   onSelect: (index: number) => void;
@@ -11,6 +12,7 @@ const MAX_DOTS = 9;
 export default function Pagination({
   total,
   index,
+  accent,
   onPrev,
   onNext,
   onSelect,
@@ -39,8 +41,9 @@ export default function Pagination({
               onClick={() => onSelect(i)}
               aria-label={`Go to card ${i + 1}`}
               className={`h-1.5 rounded-full transition-all ${
-                i === index ? "w-5 bg-mint" : "w-1.5 bg-hair"
+                i === index ? "w-5" : "w-1.5 bg-hair"
               }`}
+              style={i === index ? { backgroundColor: accent } : undefined}
             />
           ))}
         </div>

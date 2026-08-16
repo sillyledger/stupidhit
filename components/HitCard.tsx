@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import type { Hit } from "@/types/hit";
+import { categoryColor } from "@/lib/categoryColors";
 
 interface HitCardProps {
   hit: Hit;
@@ -13,6 +14,7 @@ interface HitCardProps {
 export default function HitCard({ hit, onNext, onShare, onVote }: HitCardProps) {
   const [votes, setVotes] = useState(hit.votes);
   const [voted, setVoted] = useState<"stupid" | "genius" | null>(null);
+  const accent = categoryColor(hit.category);
 
   function vote(kind: "stupid" | "genius") {
     if (voted) return;
@@ -28,12 +30,12 @@ export default function HitCard({ hit, onNext, onShare, onVote }: HitCardProps) 
       className="card-in flex flex-col overflow-hidden rounded-2xl border border-hair bg-panel md:flex-row"
     >
       <div className="flex min-w-0 flex-1 flex-col p-7 sm:p-10">
-        <div className="flex items-center gap-2 font-mono text-[11px] uppercase tracking-widest text-smoke">
-          <span>
+        <div className="flex items-center gap-2 font-mono text-[11px] uppercase tracking-widest">
+          <span style={{ color: accent }}>
             {hit.category} · {hit.year}
           </span>
           <span className="h-1 w-1 rounded-full bg-hair" />
-          <span className="font-mono font-semibold text-mint">
+          <span className="font-mono font-semibold" style={{ color: accent }}>
             Stupid Score: {hit.score} / 10
           </span>
         </div>
@@ -94,13 +96,17 @@ export default function HitCard({ hit, onNext, onShare, onVote }: HitCardProps) 
           <div className="font-mono text-[9px] uppercase tracking-widest text-smoke">
             {hit.metricSub}
           </div>
-          <div className="mt-1 text-3xl font-black leading-none text-mint sm:text-4xl md:mt-2 md:text-5xl">
+          <div
+            className="mt-1 text-3xl font-black leading-none sm:text-4xl md:mt-2 md:text-5xl"
+            style={{ color: accent }}
+          >
             {hit.metric}
           </div>
         </div>
         <button
           onClick={onNext}
-          className="btn-primary w-auto rounded-lg bg-mint px-6 py-3 text-xs font-bold uppercase tracking-wide text-void transition-colors hover:bg-mint2 md:w-full md:px-3 md:py-3.5"
+          className="btn-primary w-auto rounded-lg px-6 py-3 text-xs font-bold uppercase tracking-wide text-void transition-opacity hover:opacity-90 md:w-full md:px-3 md:py-3.5"
+          style={{ backgroundColor: accent }}
         >
           Next →
         </button>

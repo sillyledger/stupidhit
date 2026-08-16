@@ -1,5 +1,6 @@
 export type Category =
   | "Startups"
+  | "Tech"
   | "Music"
   | "Pop Culture"
   | "Internet Lore"
@@ -26,6 +27,7 @@ export interface Hit {
 
 export const CATEGORIES: Category[] = [
   "Startups",
+  "Tech",
   "Music",
   "Pop Culture",
   "Internet Lore",

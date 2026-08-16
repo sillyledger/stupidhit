@@ -1,5 +1,6 @@
 import type { CategoryFilter } from "@/types/hit";
 import { CATEGORIES } from "@/types/hit";
+import { categoryColor } from "@/lib/categoryColors";
 
 interface CategoryFiltersProps {
   active: CategoryFilter;
@@ -20,12 +21,19 @@ export default function CategoryFilters({
           <button
             key={option}
             onClick={() => onChange(option)}
-            className={`rounded-full border border-hair px-3.5 py-1.5 text-[11px] font-semibold uppercase tracking-wide transition-colors ${
+            className={`flex items-center gap-1.5 rounded-full border border-hair px-3.5 py-1.5 text-[11px] font-semibold uppercase tracking-wide transition-colors ${
               isActive
                 ? "bg-bone text-void"
                 : "bg-transparent text-smoke hover:text-bone"
             }`}
           >
+            {isActive && option !== "All" && (
+              <span
+                aria-hidden
+                className="h-1.5 w-1.5 rounded-full"
+                style={{ backgroundColor: categoryColor(option) }}
+              />
+            )}
             {option}
           </button>
         );

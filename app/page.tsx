@@ -10,6 +10,7 @@ import EmptyState from "@/components/EmptyState";
 import Toast from "@/components/Toast";
 import Footer from "@/components/Footer";
 import { getHits } from "@/lib/hits";
+import { categoryColor } from "@/lib/categoryColors";
 import type { CategoryFilter } from "@/types/hit";
 
 const ALL_HITS = getHits();
@@ -135,6 +136,7 @@ export default function Home() {
           <Pagination
             total={filteredHits.length}
             index={safeIndex}
+            accent={categoryColor(currentHit.category)}
             onPrev={prevHit}
             onNext={nextHit}
             onSelect={setIndex}
