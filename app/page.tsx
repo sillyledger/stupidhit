@@ -139,7 +139,6 @@ export default function Home() {
             accent={categoryColor(currentHit.category)}
             onPrev={prevHit}
             onNext={nextHit}
-            onSelect={setIndex}
           />
         </>
       ) : (

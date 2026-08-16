@@ -11,6 +11,13 @@ interface HitCardProps {
   onVote: (kind: "stupid" | "genius") => void;
 }
 
+function metricFontSize(metric: string) {
+  const len = metric.length;
+  if (len <= 5) return "text-4xl sm:text-5xl";
+  if (len <= 8) return "text-3xl sm:text-4xl";
+  return "text-2xl sm:text-3xl";
+}
+
 export default function HitCard({ hit, onNext, onShare, onVote }: HitCardProps) {
   const [votes, setVotes] = useState(hit.votes);
   const [voted, setVoted] = useState<"stupid" | "genius" | null>(null);
@@ -91,13 +98,13 @@ export default function HitCard({ hit, onNext, onShare, onVote }: HitCardProps) 
         <div className="notch absolute -bottom-2 -left-2 hidden md:block" />
       </div>
 
-      <div className="flex w-full shrink-0 flex-row items-center justify-between gap-4 border-t border-hair p-6 md:w-[208px] md:flex-col md:justify-center md:border-t-0 md:py-8">
-        <div className="text-left md:text-center">
+      <div className="flex w-full min-w-0 shrink-0 flex-row items-center justify-between gap-4 border-t border-hair p-6 md:w-[208px] md:flex-col md:justify-center md:border-t-0 md:py-8">
+        <div className="min-w-0 text-left md:text-center">
           <div className="font-mono text-[9px] uppercase tracking-widest text-smoke">
             {hit.metricSub}
           </div>
           <div
-            className="mt-1 text-3xl font-black leading-none sm:text-4xl md:mt-2 md:text-5xl"
+            className={`mt-1 break-words text-center font-black leading-none md:mt-2 ${metricFontSize(hit.metric)}`}
             style={{ color: accent }}
           >
             {hit.metric}
