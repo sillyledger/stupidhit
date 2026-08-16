@@ -85,10 +85,25 @@ export default function HitCard({ hit, onNext, onShare, onVote }: HitCardProps) 
           </button>
           <button
             onClick={() => onShare(hit)}
-            aria-label="Share"
-            className="ml-auto flex h-8 w-8 items-center justify-center rounded-full border border-hair text-smoke transition-colors hover:text-bone"
+            className="ml-auto flex items-center gap-1.5 rounded-full border border-hair px-3 py-1.5 text-xs font-semibold text-smoke transition-colors hover:text-bone"
           >
-            ↗
+            <svg
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              className="h-3.5 w-3.5"
+              aria-hidden
+            >
+              <circle cx="18" cy="5" r="3" />
+              <circle cx="6" cy="12" r="3" />
+              <circle cx="18" cy="19" r="3" />
+              <line x1="8.59" y1="13.51" x2="15.42" y2="17.49" />
+              <line x1="15.41" y1="6.51" x2="8.59" y2="10.49" />
+            </svg>
+            Share
           </button>
         </div>
       </div>
