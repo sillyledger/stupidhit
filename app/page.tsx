@@ -40,6 +40,14 @@ export default function Home() {
     setIndex(0);
   }, []);
 
+  const resetHome = useCallback(() => {
+    setCategory("All");
+    setIndex(0);
+    if (window.location.hash) {
+      history.replaceState(null, "", window.location.pathname + window.location.search);
+    }
+  }, []);
+
   const nextHit = useCallback(() => {
     setIndex((i) => (filteredHits.length ? (i + 1) % filteredHits.length : 0));
   }, [filteredHits.length]);
@@ -120,7 +128,7 @@ export default function Home() {
 
   return (
     <div className="mx-auto flex min-h-screen max-w-4xl flex-col px-5">
-      <Header count={filteredHits.length} />
+      <Header count={filteredHits.length} onLogoClick={resetHome} />
       <Hero />
       <CategoryFilters active={category} onChange={handleCategoryChange} />
 
