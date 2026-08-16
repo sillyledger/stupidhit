@@ -1,0 +1,54 @@
+[
+  {
+    "id": "pet-rock",
+    "category": "Toys",
+    "year": "1975",
+    "title": "The Pet Rock",
+    "metric": "$15M",
+    "metricSub": "revenue / 6 mo",
+    "emoji": "🪨",
+    "score": "9.2",
+    "hook": "A pet that can't die, poop, bark, or run away. Gary Dahl boxed up ordinary beach rocks with air holes and straw, wrote a mock training manual, and sold them as pets for $3.95 each.",
+    "spark": "Pitched as a joke at a bar — picked up by national press within weeks.",
+    "votes": { "stupid": 1200, "genius": 4800 }
+  },
+  {
+    "id": "million-dollar-homepage",
+    "category": "Internet Lore",
+    "year": "2005",
+    "title": "Million Dollar Homepage",
+    "metric": "$1M",
+    "metricSub": "raised in pixels",
+    "emoji": "🟨",
+    "score": "8.4",
+    "hook": "A 21-year-old student needed tuition money, so he sold a million pixels on a blank site for $1 each, no design, no product, just a grid people could buy into.",
+    "spark": "Went viral on forums before a single news outlet covered it.",
+    "votes": { "stupid": 2100, "genius": 6900 }
+  },
+  {
+    "id": "friday",
+    "category": "Music",
+    "year": "2011",
+    "title": "Rebecca Black — Friday",
+    "metric": "160M+",
+    "metricSub": "YouTube views",
+    "emoji": "🎤",
+    "score": "9.7",
+    "hook": "A roughly $4,000 vanity music video, paid for by her mom, became one of the most mocked songs on the internet, and the mockery is what made it famous.",
+    "spark": "Ridicule from a single blog post snowballed into global news coverage.",
+    "votes": { "stupid": 8600, "genius": 3100 }
+  },
+  {
+    "id": "airbnb",
+    "category": "Startups",
+    "year": "2007",
+    "title": "AirBed & Breakfast",
+    "metric": "$80B+",
+    "metricSub": "company value",
+    "emoji": "🛏️",
+    "score": "6.1",
+    "hook": "Three broke founders couldn't cover rent during a sold-out design conference, so they threw air mattresses on the floor and charged strangers to sleep there.",
+    "spark": "Rejected by nearly every investor before a Y Combinator batch changed course.",
+    "votes": { "stupid": 4300, "genius": 11200 }
+  }
+]
