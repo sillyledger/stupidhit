@@ -6,6 +6,8 @@ interface PaginationProps {
   onSelect: (index: number) => void;
 }
 
+const MAX_DOTS = 9;
+
 export default function Pagination({
   total,
   index,
@@ -13,6 +15,13 @@ export default function Pagination({
   onNext,
   onSelect,
 }: PaginationProps) {
+  const windowSize = Math.min(MAX_DOTS, total);
+  const start = Math.min(
+    Math.max(index - Math.floor(windowSize / 2), 0),
+    Math.max(total - windowSize, 0)
+  );
+  const visible = Array.from({ length: windowSize }, (_, i) => start + i);
+
   return (
     <div className="mx-auto mt-4 flex max-w-full items-center justify-between gap-4">
       <button
@@ -24,7 +33,7 @@ export default function Pagination({
 
       <div className="flex items-center gap-3">
         <div className="flex items-center gap-1.5">
-          {Array.from({ length: total }).map((_, i) => (
+          {visible.map((i) => (
             <button
               key={i}
               onClick={() => onSelect(i)}

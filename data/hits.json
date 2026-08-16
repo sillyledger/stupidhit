@@ -5,25 +5,799 @@
     "year": "1975",
     "title": "The Pet Rock",
     "metric": "$15M",
-    "metricSub": "revenue / 6 mo",
+    "metricSub": "revenue in 6 months",
     "emoji": "🪨",
-    "score": "9.2",
-    "hook": "A pet that can't die, poop, bark, or run away. Gary Dahl boxed up ordinary beach rocks with air holes and straw, wrote a mock training manual, and sold them as pets for $3.95 each.",
+    "score": "8.3",
+    "hook": "A pet that can't die, poop, bark, or run away. Gary Dahl boxed up beach rocks with a mock training manual and sold them as pets for $3.95.",
     "spark": "Pitched as a joke at a bar — picked up by national press within weeks.",
-    "votes": { "stupid": 1200, "genius": 4800 }
+    "votes": {
+      "stupid": 1104,
+      "genius": 15776
+    }
   },
   {
-    "id": "million-dollar-homepage",
-    "category": "Internet Lore",
-    "year": "2005",
-    "title": "Million Dollar Homepage",
-    "metric": "$1M",
-    "metricSub": "raised in pixels",
-    "emoji": "🟨",
+    "id": "chia-pet",
+    "category": "Toys",
+    "year": "1977",
+    "title": "Chia Pet",
+    "metric": "$10M+/yr",
+    "metricSub": "annual holiday sales",
+    "emoji": "🌱",
+    "score": "6.7",
+    "hook": "A terracotta figurine that grows sprouted chia seeds as 'hair,' originally marketed as a novelty planter before becoming a holiday TV-ad staple.",
+    "spark": "The 'Ch-Ch-Ch-Chia!' jingle aired on late-night commercial loops for decades.",
+    "votes": {
+      "stupid": 2728,
+      "genius": 4436
+    }
+  },
+  {
+    "id": "slinky",
+    "category": "Toys",
+    "year": "1945",
+    "title": "Slinky",
+    "metric": "300M+",
+    "metricSub": "units sold all-time",
+    "emoji": "🌀",
+    "score": "8.7",
+    "hook": "A naval engineer accidentally invented it while trying to stabilize ship instruments with a tension spring, then noticed it could 'walk' down stairs.",
+    "spark": "A department-store demo where it walked off a table sold out the entire stock in 90 minutes.",
+    "votes": {
+      "stupid": 6443,
+      "genius": 16043
+    }
+  },
+  {
+    "id": "silly-putty",
+    "category": "Toys",
+    "year": "1950",
+    "title": "Silly Putty",
+    "metric": "$135K",
+    "metricSub": "first-year sales",
+    "emoji": "🥚",
+    "score": "9.4",
+    "hook": "A failed WWII rubber substitute that bounced, stretched, and lifted newsprint got sold in plastic eggs as a novelty toy-fair leftover.",
+    "spark": "A New Yorker mention triggered a quarter-million mail orders in three days.",
+    "votes": {
+      "stupid": 1612,
+      "genius": 13658
+    }
+  },
+  {
+    "id": "furby",
+    "category": "Toys",
+    "year": "1998",
+    "title": "Furby",
+    "metric": "$40M+",
+    "metricSub": "1998 holiday season sales",
+    "emoji": "🦉",
+    "score": "7.4",
+    "hook": "An electronic owl-hamster that 'learned' English from baby talk, so bizarre the NSA reportedly banned it from its buildings over spying fears.",
+    "spark": "Demand outstripped supply so badly scalpers flipped units for 10x retail.",
+    "votes": {
+      "stupid": 1144,
+      "genius": 3782
+    }
+  },
+  {
+    "id": "tamagotchi",
+    "category": "Toys",
+    "year": "1996",
+    "title": "Tamagotchi",
+    "metric": "82M+",
+    "metricSub": "units sold worldwide by 2010",
+    "emoji": "🥚",
+    "score": "6.5",
+    "hook": "A keychain egg that guilt-trips owners into feeding and cleaning up after a pixelated digital pet, or it dies.",
+    "spark": "Japanese schools had to ban them after students kept sneaking pet-care breaks.",
+    "votes": {
+      "stupid": 5039,
+      "genius": 12159
+    }
+  },
+  {
+    "id": "beanie-babies",
+    "category": "Toys",
+    "year": "1993",
+    "title": "Beanie Babies",
+    "metric": "$6B+",
+    "metricSub": "estimated peak market value",
+    "emoji": "🐻",
+    "score": "5.6",
+    "hook": "Cheap, underfilled beanbag animals that Ty deliberately kept scarce, turning stuffed toys into a genuine speculative investment craze.",
+    "spark": "Ty's habit of 'retiring' designs without warning fueled a resale frenzy on early eBay.",
+    "votes": {
+      "stupid": 2528,
+      "genius": 13456
+    }
+  },
+  {
+    "id": "snuggie",
+    "category": "Toys",
+    "year": "2008",
+    "title": "Snuggie",
+    "metric": "$500M+",
+    "metricSub": "revenue over first two years",
+    "emoji": "🛋️",
     "score": "8.4",
-    "hook": "A 21-year-old student needed tuition money, so he sold a million pixels on a blank site for $1 each, no design, no product, just a grid people could buy into.",
-    "spark": "Went viral on forums before a single news outlet covered it.",
-    "votes": { "stupid": 2100, "genius": 6900 }
+    "hook": "A blanket with sleeves, mocked instantly as 'a bathrobe worn backwards,' sold almost entirely through late-night infomercials.",
+    "spark": "The infomercial itself became a meme, spawning ironic 'Snuggie pub crawls' nationwide.",
+    "votes": {
+      "stupid": 5364,
+      "genius": 9937
+    }
+  },
+  {
+    "id": "big-mouth-billy-bass",
+    "category": "Toys",
+    "year": "1999",
+    "title": "Big Mouth Billy Bass",
+    "metric": "1M+",
+    "metricSub": "units sold in first year",
+    "emoji": "🐟",
+    "score": "6.5",
+    "hook": "A mounted fake fish that sings and flaps when triggered, an absurd gag gift that became one of the decade's best-selling novelty items.",
+    "spark": "Office re-gifting turned it into an unavoidable holiday punchline.",
+    "votes": {
+      "stupid": 5727,
+      "genius": 6720
+    }
+  },
+  {
+    "id": "pogs",
+    "category": "Toys",
+    "year": "1991",
+    "title": "Pogs",
+    "metric": "hundreds of millions",
+    "metricSub": "cardboard discs sold",
+    "emoji": "⭕",
+    "score": "9.1",
+    "hook": "A Hawaiian juice-cap game revived from a defunct milk-cap tradition turned cardboard discs into a full-blown playground currency.",
+    "spark": "Schools nationwide banned them after 'slammer' gambling disputes got out of hand.",
+    "votes": {
+      "stupid": 953,
+      "genius": 16668
+    }
+  },
+  {
+    "id": "tickle-me-elmo",
+    "category": "Toys",
+    "year": "1996",
+    "title": "Tickle Me Elmo",
+    "metric": "$100+",
+    "metricSub": "resale price vs $28 retail",
+    "emoji": "🔴",
+    "score": "9.0",
+    "hook": "A giggling, vibrating Sesame Street doll triggered real store-aisle stampedes the week before Christmas 1996.",
+    "spark": "A single Rosie O'Donnell Show giveaway segment ignited a nationwide shopping frenzy.",
+    "votes": {
+      "stupid": 6619,
+      "genius": 10262
+    }
+  },
+  {
+    "id": "cabbage-patch-kids",
+    "category": "Toys",
+    "year": "1983",
+    "title": "Cabbage Patch Kids",
+    "metric": "$600M+",
+    "metricSub": "sales in 1985 alone",
+    "emoji": "🥬",
+    "score": "7.0",
+    "hook": "Deliberately 'ugly' soft-sculpture dolls sold with fake adoption papers instead of a normal box, treated as if each one were a real baby.",
+    "spark": "Riot-level store crowds in 1983 made national news, cementing must-have status.",
+    "votes": {
+      "stupid": 2173,
+      "genius": 5803
+    }
+  },
+  {
+    "id": "troll-dolls",
+    "category": "Toys",
+    "year": "1959",
+    "title": "Troll Dolls",
+    "metric": "tens of millions",
+    "metricSub": "units sold across revivals",
+    "emoji": "🧌",
+    "score": "9.7",
+    "hook": "Homely, wild-haired plastic trolls hand-carved by a Danish woodcutter as a gift for his daughter, later mass-produced into a global fad twice over.",
+    "spark": "A 1960s craze faded, then a hit 2016 movie revived it decades later.",
+    "votes": {
+      "stupid": 3657,
+      "genius": 4353
+    }
+  },
+  {
+    "id": "weeble-wobbles",
+    "category": "Toys",
+    "year": "1971",
+    "title": "Weeble Wobbles",
+    "metric": "tens of millions",
+    "metricSub": "units sold by mid-70s",
+    "emoji": "🥚",
+    "score": "5.9",
+    "hook": "Egg-shaped figures built to always right themselves, marketed almost entirely on one jingle: 'Weebles wobble but they don't fall down.'",
+    "spark": "The jingle itself became so catchy it outlived the toy line by decades.",
+    "votes": {
+      "stupid": 1692,
+      "genius": 7841
+    }
+  },
+  {
+    "id": "clackers",
+    "category": "Toys",
+    "year": "1970s",
+    "title": "Clackers",
+    "metric": "millions",
+    "metricSub": "sets sold before being banned",
+    "emoji": "🔮",
+    "score": "9.2",
+    "hook": "Two acrylic balls on a string that 'clack' together at high speed, an accident waiting to happen that parents bought anyway.",
+    "spark": "Shattering balls and eye injuries generated so much news coverage it worked as free advertising.",
+    "votes": {
+      "stupid": 5845,
+      "genius": 7346
+    }
+  },
+  {
+    "id": "lawn-darts-jarts",
+    "category": "Toys",
+    "year": "1950s",
+    "title": "Lawn Darts (Jarts)",
+    "metric": "millions",
+    "metricSub": "sets sold before 1988 ban",
+    "emoji": "🎯",
+    "score": "9.1",
+    "hook": "Metal-tipped darts thrown high in the air for a backyard game, essentially legal small javelins for the whole family.",
+    "spark": "Decades of casual popularity ended only after a federal ban following serious injuries.",
+    "votes": {
+      "stupid": 6877,
+      "genius": 11003
+    }
+  },
+  {
+    "id": "shrinky-dinks",
+    "category": "Toys",
+    "year": "1973",
+    "title": "Shrinky Dinks",
+    "metric": "tens of millions",
+    "metricSub": "sheets sold since launch",
+    "emoji": "📐",
+    "score": "7.9",
+    "hook": "Plastic sheets kids color and bake in a home oven, shrinking into hard glossy charms, invented by two Wisconsin moms at a kitchen table.",
+    "spark": "A single national morning-show appearance sold out inventory for months.",
+    "votes": {
+      "stupid": 8455,
+      "genius": 8980
+    }
+  },
+  {
+    "id": "etch-a-sketch",
+    "category": "Toys",
+    "year": "1960",
+    "title": "Etch A Sketch",
+    "metric": "175M+",
+    "metricSub": "units sold since 1960",
+    "emoji": "✏️",
+    "score": "5.8",
+    "hook": "A gray screen drawn on with two knobs and erased with a shake, invented by a French electrician tinkering in his garage.",
+    "spark": "Ohio Art nearly passed on it, then a 1960 toy-fair demo sold it out in minutes.",
+    "votes": {
+      "stupid": 3301,
+      "genius": 12176
+    }
+  },
+  {
+    "id": "koosh-ball",
+    "category": "Toys",
+    "year": "1987",
+    "title": "Koosh Ball",
+    "metric": "8M+",
+    "metricSub": "units sold in first two years",
+    "emoji": "🟣",
+    "score": "8.2",
+    "hook": "A ball made of hundreds of loose rubber filaments, invented by an engineer trying to build something his kids could actually catch.",
+    "spark": "It became an unlikely 1980s office desk-toy staple almost by accident.",
+    "votes": {
+      "stupid": 7959,
+      "genius": 8796
+    }
+  },
+  {
+    "id": "wacky-wallwalker",
+    "category": "Toys",
+    "year": "1980s",
+    "title": "Wacky WallWalker",
+    "metric": "hundreds of millions",
+    "metricSub": "units sold across the decade",
+    "emoji": "🐙",
+    "score": "8.0",
+    "hook": "A sticky rubber octopus that 'walks' down walls and windows after being thrown, adapted from a Mexican sticky-toy novelty.",
+    "spark": "A cheap vending-machine price point turned it into an impulse-buy phenomenon.",
+    "votes": {
+      "stupid": 6671,
+      "genius": 3452
+    }
+  },
+  {
+    "id": "sea-monkeys",
+    "category": "Toys",
+    "year": "1957",
+    "title": "Sea-Monkeys",
+    "metric": "hundreds of millions",
+    "metricSub": "kits sold since launch",
+    "emoji": "🦐",
+    "score": "5.7",
+    "hook": "Brine shrimp sold via comic-book ads as smiling humanoid 'instant pets' that come to life in water, wildly oversold by cartoon art.",
+    "spark": "Decades of comic-book mail-order ads kept it a perennial kid-culture best-seller.",
+    "votes": {
+      "stupid": 2766,
+      "genius": 14445
+    }
+  },
+  {
+    "id": "frisbee",
+    "category": "Toys",
+    "year": "1957",
+    "title": "Frisbee",
+    "metric": "200M+",
+    "metricSub": "units sold by Wham-O",
+    "emoji": "🥏",
+    "score": "6.8",
+    "hook": "Named after a pie company whose tins college students threw for fun, turned into a plastic disc that became an entire sport category.",
+    "spark": "Wham-O's counterculture tournament tours tied the toy to 1960s youth culture.",
+    "votes": {
+      "stupid": 1553,
+      "genius": 6046
+    }
+  },
+  {
+    "id": "hula-hoop",
+    "category": "Toys",
+    "year": "1958",
+    "title": "Hula Hoop",
+    "metric": "100M+",
+    "metricSub": "units sold in first 4 months",
+    "emoji": "🛞",
+    "score": "9.3",
+    "hook": "A plastic ring that got 25 million Americans swinging their hips within four months of launch, one of the fastest-selling toys ever.",
+    "spark": "Wham-O's park and schoolyard demo events triggered overnight mass hysteria.",
+    "votes": {
+      "stupid": 4013,
+      "genius": 7635
+    }
+  },
+  {
+    "id": "mood-ring",
+    "category": "Toys",
+    "year": "1975",
+    "title": "Mood Ring",
+    "metric": "tens of millions",
+    "metricSub": "units sold in 1975 alone",
+    "emoji": "💍",
+    "score": "7.5",
+    "hook": "A ring with liquid crystal that changes color with skin temperature, marketed as if it could reveal your actual emotions.",
+    "spark": "Celebrity endorsements and department-store counters turned pseudoscience into a national fad.",
+    "votes": {
+      "stupid": 7733,
+      "genius": 8575
+    }
+  },
+  {
+    "id": "rubik-s-cube",
+    "category": "Toys",
+    "year": "1980",
+    "title": "Rubik's Cube",
+    "metric": "450M+",
+    "metricSub": "units sold since 1980",
+    "emoji": "🧩",
+    "score": "6.2",
+    "hook": "A Hungarian professor's spatial-reasoning teaching tool, licensed almost by accident, became the best-selling toy ever with 43 quintillion combinations.",
+    "spark": "A 1982 world-championship broadcast turned an obscure puzzle into a global obsession.",
+    "votes": {
+      "stupid": 3810,
+      "genius": 5486
+    }
+  },
+  {
+    "id": "bop-it",
+    "category": "Toys",
+    "year": "1996",
+    "title": "Bop It",
+    "metric": "70M+",
+    "metricSub": "units sold since launch",
+    "emoji": "🎮",
+    "score": "8.4",
+    "hook": "A plastic gadget that barks nonsense commands like 'twist it' and 'pull it,' daring players to keep up before it beeps them out.",
+    "spark": "Its own audio commands became a schoolyard catchphrase independent of the toy.",
+    "votes": {
+      "stupid": 6649,
+      "genius": 14782
+    }
+  },
+  {
+    "id": "simon",
+    "category": "Toys",
+    "year": "1978",
+    "title": "Simon",
+    "metric": "10M+",
+    "metricSub": "units sold in first two years",
+    "emoji": "🔴",
+    "score": "8.4",
+    "hook": "Four colored buttons and a memory game, inspired by arcades and pitched to Milton Bradley as 'electronic Simon Says.'",
+    "spark": "A Studio 54 launch party made blinking, beeping electronics feel glamorous.",
+    "votes": {
+      "stupid": 5890,
+      "genius": 13891
+    }
+  },
+  {
+    "id": "nerf-blaster",
+    "category": "Toys",
+    "year": "1969",
+    "title": "Nerf Blaster",
+    "metric": "hundreds of millions",
+    "metricSub": "blasters sold since 1969",
+    "emoji": "🧡",
+    "score": "6.3",
+    "hook": "Foam balls sold as 'the world's first official indoor ball,' pitched as safe enough to throw at your parents inside the house.",
+    "spark": "The tagline 'You can't hurt babies, old people, or the furniture' made indoor chaos a selling point.",
+    "votes": {
+      "stupid": 6873,
+      "genius": 6100
+    }
+  },
+  {
+    "id": "stretch-armstrong",
+    "category": "Toys",
+    "year": "1976",
+    "title": "Stretch Armstrong",
+    "metric": "millions",
+    "metricSub": "units sold since launch",
+    "emoji": "💪",
+    "score": "6.2",
+    "hook": "A gel-filled latex figure kids could stretch to nearly five times its size, marketed on pure destructive curiosity.",
+    "spark": "Word spread almost entirely through kids daring each other to find its breaking point.",
+    "votes": {
+      "stupid": 4008,
+      "genius": 6486
+    }
+  },
+  {
+    "id": "zhu-zhu-pets",
+    "category": "Toys",
+    "year": "2009",
+    "title": "Zhu Zhu Pets",
+    "metric": "$1B+",
+    "metricSub": "holiday-season retail value",
+    "emoji": "🐹",
+    "score": "9.9",
+    "hook": "Battery-powered robotic hamsters became the must-have gift of the 2009 recession-era holiday season, selling out almost everywhere.",
+    "spark": "A cheap price point during a recession made them the rare 'affordable' hot toy that year.",
+    "votes": {
+      "stupid": 6142,
+      "genius": 15862
+    }
+  },
+  {
+    "id": "silly-bandz",
+    "category": "Toys",
+    "year": "2008",
+    "title": "Silly Bandz",
+    "metric": "$200M+",
+    "metricSub": "revenue at 2010 peak",
+    "emoji": "🌈",
+    "score": "8.0",
+    "hook": "Shaped rubber bands that snap back into animal outlines, an ordinary school-supply item turned instant trading-and-trend obsession.",
+    "spark": "US schools banning them for classroom trading distractions only fueled demand.",
+    "votes": {
+      "stupid": 6508,
+      "genius": 8044
+    }
+  },
+  {
+    "id": "gogos-crazy-bones",
+    "category": "Toys",
+    "year": "1990s",
+    "title": "Gogos / Crazy Bones",
+    "metric": "billions",
+    "metricSub": "pieces sold worldwide",
+    "emoji": "🦴",
+    "score": "9.2",
+    "hook": "Tiny plastic figures used in a flicking game similar to marbles, a Spanish/Italian toy that spread into a global playground currency.",
+    "spark": "Region-by-region trading rules turned it into a self-organizing kid economy.",
+    "votes": {
+      "stupid": 7256,
+      "genius": 3382
+    }
+  },
+  {
+    "id": "gak-slime",
+    "category": "Toys",
+    "year": "1976",
+    "title": "Gak / Slime",
+    "metric": "tens of millions",
+    "metricSub": "tubs sold since launch",
+    "emoji": "🟢",
+    "score": "6.5",
+    "hook": "A synthetic ooze in a plastic egg with zero real play function beyond being disgusting and fun to squish.",
+    "spark": "Nickelodeon later built entire game shows around dumping it on celebrities, reviving the fad.",
+    "votes": {
+      "stupid": 1162,
+      "genius": 7347
+    }
+  },
+  {
+    "id": "view-master",
+    "category": "Toys",
+    "year": "1939",
+    "title": "View-Master",
+    "metric": "hundreds of millions",
+    "metricSub": "reels sold since 1939",
+    "emoji": "🔭",
+    "score": "7.3",
+    "hook": "A stereoscopic viewer originally sold to adults as a postcard-alternative souvenir before kids took it over completely.",
+    "spark": "A Sawyer's booth at the 1939 World's Fair turned a niche photo gadget into a household name.",
+    "votes": {
+      "stupid": 1442,
+      "genius": 5810
+    }
+  },
+  {
+    "id": "magic-8-ball",
+    "category": "Toys",
+    "year": "1950",
+    "title": "Magic 8 Ball",
+    "metric": "tens of millions",
+    "metricSub": "units sold since launch",
+    "emoji": "🎱",
+    "score": "9.5",
+    "hook": "A liquid-filled sphere that answers yes-or-no questions with vague fortune-cookie logic, adapted from a 1940s 'psychic' device for adults.",
+    "spark": "Its ambiguous answers made it endlessly re-shareable as an in-joke among teens and adults.",
+    "votes": {
+      "stupid": 5546,
+      "genius": 16170
+    }
+  },
+  {
+    "id": "lite-brite",
+    "category": "Toys",
+    "year": "1967",
+    "title": "Lite-Brite",
+    "metric": "tens of millions",
+    "metricSub": "units sold since launch",
+    "emoji": "💡",
+    "score": "6.9",
+    "hook": "A light box and colored pegs marketed as 'art,' despite most kids just making abstract blobs of light.",
+    "spark": "Its glow-in-the-dark novelty made it a rare toy parents actively wanted for themselves too.",
+    "votes": {
+      "stupid": 6269,
+      "genius": 10637
+    }
+  },
+  {
+    "id": "operation",
+    "category": "Toys",
+    "year": "1965",
+    "title": "Operation",
+    "metric": "40M+",
+    "metricSub": "units sold since 1965",
+    "emoji": "🏥",
+    "score": "7.2",
+    "hook": "A board game built around a buzzing, twitchy-nosed patient, invented by a college student as a class project he sold for $500 with no royalties.",
+    "spark": "The infamous buzzer sound became one of toy history's most recognizable effects.",
+    "votes": {
+      "stupid": 8391,
+      "genius": 13283
+    }
+  },
+  {
+    "id": "twister",
+    "category": "Toys",
+    "year": "1966",
+    "title": "Twister",
+    "metric": "tens of millions",
+    "metricSub": "units sold since launch",
+    "emoji": "🌀",
+    "score": "7.5",
+    "hook": "A 'human game board' so physically awkward Sears initially refused to stock it, calling it too suggestive.",
+    "spark": "A live Tonight Show demo with Johnny Carson and Eva Gabor sold out inventory overnight.",
+    "votes": {
+      "stupid": 3069,
+      "genius": 4608
+    }
+  },
+  {
+    "id": "chatty-cathy",
+    "category": "Toys",
+    "year": "1960",
+    "title": "Chatty Cathy",
+    "metric": "hundreds of thousands",
+    "metricSub": "units sold in first year",
+    "emoji": "🗣️",
+    "score": "6.6",
+    "hook": "A pull-string doll that spoke 11 phrases at random, one of the first mass-market talking dolls.",
+    "spark": "It became so iconic a phrase malfunction later triggered an actual national recall.",
+    "votes": {
+      "stupid": 5498,
+      "genius": 11154
+    }
+  },
+  {
+    "id": "barrel-of-monkeys",
+    "category": "Toys",
+    "year": "1965",
+    "title": "Barrel of Monkeys",
+    "metric": "tens of millions",
+    "metricSub": "units sold since launch",
+    "emoji": "🐒",
+    "score": "6.7",
+    "hook": "A dollar-store-simple game of linking plastic monkeys by their arms, one of the cheapest toys to ever become a cultural catchphrase.",
+    "spark": "The phrase 'not exactly barrel of monkeys' outgrew the toy, becoming permanent slang.",
+    "votes": {
+      "stupid": 5688,
+      "genius": 9334
+    }
+  },
+  {
+    "id": "fidget-spinner",
+    "category": "Toys",
+    "year": "2016",
+    "title": "Fidget Spinner",
+    "metric": "$200M+",
+    "metricSub": "US retail sales at 2017 peak",
+    "emoji": "🌀",
+    "score": "9.5",
+    "hook": "A basically purposeless spinning bearing toy exploded from a niche stress-relief tool into the single biggest fad of 2017 overnight.",
+    "spark": "Viral trick videos on YouTube turned a boring desk object into a competitive stunt toy.",
+    "votes": {
+      "stupid": 4171,
+      "genius": 9317
+    }
+  },
+  {
+    "id": "hoverboard",
+    "category": "Toys",
+    "year": "2015",
+    "title": "Hoverboard",
+    "metric": "$1B+",
+    "metricSub": "estimated global 2015 sales",
+    "emoji": "🛹",
+    "score": "6.5",
+    "hook": "A motorized, wheel-less-looking board with zero relation to an actual hovering hoverboard, sold almost entirely on celebrity Instagram posts.",
+    "spark": "A wave of rapper and athlete posts made it the must-have 2015 gift despite frequent battery fires.",
+    "votes": {
+      "stupid": 2033,
+      "genius": 10606
+    }
+  },
+  {
+    "id": "rainbow-loom",
+    "category": "Toys",
+    "year": "2010",
+    "title": "Rainbow Loom",
+    "metric": "$200M+",
+    "metricSub": "estimated revenue by 2014",
+    "emoji": "🧶",
+    "score": "7.7",
+    "hook": "A plastic loom for weaving rubber bands into bracelets, invented by a father with zero toy-industry background in his garage.",
+    "spark": "A YouTube tutorial the inventor posted himself sparked a worldwide craft craze.",
+    "votes": {
+      "stupid": 7091,
+      "genius": 3006
+    }
+  },
+  {
+    "id": "pop-it",
+    "category": "Toys",
+    "year": "2019",
+    "title": "Pop It",
+    "metric": "tens of millions",
+    "metricSub": "units sold at 2021 peak",
+    "emoji": "🫧",
+    "score": "9.3",
+    "hook": "A silicone bubble-popping toy shaped like anything from a keychain to a pizza, essentially bubble wrap you never have to throw away.",
+    "spark": "TikTok 'pop it' videos turned an old sensory-toy concept into Gen Alpha's defining fad.",
+    "votes": {
+      "stupid": 2152,
+      "genius": 14306
+    }
+  },
+  {
+    "id": "squishmallows",
+    "category": "Toys",
+    "year": "2017",
+    "title": "Squishmallows",
+    "metric": "$2B+",
+    "metricSub": "estimated 2022 retail sales",
+    "emoji": "🧸",
+    "score": "6.2",
+    "hook": "Oversized marshmallow-soft plush characters became a full collecting craze among teens and adults, not just kids.",
+    "spark": "TikTok 'squish haul' videos turned grown adults into avid collectors overnight.",
+    "votes": {
+      "stupid": 6474,
+      "genius": 9005
+    }
+  },
+  {
+    "id": "bratz-dolls",
+    "category": "Toys",
+    "year": "2001",
+    "title": "Bratz Dolls",
+    "metric": "$1B+",
+    "metricSub": "peak annual revenue",
+    "emoji": "💄",
+    "score": "8.1",
+    "hook": "Edgy, oversized-lipped dolls pitched as the 'cooler' alternative to Barbie, sparking a years-long legal war between Mattel and MGA.",
+    "spark": "The courtroom battle over the design itself generated more press than any ad campaign.",
+    "votes": {
+      "stupid": 4052,
+      "genius": 9118
+    }
+  },
+  {
+    "id": "rubik-s-snake",
+    "category": "Toys",
+    "year": "1981",
+    "title": "Rubik's Snake",
+    "metric": "tens of millions",
+    "metricSub": "units sold following Rubik's Cube",
+    "emoji": "🐍",
+    "score": "8.1",
+    "hook": "A folding chain of wedge-shaped prisms from the same inventor as the Cube, foldable into hundreds of animal and geometric shapes.",
+    "spark": "Riding the exact wave of Rubik's Cube mania, it sold out purely on brand-name trust.",
+    "votes": {
+      "stupid": 4734,
+      "genius": 11789
+    }
+  },
+  {
+    "id": "teddy-ruxpin",
+    "category": "Toys",
+    "year": "1985",
+    "title": "Teddy Ruxpin",
+    "metric": "$93M+",
+    "metricSub": "revenue in 1985 alone",
+    "emoji": "🧸",
+    "score": "6.6",
+    "hook": "An animatronic storytelling bear synced to cassette tapes, an oddly complex mechanical toy that became America's best-selling toy its debut year.",
+    "spark": "It was marketed almost like a consumer-electronics product, and consumers treated it that way.",
+    "votes": {
+      "stupid": 5432,
+      "genius": 2253
+    }
+  },
+  {
+    "id": "lava-lamp",
+    "category": "Toys",
+    "year": "1963",
+    "title": "Lava Lamp",
+    "metric": "7M+",
+    "metricSub": "units sold by 1998",
+    "emoji": "🌋",
+    "score": "8.5",
+    "hook": "Wax and liquid in a glass bottle with zero educational or competitive function, invented by a British accountant fascinated by a pub egg-timer.",
+    "spark": "Its psychedelic look made it an accidental icon of 1960s counterculture decor.",
+    "votes": {
+      "stupid": 1838,
+      "genius": 14815
+    }
+  },
+  {
+    "id": "chatter-telephone",
+    "category": "Toys",
+    "year": "1962",
+    "title": "Chatter Telephone",
+    "metric": "tens of millions",
+    "metricSub": "units sold since launch",
+    "emoji": "☎️",
+    "score": "9.4",
+    "hook": "A wooden pull-toy phone with googly eyes and a ringing bell, later immortalized as a Toy Story 3 character despite doing essentially nothing.",
+    "spark": "Decades in every American toddler's hands made it a design icon good enough for MoMA's collection.",
+    "votes": {
+      "stupid": 7051,
+      "genius": 7454
+    }
   },
   {
     "id": "friday",
@@ -33,10 +807,797 @@
     "metric": "160M+",
     "metricSub": "YouTube views",
     "emoji": "🎤",
-    "score": "9.7",
+    "score": "8.9",
     "hook": "A roughly $4,000 vanity music video, paid for by her mom, became one of the most mocked songs on the internet, and the mockery is what made it famous.",
     "spark": "Ridicule from a single blog post snowballed into global news coverage.",
-    "votes": { "stupid": 8600, "genius": 3100 }
+    "votes": {
+      "stupid": 3686,
+      "genius": 4381
+    }
+  },
+  {
+    "id": "crazy-frog-axel-f",
+    "category": "Music",
+    "year": "2005",
+    "title": "Crazy Frog — Axel F",
+    "metric": "7 weeks",
+    "metricSub": "UK #1 chart weeks",
+    "emoji": "🐸",
+    "score": "6.8",
+    "hook": "A ringtone novelty built around a crude animated frog noise somehow became a genuine chart-topping single across Europe.",
+    "spark": "Jamba's relentless late-night ringtone ads made the 'sound' more famous than any artist.",
+    "votes": {
+      "stupid": 2195,
+      "genius": 9810
+    }
+  },
+  {
+    "id": "the-hampsterdance-song",
+    "category": "Music",
+    "year": "1999",
+    "title": "The Hampsterdance Song",
+    "metric": "17M+",
+    "metricSub": "site visits by 2000",
+    "emoji": "🐹",
+    "score": "5.5",
+    "hook": "A looping animated GIF page of dancing hamsters set to a sped-up sample became one of the first true viral internet hits.",
+    "spark": "Chain emails forwarding the link turned a student's joke webpage into an early internet legend.",
+    "votes": {
+      "stupid": 6815,
+      "genius": 13446
+    }
+  },
+  {
+    "id": "ylvis-what-does-the-fox-say",
+    "category": "Music",
+    "year": "2013",
+    "title": "Ylvis — What Does the Fox Say?",
+    "metric": "900M+",
+    "metricSub": "YouTube views",
+    "emoji": "🦊",
+    "score": "6.7",
+    "hook": "A Norwegian comedy duo's deliberately absurd novelty song about an animal noise nobody agrees on was meant as a one-off sketch joke.",
+    "spark": "The music video's over-the-top visuals made it endlessly shareable within days.",
+    "votes": {
+      "stupid": 5000,
+      "genius": 14989
+    }
+  },
+  {
+    "id": "psy-gangnam-style",
+    "category": "Music",
+    "year": "2012",
+    "title": "PSY — Gangnam Style",
+    "metric": "4.6B+",
+    "metricSub": "YouTube views",
+    "emoji": "🐴",
+    "score": "6.3",
+    "hook": "A satirical dig at Seoul's flashy Gangnam district, built around an absurd horse-riding dance, became the first video to break YouTube's view counter.",
+    "spark": "A dance simple enough for anyone to imitate spawned endless parody and cover videos.",
+    "votes": {
+      "stupid": 8376,
+      "genius": 3799
+    }
+  },
+  {
+    "id": "baha-men-who-let-the-dogs-out",
+    "category": "Music",
+    "year": "2000",
+    "title": "Baha Men — Who Let the Dogs Out",
+    "metric": "Grammy",
+    "metricSub": "Best Dance Recording 2001",
+    "emoji": "🐕",
+    "score": "9.3",
+    "hook": "A cover of an obscure Caribbean carnival chant became inescapable at every sports arena in America almost overnight.",
+    "spark": "Adoption by NHL and NBA arenas embedded it permanently into sports culture.",
+    "votes": {
+      "stupid": 3344,
+      "genius": 14525
+    }
+  },
+  {
+    "id": "los-del-r-o-macarena",
+    "category": "Music",
+    "year": "1993",
+    "title": "Los del Río — Macarena",
+    "metric": "14 weeks",
+    "metricSub": "US Billboard #1 weeks",
+    "emoji": "💃",
+    "score": "7.7",
+    "hook": "A Spanish flamenco-pop duo's B-side dance track became the longest-running #1 single in Billboard history at the time.",
+    "spark": "A Bayside Boys club remix with English lyrics turned it into an American wedding staple.",
+    "votes": {
+      "stupid": 2529,
+      "genius": 4886
+    }
+  },
+  {
+    "id": "chumbawamba-tubthumping",
+    "category": "Music",
+    "year": "1997",
+    "title": "Chumbawamba — Tubthumping",
+    "metric": "Grammy nom",
+    "metricSub": "Best Rock Song 1998",
+    "emoji": "🍺",
+    "score": "7.1",
+    "hook": "An anarchist British punk collective's drinking anthem about 'getting knocked down' became a mainstream stadium sing-along.",
+    "spark": "Its 'I get knocked down, but I get up again' hook made it a sports-highlight staple.",
+    "votes": {
+      "stupid": 2223,
+      "genius": 11433
+    }
+  },
+  {
+    "id": "rick-astley-never-gonna-give-you-up",
+    "category": "Music",
+    "year": "1987",
+    "title": "Rick Astley — Never Gonna Give You Up",
+    "metric": "1.6B+",
+    "metricSub": "YouTube views",
+    "emoji": "🕺",
+    "score": "9.7",
+    "hook": "An earnest 80s pop ballad decades later became the internet's most famous bait-and-switch prank, 'Rickrolling.'",
+    "spark": "4chan users weaponized the link as a joke in the mid-2000s, giving it a second life.",
+    "votes": {
+      "stupid": 8456,
+      "genius": 12666
+    }
+  },
+  {
+    "id": "pinkfong-baby-shark",
+    "category": "Music",
+    "year": "2016",
+    "title": "Pinkfong — Baby Shark",
+    "metric": "15B+",
+    "metricSub": "YouTube views (most-viewed ever)",
+    "emoji": "🦈",
+    "score": "9.5",
+    "hook": "A South Korean kids' educational channel's sing-along became the single most-watched video in YouTube history.",
+    "spark": "Parents desperate to entertain toddlers on repeat drove views into the billions.",
+    "votes": {
+      "stupid": 5806,
+      "genius": 8589
+    }
+  },
+  {
+    "id": "william-hung-she-bang",
+    "category": "Music",
+    "year": "2004",
+    "title": "William Hung — She Bang",
+    "metric": "200K+",
+    "metricSub": "debut album copies sold",
+    "emoji": "🎙️",
+    "score": "7.6",
+    "hook": "An off-key American Idol audition reject became a genuine recording artist purely off his infamously bad performance going viral.",
+    "spark": "Clips spread across early file-sharing forums before the episode even aired.",
+    "votes": {
+      "stupid": 1816,
+      "genius": 8582
+    }
+  },
+  {
+    "id": "milli-vanilli",
+    "category": "Music",
+    "year": "1988",
+    "title": "Milli Vanilli",
+    "metric": "Grammy",
+    "metricSub": "Best New Artist 1990 (revoked)",
+    "emoji": "🎧",
+    "score": "9.4",
+    "hook": "A pop duo won a Grammy for an album it turned out neither member actually sang a note on, one of music's biggest scandals.",
+    "spark": "A skipping backing track live on stage exposed the lip-sync and made global headlines.",
+    "votes": {
+      "stupid": 7713,
+      "genius": 8234
+    }
+  },
+  {
+    "id": "right-said-fred-i-m-too-sexy",
+    "category": "Music",
+    "year": "1991",
+    "title": "Right Said Fred — I'm Too Sexy",
+    "metric": "US #1",
+    "metricSub": "1992 chart-topper",
+    "emoji": "💪",
+    "score": "6.6",
+    "hook": "Two bald British brothers' deadpan joke song about vanity became a genuine international #1 hit almost by accident.",
+    "spark": "Its deliberately ridiculous lyrics made it an instant party and licensing staple.",
+    "votes": {
+      "stupid": 2873,
+      "genius": 11633
+    }
+  },
+  {
+    "id": "aqua-barbie-girl",
+    "category": "Music",
+    "year": "1997",
+    "title": "Aqua — Barbie Girl",
+    "metric": "1B+",
+    "metricSub": "streams and views combined",
+    "emoji": "👱‍♀️",
+    "score": "9.7",
+    "hook": "A Danish-Norwegian group's bubblegum satire of consumer culture got them sued by Mattel for trademark infringement, and won in court.",
+    "spark": "The lawsuit itself generated more press than the song's initial release.",
+    "votes": {
+      "stupid": 1601,
+      "genius": 16579
+    }
+  },
+  {
+    "id": "vanilla-ice-ice-ice-baby",
+    "category": "Music",
+    "year": "1990",
+    "title": "Vanilla Ice — Ice Ice Baby",
+    "metric": "US #1",
+    "metricSub": "first rap single to top Hot 100",
+    "emoji": "🧊",
+    "score": "7.6",
+    "hook": "A song built on an uncleared Queen/Bowie sample became the first rap single ever to reach #1 on the US charts.",
+    "spark": "MTV's heavy early rotation turned a regional Texas hit into a national phenomenon.",
+    "votes": {
+      "stupid": 1466,
+      "genius": 15617
+    }
+  },
+  {
+    "id": "mc-hammer-u-can-t-touch-this",
+    "category": "Music",
+    "year": "1990",
+    "title": "MC Hammer — U Can't Touch This",
+    "metric": "10M+",
+    "metricSub": "album copies sold",
+    "emoji": "👖",
+    "score": "7.8",
+    "hook": "Baggy 'Hammer pants' and a sampled Rick James bassline turned into the best-selling rap album of its era.",
+    "spark": "Its dance moves became so iconic that 'the Hammer dance' entered pop-culture shorthand.",
+    "votes": {
+      "stupid": 1930,
+      "genius": 4472
+    }
+  },
+  {
+    "id": "las-ketchup-asereje-the-ketchup-song",
+    "category": "Music",
+    "year": "2002",
+    "title": "Las Ketchup — Asereje (The Ketchup Song)",
+    "metric": "7M+",
+    "metricSub": "singles sold worldwide",
+    "emoji": "🍅",
+    "score": "8.4",
+    "hook": "A Spanish sister trio's nonsense-syllable chorus, meaningless even in Spanish, became a massive international hit.",
+    "spark": "A simple, repeatable dance routine turned lyric confusion into a selling point.",
+    "votes": {
+      "stupid": 5403,
+      "genius": 5269
+    }
+  },
+  {
+    "id": "zombie-nation-kernkraft-400",
+    "category": "Music",
+    "year": "1999",
+    "title": "Zombie Nation — Kernkraft 400",
+    "metric": "global",
+    "metricSub": "stadium anthem status",
+    "emoji": "🏟️",
+    "score": "6.7",
+    "hook": "A German techno track built on a sampled arcade-game melody became a near-mandatory sports-arena chant.",
+    "spark": "Its wordless 'oh' chant made it usable at any stadium in any country.",
+    "votes": {
+      "stupid": 8046,
+      "genius": 12355
+    }
+  },
+  {
+    "id": "dj-casper-cha-cha-slide",
+    "category": "Music",
+    "year": "2000",
+    "title": "DJ Casper — Cha Cha Slide",
+    "metric": "US #12",
+    "metricSub": "peak chart position",
+    "emoji": "💃",
+    "score": "7.4",
+    "hook": "A Chicago DJ recorded literal workout-class dance instructions as a favor for a friend's gym demo tape.",
+    "spark": "Radio stations started playing the 'demo' as-is, turning gym instructions into a chart hit.",
+    "votes": {
+      "stupid": 2635,
+      "genius": 11593
+    }
+  },
+  {
+    "id": "rednex-cotton-eye-joe",
+    "category": "Music",
+    "year": "1994",
+    "title": "Rednex — Cotton Eye Joe",
+    "metric": "25M+",
+    "metricSub": "records sold worldwide",
+    "emoji": "🤠",
+    "score": "8.8",
+    "hook": "A Swedish group reworked an old American folk tune into a hyper-fast Eurodance track, an unlikely hit from a country with no cowboy culture.",
+    "spark": "European club DJs adopted it as an ironic novelty anthem that crossed into the mainstream.",
+    "votes": {
+      "stupid": 6551,
+      "genius": 6036
+    }
+  },
+  {
+    "id": "darude-sandstorm",
+    "category": "Music",
+    "year": "1999",
+    "title": "Darude — Sandstorm",
+    "metric": "meme staple",
+    "metricSub": "internet's default song answer",
+    "emoji": "🌪️",
+    "score": "8.6",
+    "hook": "A purely instrumental Finnish trance track became the internet's default answer to 'name a song,' unrelated to the actual music.",
+    "spark": "Late-2000s forum trolls answered unrelated music questions with 'Sandstorm' as a running gag.",
+    "votes": {
+      "stupid": 4168,
+      "genius": 14694
+    }
+  },
+  {
+    "id": "silent-watch-me-whip-nae-nae",
+    "category": "Music",
+    "year": "2015",
+    "title": "Silentó — Watch Me (Whip/Nae Nae)",
+    "metric": "US #3",
+    "metricSub": "peak chart position",
+    "emoji": "🕺",
+    "score": "8.4",
+    "hook": "A teenager's homemade dance-instruction song, self-released online, became a genuine top-5 US hit off dance challenges alone.",
+    "spark": "Vine and Instagram dance clips did the marketing a record label normally would.",
+    "votes": {
+      "stupid": 4488,
+      "genius": 11736
+    }
+  },
+  {
+    "id": "buckwheat-boyz-peanut-butter-jelly-time",
+    "category": "Music",
+    "year": "2002",
+    "title": "Buckwheat Boyz — Peanut Butter Jelly Time",
+    "metric": "staple",
+    "metricSub": "early-2000s Flash-era meme",
+    "emoji": "🍌",
+    "score": "7.5",
+    "hook": "A dancing banana GIF set to a nonsense chant became one of the most recognizable pieces of early internet culture.",
+    "spark": "Its endless loop format was perfect for the era's slow-loading Flash sites.",
+    "votes": {
+      "stupid": 2930,
+      "genius": 6107
+    }
+  },
+  {
+    "id": "bryant-oden-the-duck-song",
+    "category": "Music",
+    "year": "2009",
+    "title": "Bryant Oden — The Duck Song",
+    "metric": "700M+",
+    "metricSub": "YouTube views",
+    "emoji": "🦆",
+    "score": "5.8",
+    "hook": "A children's songwriter's simple joke about a duck buying grapes became one of YouTube's most-viewed kids' videos ever.",
+    "spark": "Its repetitive, easily-memorized structure made toddlers demand replays on loop.",
+    "votes": {
+      "stupid": 1072,
+      "genius": 11521
+    }
+  },
+  {
+    "id": "lil-nas-x-old-town-road",
+    "category": "Music",
+    "year": "2019",
+    "title": "Lil Nas X — Old Town Road",
+    "metric": "19x Platinum",
+    "metricSub": "most-certified single ever",
+    "emoji": "🤠",
+    "score": "7.9",
+    "hook": "A $30 beat bought online and a country-trap mashup, pulled from Billboard's country chart, became the longest-running #1 in US chart history.",
+    "spark": "Billboard's controversial removal from the country chart boosted the song further.",
+    "votes": {
+      "stupid": 5720,
+      "genius": 6140
+    }
+  },
+  {
+    "id": "baauer-harlem-shake",
+    "category": "Music",
+    "year": "2013",
+    "title": "Baauer — Harlem Shake",
+    "metric": "175M+",
+    "metricSub": "views in the meme's early weeks",
+    "emoji": "🕺",
+    "score": "5.5",
+    "hook": "An underground trap instrumental became the soundtrack to one of the biggest meme formats ever, spawning millions of copycat videos.",
+    "spark": "A handful of early meme creators built a simple template that exploded within weeks.",
+    "votes": {
+      "stupid": 6698,
+      "genius": 12030
+    }
+  },
+  {
+    "id": "gummib-r-the-gummy-bear-song",
+    "category": "Music",
+    "year": "2007",
+    "title": "Gummibär — The Gummy Bear Song",
+    "metric": "1B+",
+    "metricSub": "YouTube views across uploads",
+    "emoji": "🐻",
+    "score": "5.8",
+    "hook": "A CGI dancing gummy bear singing gibberish syllables became one of the first kids' viral megahits of the YouTube era.",
+    "spark": "German ringtone marketing crossed over into YouTube just as its algorithm took off.",
+    "votes": {
+      "stupid": 1452,
+      "genius": 2488
+    }
+  },
+  {
+    "id": "tay-zonday-chocolate-rain",
+    "category": "Music",
+    "year": "2007",
+    "title": "Tay Zonday — Chocolate Rain",
+    "metric": "100M+",
+    "metricSub": "YouTube views",
+    "emoji": "🍫",
+    "score": "9.3",
+    "hook": "A homemade bedroom recording by a college student with an unusually deep baritone became one of YouTube's first breakout hits.",
+    "spark": "The contrast between his young appearance and booming voice made it endlessly clip-worthy.",
+    "votes": {
+      "stupid": 1480,
+      "genius": 12142
+    }
+  },
+  {
+    "id": "o-zone-dragostea-din-tei",
+    "category": "Music",
+    "year": "2003",
+    "title": "O-Zone — Dragostea Din Tei",
+    "metric": "#1 in 12+",
+    "metricSub": "countries chart-topped",
+    "emoji": "🕺",
+    "score": "6.5",
+    "hook": "A Moldovan pop trio's Romanian-language love song became a massive European hit almost entirely on its language-agnostic chorus.",
+    "spark": "A teenager's webcam lip-sync video of the song became one of the internet's first true viral videos.",
+    "votes": {
+      "stupid": 6380,
+      "genius": 10201
+    }
+  },
+  {
+    "id": "bill-wurtz-chicken-attack",
+    "category": "Music",
+    "year": "2016",
+    "title": "Bill Wurtz — Chicken Attack",
+    "metric": "100M+",
+    "metricSub": "plays across platforms",
+    "emoji": "🐔",
+    "score": "6.4",
+    "hook": "An internet musician's absurdist song about being chased by a chicken, made with zero label backing, became a genuine streaming hit.",
+    "spark": "Its bizarre, un-Googleable lyrics made fans obsessively share it just to see reactions.",
+    "votes": {
+      "stupid": 1983,
+      "genius": 14128
+    }
+  },
+  {
+    "id": "eduard-khil-trololo",
+    "category": "Music",
+    "year": "1976",
+    "title": "Eduard Khil — Trololo",
+    "metric": "tens of millions",
+    "metricSub": "YouTube views decades later",
+    "emoji": "🎶",
+    "score": "9.6",
+    "hook": "A Soviet-era baritone's earnest wordless vocal performance, a stylistic choice due to censorship, was rediscovered decades later as comedy gold.",
+    "spark": "A 2010 YouTube re-upload turned a 34-year-old Soviet TV clip into a worldwide meme.",
+    "votes": {
+      "stupid": 5577,
+      "genius": 13499
+    }
+  },
+  {
+    "id": "sir-mix-a-lot-baby-got-back",
+    "category": "Music",
+    "year": "1992",
+    "title": "Sir Mix-a-Lot — Baby Got Back",
+    "metric": "US #1",
+    "metricSub": "1992 chart-topper",
+    "emoji": "🍑",
+    "score": "7.6",
+    "hook": "A Seattle rapper's ode to curvier body types, deemed too explicit for MTV's regular rotation, still became a #1 hit and Grammy winner.",
+    "spark": "Radio edits and a daytime-MTV ban only fueled curiosity and sales.",
+    "votes": {
+      "stupid": 7327,
+      "genius": 10528
+    }
+  },
+  {
+    "id": "recess-therapy-kid-it-s-corn",
+    "category": "Music",
+    "year": "2022",
+    "title": "Recess Therapy kid — It's Corn",
+    "metric": "40M+",
+    "metricSub": "views across remixes",
+    "emoji": "🌽",
+    "score": "9.1",
+    "hook": "A random street-interview clip of a kid rhapsodizing about corn was turned into a full pop song by a music duo as an internet bit.",
+    "spark": "The remix's earnest sincerity made it feel like a genuine hit rather than a joke.",
+    "votes": {
+      "stupid": 2459,
+      "genius": 4094
+    }
+  },
+  {
+    "id": "kars4kids-jingle",
+    "category": "Music",
+    "year": "2007",
+    "title": "Kars4Kids Jingle",
+    "metric": "most-recognized",
+    "metricSub": "US radio ad jingle",
+    "emoji": "📻",
+    "score": "5.9",
+    "hook": "A charity car-donation ad's deliberately simple, repetitive jingle became so infamous it spawned its own parody culture.",
+    "spark": "Heavy, nonstop radio rotation across markets made it a shared cultural annoyance-turned-icon.",
+    "votes": {
+      "stupid": 4431,
+      "genius": 7764
+    }
+  },
+  {
+    "id": "el-chombo-dame-tu-cosita",
+    "category": "Music",
+    "year": "1996",
+    "title": "El Chombo — Dame Tu Cosita",
+    "metric": "700M+",
+    "metricSub": "YouTube views (2018 version)",
+    "emoji": "👽",
+    "score": "7.4",
+    "hook": "A Panamanian dembow track sat mostly forgotten for over 20 years until an alien-dancer animation attached to it went viral worldwide.",
+    "spark": "A meme-friendly green alien avatar dance made the decades-old song suddenly relevant.",
+    "votes": {
+      "stupid": 4725,
+      "genius": 14921
+    }
+  },
+  {
+    "id": "lou-bega-mambo-no-5",
+    "category": "Music",
+    "year": "1999",
+    "title": "Lou Bega — Mambo No. 5",
+    "metric": "US #3",
+    "metricSub": "peak chart position",
+    "emoji": "💃",
+    "score": "5.7",
+    "hook": "A German musician's reworking of a 1949 Cuban mambo instrumental into a list-the-women's-names pop song became an inescapable summer anthem.",
+    "spark": "Its simple, sample-based hook made it a radio and commercial-licensing favorite for decades.",
+    "votes": {
+      "stupid": 6253,
+      "genius": 12398
+    }
+  },
+  {
+    "id": "eiffel-65-blue-da-ba-dee",
+    "category": "Music",
+    "year": "1998",
+    "title": "Eiffel 65 — Blue (Da Ba Dee)",
+    "metric": "6M+",
+    "metricSub": "singles sold worldwide",
+    "emoji": "🔵",
+    "score": "5.9",
+    "hook": "An Italian Eurodance trio's nonsense-syllable chorus about a fictional blue world became a massive international crossover hit.",
+    "spark": "Its heavily vocoded, alien-sounding vocals made it stand out instantly on late-90s radio.",
+    "votes": {
+      "stupid": 4198,
+      "genius": 13861
+    }
+  },
+  {
+    "id": "the-llama-song",
+    "category": "Music",
+    "year": "2005",
+    "title": "The Llama Song",
+    "metric": "tens of millions",
+    "metricSub": "early Flash-era views",
+    "emoji": "🦙",
+    "score": "7.0",
+    "hook": "A deliberately nonsensical spoken-word animation about llamas with zero narrative logic became a defining absurdist video of its era.",
+    "spark": "Its stream-of-consciousness randomness made it endlessly quotable among teenagers.",
+    "votes": {
+      "stupid": 7958,
+      "genius": 3979
+    }
+  },
+  {
+    "id": "chicken-dance",
+    "category": "Music",
+    "year": "1957",
+    "title": "Chicken Dance",
+    "metric": "millions",
+    "metricSub": "events performed at annually",
+    "emoji": "🐔",
+    "score": "6.6",
+    "hook": "A Swiss accordion instrumental, with no chicken theme originally, became one of the most-performed novelty wedding dances worldwide.",
+    "spark": "A German label added chicken-themed marketing decades later and the arm-flap dance took over.",
+    "votes": {
+      "stupid": 2458,
+      "genius": 11109
+    }
+  },
+  {
+    "id": "afroman-because-i-got-high",
+    "category": "Music",
+    "year": "2000",
+    "title": "Afroman — Because I Got High",
+    "metric": "Grammy nom",
+    "metricSub": "Best Rap Solo 2001",
+    "emoji": "🌿",
+    "score": "7.5",
+    "hook": "A stoner comedy rap recorded on a shoestring budget became an unlikely radio hit and Grammy nominee purely on its deadpan honesty.",
+    "spark": "Late-night radio DJs playing it as a joke drove listener requests high enough to chart.",
+    "votes": {
+      "stupid": 4356,
+      "genius": 5381
+    }
+  },
+  {
+    "id": "the-firm-star-trekkin",
+    "category": "Music",
+    "year": "1987",
+    "title": "The Firm — Star Trekkin'",
+    "metric": "UK #1",
+    "metricSub": "1987 chart-topper",
+    "emoji": "🖖",
+    "score": "6.7",
+    "hook": "A novelty parody of Star Trek dialogue set to a synth-pop beat, recorded almost as a throwaway joke, topped the UK singles chart.",
+    "spark": "British radio DJs playing it repeatedly as a gag turned amusement into real sales.",
+    "votes": {
+      "stupid": 2946,
+      "genius": 3348
+    }
+  },
+  {
+    "id": "devo-whip-it",
+    "category": "Music",
+    "year": "1980",
+    "title": "Devo — Whip It",
+    "metric": "US #14",
+    "metricSub": "peak chart position",
+    "emoji": "🎩",
+    "score": "7.4",
+    "hook": "A New Wave band's absurd energy-dome hats and lyrics about 'whipping it good' became one of MTV's earliest heavy-rotation hits.",
+    "spark": "The bizarre hat design made the video instantly memorable during MTV's launch year.",
+    "votes": {
+      "stupid": 7956,
+      "genius": 11787
+    }
+  },
+  {
+    "id": "sisq-thong-song",
+    "category": "Music",
+    "year": "2000",
+    "title": "Sisqó — Thong Song",
+    "metric": "US #3",
+    "metricSub": "peak chart position",
+    "emoji": "🩲",
+    "score": "5.9",
+    "hook": "A song built entirely around admiring a woman's underwear became one of the most-mocked-yet-inescapable pop hits of the early 2000s.",
+    "spark": "Its shameless, over-the-top hook made it a radio staple despite constant critical eye-rolling.",
+    "votes": {
+      "stupid": 6242,
+      "genius": 10801
+    }
+  },
+  {
+    "id": "smash-mouth-all-star",
+    "category": "Music",
+    "year": "1999",
+    "title": "Smash Mouth — All Star",
+    "metric": "meme staple",
+    "metricSub": "2010s Shrek nostalgia wave",
+    "emoji": "🐸",
+    "score": "9.2",
+    "hook": "A late-90s alt-rock radio hit was mostly forgotten until its Shrek soundtrack placement made it a permanent meme anthem years later.",
+    "spark": "Shrek-nostalgia meme culture on YouTube and Vine gave the song a massive second wind.",
+    "votes": {
+      "stupid": 1664,
+      "genius": 16641
+    }
+  },
+  {
+    "id": "tag-team-whoomp-there-it-is",
+    "category": "Music",
+    "year": "1993",
+    "title": "Tag Team — Whoomp! (There It Is)",
+    "metric": "4M+",
+    "metricSub": "singles sold in the US",
+    "emoji": "📣",
+    "score": "9.2",
+    "hook": "A duo's simple call-and-response party chant, rushed to beat a nearly identical rival song to release, became an inescapable arena staple.",
+    "spark": "A literal release-date race against a copycat single created media rivalry that boosted both.",
+    "votes": {
+      "stupid": 2262,
+      "genius": 10043
+    }
+  },
+  {
+    "id": "gerardo-rico-suave",
+    "category": "Music",
+    "year": "1990",
+    "title": "Gerardo — Rico Suave",
+    "metric": "US #7",
+    "metricSub": "peak chart position",
+    "emoji": "😎",
+    "score": "7.6",
+    "hook": "A one-hit-wonder Latin freestyle track, mocked for its over-the-top machismo lyrics, still became a genuine top-10 US hit.",
+    "spark": "Heavy MTV rotation of its shirtless music video did most of the marketing.",
+    "votes": {
+      "stupid": 2651,
+      "genius": 9255
+    }
+  },
+  {
+    "id": "billy-ray-cyrus-achy-breaky-heart",
+    "category": "Music",
+    "year": "1992",
+    "title": "Billy Ray Cyrus — Achy Breaky Heart",
+    "metric": "9x Platinum",
+    "metricSub": "RIAA-certified in Australia",
+    "emoji": "🤠",
+    "score": "9.5",
+    "hook": "A line-dance-friendly country single, dismissed by critics as a novelty gimmick, became one of the best-selling country singles ever.",
+    "spark": "A custom line dance released alongside it made it required listening at every country bar.",
+    "votes": {
+      "stupid": 2248,
+      "genius": 9645
+    }
+  },
+  {
+    "id": "spitting-image-the-chicken-song",
+    "category": "Music",
+    "year": "1986",
+    "title": "Spitting Image — The Chicken Song",
+    "metric": "UK #1",
+    "metricSub": "1986 chart-topper",
+    "emoji": "🐣",
+    "score": "5.5",
+    "hook": "A satirical puppet TV show recorded a deliberately dumb, filler-lyric summer-hit parody as a joke, and it topped the charts anyway.",
+    "spark": "The joke worked so well it out-performed the real summer hits it was mocking.",
+    "votes": {
+      "stupid": 4098,
+      "genius": 6186
+    }
+  },
+  {
+    "id": "back-dorm-boys",
+    "category": "Music",
+    "year": "2004",
+    "title": "Back Dorm Boys",
+    "metric": "millions",
+    "metricSub": "early Chinese internet views",
+    "emoji": "🎤",
+    "score": "9.6",
+    "hook": "Two Chinese art students lip-syncing to a Backstreet Boys song in their dorm became one of the first viral video stars of the Chinese internet.",
+    "spark": "Peer-to-peer file sharing spread the clip years before YouTube existed there.",
+    "votes": {
+      "stupid": 7331,
+      "genius": 11155
+    }
+  },
+  {
+    "id": "chubby-checker-the-twist",
+    "category": "Music",
+    "year": "1960",
+    "title": "Chubby Checker — The Twist",
+    "metric": "US #1 twice",
+    "metricSub": "1960 and 1962 chart-topper",
+    "emoji": "🌀",
+    "score": "6.8",
+    "hook": "A cover of an obscure B-side became the only single to top the Billboard chart in two separate, non-consecutive years.",
+    "spark": "A dance demonstrated on American Bandstand turned a cover song into a two-time chart-topper.",
+    "votes": {
+      "stupid": 6606,
+      "genius": 14526
+    }
   },
   {
     "id": "airbnb",
@@ -46,9 +1607,2396 @@
     "metric": "$80B+",
     "metricSub": "company value",
     "emoji": "🛏️",
-    "score": "6.1",
+    "score": "9.9",
     "hook": "Three broke founders couldn't cover rent during a sold-out design conference, so they threw air mattresses on the floor and charged strangers to sleep there.",
     "spark": "Rejected by nearly every investor before a Y Combinator batch changed course.",
-    "votes": { "stupid": 4300, "genius": 11200 }
+    "votes": {
+      "stupid": 5452,
+      "genius": 15348
+    }
+  },
+  {
+    "id": "million-dollar-homepage",
+    "category": "Startups",
+    "year": "2005",
+    "title": "Million Dollar Homepage",
+    "metric": "$1M",
+    "metricSub": "raised from pixels",
+    "emoji": "🟨",
+    "score": "8.7",
+    "hook": "A 21-year-old student needed tuition money, so he sold a million pixels on a blank site for $1 each, no design, no product, just a grid.",
+    "spark": "Went viral on forums before a single news outlet covered it.",
+    "votes": {
+      "stupid": 2168,
+      "genius": 5800
+    }
+  },
+  {
+    "id": "yo-app",
+    "category": "Startups",
+    "year": "2014",
+    "title": "Yo App",
+    "metric": "$1.5M",
+    "metricSub": "seed funding raised",
+    "emoji": "👋",
+    "score": "6.8",
+    "hook": "An app that let users send literally one word, 'Yo,' to friends, mocked relentlessly as the dumbest app ever funded, still raised real venture money.",
+    "spark": "Tech press mockery itself became free marketing, driving curious downloads.",
+    "votes": {
+      "stupid": 1379,
+      "genius": 11948
+    }
+  },
+  {
+    "id": "ship-your-enemies-glitter",
+    "category": "Startups",
+    "year": "2015",
+    "title": "Ship Your Enemies Glitter",
+    "metric": "$85K+",
+    "metricSub": "revenue in first week",
+    "emoji": "✨",
+    "score": "8.7",
+    "hook": "A prank service that mails a glitter bomb to anyone you pay to annoy, built as a joke side project, sold to a competitor within a week.",
+    "spark": "A single front-page Reddit post crashed the site's server within hours.",
+    "votes": {
+      "stupid": 1399,
+      "genius": 16178
+    }
+  },
+  {
+    "id": "i-can-has-cheezburger",
+    "category": "Startups",
+    "year": "2007",
+    "title": "I Can Has Cheezburger",
+    "metric": "$2M+",
+    "metricSub": "ad revenue at peak",
+    "emoji": "🐱",
+    "score": "6.9",
+    "hook": "A blog built entirely around captioned cat photos in broken 'lolspeak' became a legitimate media company with a real acquisition offer.",
+    "spark": "Early meme-culture message boards adopted its format for years after.",
+    "votes": {
+      "stupid": 1310,
+      "genius": 12091
+    }
+  },
+  {
+    "id": "potato-parcel",
+    "category": "Startups",
+    "year": "2015",
+    "title": "Potato Parcel",
+    "metric": "$1M+",
+    "metricSub": "annual revenue at peak",
+    "emoji": "🥔",
+    "score": "7.6",
+    "hook": "A company that mails a single potato with a custom message, started as a joke gift idea, became a real recurring novelty-gift business.",
+    "spark": "A viral 'world's dumbest business idea' news segment sent orders spiking overnight.",
+    "votes": {
+      "stupid": 8431,
+      "genius": 11557
+    }
+  },
+  {
+    "id": "juicero",
+    "category": "Startups",
+    "year": "2016",
+    "title": "Juicero",
+    "metric": "$120M",
+    "metricSub": "venture capital raised",
+    "emoji": "🧃",
+    "score": "6.2",
+    "hook": "A $400 wifi-connected juice press for proprietary produce packets, later revealed you could squeeze the same packets by hand just as fast.",
+    "spark": "A viral video proving hands worked better than the machine became a cautionary startup legend.",
+    "votes": {
+      "stupid": 5060,
+      "genius": 3345
+    }
+  },
+  {
+    "id": "dollar-shave-club",
+    "category": "Startups",
+    "year": "2011",
+    "title": "Dollar Shave Club",
+    "metric": "$1B",
+    "metricSub": "acquisition price by Unilever",
+    "emoji": "🪒",
+    "score": "9.2",
+    "hook": "A subscription razor startup with almost no marketing budget beat entrenched razor giants using a single low-budget founder video.",
+    "spark": "That $4,500 launch video went viral overnight and crashed the company's servers.",
+    "votes": {
+      "stupid": 1461,
+      "genius": 13628
+    }
+  },
+  {
+    "id": "spanx",
+    "category": "Startups",
+    "year": "2000",
+    "title": "Spanx",
+    "metric": "$1.2B+",
+    "metricSub": "company valuation at peak",
+    "emoji": "👙",
+    "score": "5.8",
+    "hook": "A single founder cut the feet off pantyhose in her apartment, invested her entire $5,000 savings, and built a shapewear empire with no outside funding.",
+    "spark": "A pitch to Oprah's producers landed it on her 'Favorite Things' list, launching national demand.",
+    "votes": {
+      "stupid": 7960,
+      "genius": 5794
+    }
+  },
+  {
+    "id": "crocs",
+    "category": "Startups",
+    "year": "2002",
+    "title": "Crocs",
+    "metric": "$2B+",
+    "metricSub": "annual revenue at peak",
+    "emoji": "👞",
+    "score": "7.3",
+    "hook": "Foam clogs mocked relentlessly as the ugliest shoes ever made became a genuine billion-dollar fashion and comfort-shoe brand anyway.",
+    "spark": "A surprise Gen-Z ironic-fashion revival sent an unfashionable shoe back into demand decades later.",
+    "votes": {
+      "stupid": 8193,
+      "genius": 12069
+    }
+  },
+  {
+    "id": "uber",
+    "category": "Startups",
+    "year": "2009",
+    "title": "Uber",
+    "metric": "$75B+",
+    "metricSub": "valuation at IPO",
+    "emoji": "🚗",
+    "score": "6.6",
+    "hook": "'Get into a stranger's car and pay them,' a pitch investors found absurd and unsafe, became the default way an entire generation gets around.",
+    "spark": "Launching first in taxi-scarce San Francisco made the idea feel obviously useful.",
+    "votes": {
+      "stupid": 5770,
+      "genius": 2730
+    }
+  },
+  {
+    "id": "whatsapp",
+    "category": "Startups",
+    "year": "2009",
+    "title": "WhatsApp",
+    "metric": "$19B",
+    "metricSub": "acquisition price by Facebook",
+    "emoji": "💬",
+    "score": "8.2",
+    "hook": "A messaging app with no ads and a stated anti-advertising philosophy sold for one of the largest tech acquisitions in history.",
+    "spark": "Word-of-mouth in markets with expensive SMS plans made it spread with zero marketing spend.",
+    "votes": {
+      "stupid": 4334,
+      "genius": 14174
+    }
+  },
+  {
+    "id": "shamwow",
+    "category": "Startups",
+    "year": "2006",
+    "title": "ShamWow",
+    "metric": "$1B+",
+    "metricSub": "lifetime sales across products",
+    "emoji": "🧽",
+    "score": "8.1",
+    "hook": "A German-engineered towel sold almost entirely through one hyperactive infomercial pitchman became one of the biggest 'As Seen On TV' hits ever.",
+    "spark": "The pitchman's manic delivery style became so quotable it turned into its own meme years later.",
+    "votes": {
+      "stupid": 5182,
+      "genius": 7937
+    }
+  },
+  {
+    "id": "slap-chop",
+    "category": "Startups",
+    "year": "2009",
+    "title": "Slap Chop",
+    "metric": "tens of millions",
+    "metricSub": "units sold",
+    "emoji": "🥕",
+    "score": "9.6",
+    "hook": "A manual vegetable chopper sold via an over-the-top infomercial catchphrase became an instant pop-culture punchline and sales hit.",
+    "spark": "The infomercial's audio was remixed into a viral dance-club track.",
+    "votes": {
+      "stupid": 2573,
+      "genius": 15306
+    }
+  },
+  {
+    "id": "flowbee",
+    "category": "Startups",
+    "year": "1988",
+    "title": "Flowbee",
+    "metric": "hundreds of thousands",
+    "metricSub": "units sold since launch",
+    "emoji": "✂️",
+    "score": "8.7",
+    "hook": "A vacuum-cleaner attachment that cuts hair while sucking up the clippings, mocked constantly as absurd, still built a loyal customer base.",
+    "spark": "Late-night infomercials leaned fully into the 'yes, this is what it looks like' absurdity.",
+    "votes": {
+      "stupid": 2855,
+      "genius": 7208
+    }
+  },
+  {
+    "id": "popsocket",
+    "category": "Startups",
+    "year": "2014",
+    "title": "PopSocket",
+    "metric": "$200M+",
+    "metricSub": "annual revenue at peak",
+    "emoji": "📱",
+    "score": "7.2",
+    "hook": "A collapsible plastic grip for the back of a phone, an almost embarrassingly simple accessory, built a real consumer-electronics empire.",
+    "spark": "Bulk sales through college bookstores built grassroots demand before big retail picked it up.",
+    "votes": {
+      "stupid": 6402,
+      "genius": 13329
+    }
+  },
+  {
+    "id": "ring",
+    "category": "Startups",
+    "year": "2013",
+    "title": "Ring",
+    "metric": "$1B+",
+    "metricSub": "acquisition price by Amazon",
+    "emoji": "🔔",
+    "score": "6.8",
+    "hook": "A video doorbell built by a garage tinkerer was rejected by every Shark Tank investor on air, then sold for over a billion dollars.",
+    "spark": "A viral home-security video showing a caught package thief drove massive word-of-mouth.",
+    "votes": {
+      "stupid": 3490,
+      "genius": 14890
+    }
+  },
+  {
+    "id": "gopro",
+    "category": "Startups",
+    "year": "2002",
+    "title": "GoPro",
+    "metric": "$3B+",
+    "metricSub": "market cap at 2014 IPO",
+    "emoji": "📷",
+    "score": "9.6",
+    "hook": "A strap-on wrist camera built by a surfer who couldn't afford a waterproof housing became the default action-camera brand worldwide.",
+    "spark": "User-generated extreme-sports footage did all the marketing for it.",
+    "votes": {
+      "stupid": 976,
+      "genius": 11219
+    }
+  },
+  {
+    "id": "warby-parker",
+    "category": "Startups",
+    "year": "2010",
+    "title": "Warby Parker",
+    "metric": "$95",
+    "metricSub": "price undercutting $300+ norm",
+    "emoji": "👓",
+    "score": "8.2",
+    "hook": "Four grad students questioned why glasses cost as much as a phone, launched a mail-order eyewear brand, and helped upend the industry's pricing.",
+    "spark": "A free 'home try-on' mailer removed the biggest barrier to buying glasses online.",
+    "votes": {
+      "stupid": 5512,
+      "genius": 4038
+    }
+  },
+  {
+    "id": "casper",
+    "category": "Startups",
+    "year": "2014",
+    "title": "Casper",
+    "metric": "$1.1B+",
+    "metricSub": "valuation post-IPO",
+    "emoji": "🛏️",
+    "score": "5.8",
+    "hook": "A mattress company sold its product exclusively online, compressed into a box small enough to ship by mail, an idea called impossible at the time.",
+    "spark": "A viral unboxing effect, a mattress expanding from a small box, became inherently shareable content.",
+    "votes": {
+      "stupid": 2646,
+      "genius": 10185
+    }
+  },
+  {
+    "id": "peloton",
+    "category": "Startups",
+    "year": "2012",
+    "title": "Peloton",
+    "metric": "$8B+",
+    "metricSub": "valuation at 2019 IPO",
+    "emoji": "🚲",
+    "score": "6.7",
+    "hook": "A stationary bike with an attached screen and a subscription fee, priced well above any normal exercise bike, became a pandemic-era staple.",
+    "spark": "Lockdown-era gym closures turned a niche luxury product into a mainstream necessity overnight.",
+    "votes": {
+      "stupid": 3759,
+      "genius": 3236
+    }
+  },
+  {
+    "id": "robinhood",
+    "category": "Startups",
+    "year": "2013",
+    "title": "Robinhood",
+    "metric": "$32B+",
+    "metricSub": "valuation at 2021 IPO",
+    "emoji": "📈",
+    "score": "9.4",
+    "hook": "A stock-trading app with zero commission fees, a model brokers called financially impossible, forced the entire industry to eliminate fees.",
+    "spark": "A wave of first-time retail investors in 2020-2021 made it the default app for a new generation.",
+    "votes": {
+      "stupid": 3927,
+      "genius": 7802
+    }
+  },
+  {
+    "id": "groupon",
+    "category": "Startups",
+    "year": "2008",
+    "title": "Groupon",
+    "metric": "$6B+",
+    "metricSub": "rejected Google acquisition offer",
+    "emoji": "🏷️",
+    "score": "6.2",
+    "hook": "A daily-deal coupon site pivoted from a failed activism platform called 'The Point,' then turned down a multi-billion-dollar Google buyout.",
+    "spark": "Local businesses desperate for foot traffic during the recession embraced steep discounts.",
+    "votes": {
+      "stupid": 7730,
+      "genius": 11009
+    }
+  },
+  {
+    "id": "zoom",
+    "category": "Startups",
+    "year": "2011",
+    "title": "Zoom",
+    "metric": "$100B+",
+    "metricSub": "peak market cap during 2020",
+    "emoji": "📹",
+    "score": "8.6",
+    "hook": "Dismissed early on as 'just another Skype,' a video-calling app became the default word for video calls worldwide during a single global event.",
+    "spark": "Pandemic lockdowns turned a mid-tier enterprise tool into an overnight household verb.",
+    "votes": {
+      "stupid": 5910,
+      "genius": 14366
+    }
+  },
+  {
+    "id": "dropbox",
+    "category": "Startups",
+    "year": "2007",
+    "title": "Dropbox",
+    "metric": "$10B+",
+    "metricSub": "valuation at 2018 IPO",
+    "emoji": "📦",
+    "score": "7.8",
+    "hook": "Steve Jobs reportedly told its founder cloud file-syncing was 'a feature, not a company,' right before it grew into a billion-dollar business.",
+    "spark": "A referral-bonus system, extra storage for inviting friends, drove most of its early growth.",
+    "votes": {
+      "stupid": 6371,
+      "genius": 12083
+    }
+  },
+  {
+    "id": "segway",
+    "category": "Startups",
+    "year": "2001",
+    "title": "Segway",
+    "metric": "$100M+",
+    "metricSub": "pre-launch hype-driven investment",
+    "emoji": "🛴",
+    "score": "6.8",
+    "hook": "Hyped by tech insiders as poised to redesign cities, a self-balancing two-wheeler instead became best known as the mall-cop meme vehicle.",
+    "spark": "Wildly overblown pre-launch secrecy made its eventual reveal a viral letdown story in itself.",
+    "votes": {
+      "stupid": 6334,
+      "genius": 3844
+    }
+  },
+  {
+    "id": "bitcoin-pizza",
+    "category": "Startups",
+    "year": "2010",
+    "title": "Bitcoin Pizza",
+    "metric": "$500M+",
+    "metricSub": "later value of the 10,000 BTC spent",
+    "emoji": "🍕",
+    "score": "9.6",
+    "hook": "A programmer paid 10,000 Bitcoin for two pizzas in the first known real-world crypto transaction, now worth hundreds of millions.",
+    "spark": "The absurd later value became one of crypto culture's founding legends, celebrated every May 22nd.",
+    "votes": {
+      "stupid": 2000,
+      "genius": 7472
+    }
+  },
+  {
+    "id": "cryptokitties",
+    "category": "Startups",
+    "year": "2017",
+    "title": "CryptoKitties",
+    "metric": "$12M+",
+    "metricSub": "spent on virtual cats within months",
+    "emoji": "🐱",
+    "score": "6.0",
+    "hook": "Cartoon collectible cats stored on the blockchain, an idea that sounded like a joke, briefly clogged the entire Ethereum network.",
+    "spark": "A single $170,000 sale of one virtual cat kickstarted the entire NFT collectibles craze.",
+    "votes": {
+      "stupid": 1776,
+      "genius": 14163
+    }
+  },
+  {
+    "id": "cameo",
+    "category": "Startups",
+    "year": "2016",
+    "title": "Cameo",
+    "metric": "$1B+",
+    "metricSub": "valuation at 2021 funding round",
+    "emoji": "🎥",
+    "score": "7.9",
+    "hook": "An app that lets anyone pay a minor celebrity for a personalized video shout-out, dismissed by many as a passing gimmick, hit unicorn status.",
+    "spark": "Athletes and reality stars sharing their own funny Cameo clips drove massive organic exposure.",
+    "votes": {
+      "stupid": 3131,
+      "genius": 7244
+    }
+  },
+  {
+    "id": "onlyfans",
+    "category": "Startups",
+    "year": "2016",
+    "title": "OnlyFans",
+    "metric": "$375M+",
+    "metricSub": "profit in 2021 alone",
+    "emoji": "🔞",
+    "score": "8.2",
+    "hook": "A subscription content platform, initially built for fitness and cooking creators, exploded once known primarily as an adult-content platform.",
+    "spark": "Pandemic lockdowns pushed creators of all kinds onto the platform, broadening its user base.",
+    "votes": {
+      "stupid": 6778,
+      "genius": 8454
+    }
+  },
+  {
+    "id": "wordle",
+    "category": "Startups",
+    "year": "2021",
+    "title": "Wordle",
+    "metric": "seven-figure sum",
+    "metricSub": "acquisition price by NYT",
+    "emoji": "🟩",
+    "score": "6.4",
+    "hook": "A free, ad-free daily word game built by one developer as a gift for his partner became a global obsession within months of going viral.",
+    "spark": "Its shareable emoji-grid results, with zero spoilers, made every solve a self-promoting post.",
+    "votes": {
+      "stupid": 6095,
+      "genius": 6451
+    }
+  },
+  {
+    "id": "bored-ape-yacht-club",
+    "category": "Startups",
+    "year": "2021",
+    "title": "Bored Ape Yacht Club",
+    "metric": "$1B+",
+    "metricSub": "total trading volume at peak",
+    "emoji": "🐵",
+    "score": "7.7",
+    "hook": "Cartoon ape profile pictures, sold as NFTs with no inherent utility, became six- and seven-figure status symbols almost overnight.",
+    "spark": "Celebrity purchases used as profile pictures made ownership a visible social flex.",
+    "votes": {
+      "stupid": 2957,
+      "genius": 3072
+    }
+  },
+  {
+    "id": "stanley-cup-tumbler",
+    "category": "Startups",
+    "year": "2022",
+    "title": "Stanley Cup Tumbler",
+    "metric": "$750M+",
+    "metricSub": "revenue in 2023",
+    "emoji": "🥤",
+    "score": "5.9",
+    "hook": "A rugged, decades-old outdoorsman's water bottle became a must-have status accessory for an entirely different audience after a rebrand.",
+    "spark": "A group of bloggers pushed the brand to make a pastel colorway, and TikTok did the rest.",
+    "votes": {
+      "stupid": 4369,
+      "genius": 6500
+    }
+  },
+  {
+    "id": "blendtec-will-it-blend",
+    "category": "Startups",
+    "year": "2006",
+    "title": "Blendtec — Will It Blend?",
+    "metric": "$700K",
+    "metricSub": "budget for the video series",
+    "emoji": "🥤",
+    "score": "5.7",
+    "hook": "A blender company filmed its founder blending iPhones and golf balls instead of running normal ads, an idea most marketers would avoid.",
+    "spark": "The absurd premise made every new video an event people waited for, multiplying sales.",
+    "votes": {
+      "stupid": 3632,
+      "genius": 14414
+    }
+  },
+  {
+    "id": "poo-pourri",
+    "category": "Startups",
+    "year": "2007",
+    "title": "Poo-Pourri",
+    "metric": "$50M+",
+    "metricSub": "annual revenue at peak",
+    "emoji": "🚽",
+    "score": "6.1",
+    "hook": "A toilet spray meant to mask bathroom odor, a topic considered too embarrassing to market loudly, sold itself with a viral comedic ad instead.",
+    "spark": "One irreverent launch video normalized talking about an awkward topic and made it shareable.",
+    "votes": {
+      "stupid": 3045,
+      "genius": 4670
+    }
+  },
+  {
+    "id": "squatty-potty",
+    "category": "Startups",
+    "year": "2011",
+    "title": "Squatty Potty",
+    "metric": "$175M+",
+    "metricSub": "lifetime sales after Shark Tank",
+    "emoji": "🚽",
+    "score": "8.8",
+    "hook": "A plastic stool designed to change your toilet posture, pitched with a silly unicorn-themed ad, turned a taboo topic into a real consumer brand.",
+    "spark": "A viral 'unicorn pooping rainbow ice cream' ad made an awkward product fun enough to discuss.",
+    "votes": {
+      "stupid": 5419,
+      "genius": 15459
+    }
+  },
+  {
+    "id": "bombas",
+    "category": "Startups",
+    "year": "2013",
+    "title": "Bombas",
+    "metric": "$1B+",
+    "metricSub": "cumulative revenue since founding",
+    "emoji": "🧦",
+    "score": "7.4",
+    "hook": "A sock company built its entire pitch around solving the most-requested item at homeless shelters, an oddly specific mission for apparel.",
+    "spark": "A one-for-one donation model gave every purchase a built-in feel-good story.",
+    "votes": {
+      "stupid": 979,
+      "genius": 4100
+    }
+  },
+  {
+    "id": "liquid-death",
+    "category": "Startups",
+    "year": "2019",
+    "title": "Liquid Death",
+    "metric": "$700M+",
+    "metricSub": "valuation at 2022 funding round",
+    "emoji": "☠️",
+    "score": "5.8",
+    "hook": "Plain canned water, branded with heavy-metal skull art and the tagline 'murder your thirst,' turned the most boring product on Earth into a cult brand.",
+    "spark": "Its aggressively ironic marketing made it a favorite prop in influencer and skate videos.",
+    "votes": {
+      "stupid": 8134,
+      "genius": 13187
+    }
+  },
+  {
+    "id": "duolingo",
+    "category": "Startups",
+    "year": "2011",
+    "title": "Duolingo",
+    "metric": "$6B+",
+    "metricSub": "valuation at 2021 IPO",
+    "emoji": "🦉",
+    "score": "9.5",
+    "hook": "A free language-learning app built part of its growth strategy around a menacing, guilt-tripping owl mascot sending relentless notifications.",
+    "spark": "The owl's aggressive persona became a meme in its own right, turning notifications into jokes.",
+    "votes": {
+      "stupid": 5369,
+      "genius": 3043
+    }
+  },
+  {
+    "id": "tinder",
+    "category": "Startups",
+    "year": "2012",
+    "title": "Tinder",
+    "metric": "$10B+",
+    "metricSub": "estimated brand valuation",
+    "emoji": "🔥",
+    "score": "9.2",
+    "hook": "Swiping left or right to judge strangers by photo, an idea many called shallow and doomed, became the default model for online dating.",
+    "spark": "A college-campus-first launch strategy made it feel exclusive before opening to everyone.",
+    "votes": {
+      "stupid": 5671,
+      "genius": 12820
+    }
+  },
+  {
+    "id": "snapchat",
+    "category": "Startups",
+    "year": "2011",
+    "title": "Snapchat",
+    "metric": "$28B+",
+    "metricSub": "market cap at 2017 IPO",
+    "emoji": "👻",
+    "score": "6.2",
+    "hook": "Photos that disappear after a few seconds, an idea Facebook once dismissed as a fad not worth acquiring, became a core habit for a generation.",
+    "spark": "Its private, low-pressure format made teenagers use it far more casually than any existing platform.",
+    "votes": {
+      "stupid": 1944,
+      "genius": 2711
+    }
+  },
+  {
+    "id": "twitter",
+    "category": "Startups",
+    "year": "2006",
+    "title": "Twitter",
+    "metric": "$44B",
+    "metricSub": "acquisition price by Elon Musk in 2022",
+    "emoji": "🐦",
+    "score": "6.9",
+    "hook": "140-character public text updates, mocked early on as 'why would anyone care what I had for lunch,' became a dominant global news platform.",
+    "spark": "Real-time coverage during breaking news events proved its usefulness beyond status updates.",
+    "votes": {
+      "stupid": 8264,
+      "genius": 2772
+    }
+  },
+  {
+    "id": "chewy-com",
+    "category": "Startups",
+    "year": "2011",
+    "title": "Chewy.com",
+    "metric": "$3.35B",
+    "metricSub": "acquisition price by PetSmart",
+    "emoji": "🐾",
+    "score": "9.5",
+    "hook": "An online-only pet supply retailer competing directly against Amazon on price seemed doomed on paper, yet became a huge e-commerce acquisition.",
+    "spark": "Handwritten sympathy cards for customers' deceased pets built fanatical brand loyalty and press.",
+    "votes": {
+      "stupid": 2620,
+      "genius": 15479
+    }
+  },
+  {
+    "id": "five-hour-energy",
+    "category": "Startups",
+    "year": "2003",
+    "title": "Five-Hour Energy",
+    "metric": "$1B+",
+    "metricSub": "wholesale revenue in a single year",
+    "emoji": "⚡",
+    "score": "6.6",
+    "hook": "A tiny 2-ounce energy shot with a bitter taste and a premium price per ounce, an odd category compared to full energy drinks, built a billion-dollar niche.",
+    "spark": "Convenience-store checkout placement made it a habitual impulse buy for shift workers.",
+    "votes": {
+      "stupid": 1742,
+      "genius": 8027
+    }
+  },
+  {
+    "id": "impossible-foods",
+    "category": "Startups",
+    "year": "2011",
+    "title": "Impossible Foods",
+    "metric": "$7B+",
+    "metricSub": "valuation at 2022 funding round",
+    "emoji": "🍔",
+    "score": "8.9",
+    "hook": "A plant-based burger engineered to 'bleed' using genetically-engineered heme, an idea many food scientists found overcomplicated, became a fast-food staple.",
+    "spark": "Burger King's nationwide 'Impossible Whopper' rollout put it in front of millions of new customers.",
+    "votes": {
+      "stupid": 8142,
+      "genius": 9913
+    }
+  },
+  {
+    "id": "wish",
+    "category": "Startups",
+    "year": "2010",
+    "title": "Wish",
+    "metric": "$8.5B+",
+    "metricSub": "valuation at 2020 IPO",
+    "emoji": "🛍️",
+    "score": "9.8",
+    "hook": "An app selling absurdly cheap, slow-shipping goods directly from overseas factories, mocked for wildly inaccurate product photos, built a massive user base.",
+    "spark": "Its own 'expectation vs reality' memes became unpaid, self-perpetuating advertising.",
+    "votes": {
+      "stupid": 7039,
+      "genius": 5393
+    }
+  },
+  {
+    "id": "honey",
+    "category": "Startups",
+    "year": "2012",
+    "title": "Honey",
+    "metric": "$4B",
+    "metricSub": "acquisition price by PayPal",
+    "emoji": "🍯",
+    "score": "9.6",
+    "hook": "A free browser extension that just auto-applies coupon codes at checkout, an almost boringly simple idea, became one of PayPal's largest acquisitions.",
+    "spark": "Aggressive YouTube sponsorship reads across nearly every creator made it one of the most-recognized extensions.",
+    "votes": {
+      "stupid": 2839,
+      "genius": 5501
+    }
+  },
+  {
+    "id": "away",
+    "category": "Startups",
+    "year": "2015",
+    "title": "Away",
+    "metric": "$1.4B+",
+    "metricSub": "valuation at 2019 funding round",
+    "emoji": "🧳",
+    "score": "9.8",
+    "hook": "A suitcase with a built-in phone charger, launched by two former ad executives with zero luggage-industry experience, became a category-defining brand.",
+    "spark": "Instagram-optimized product photography made the suitcase a status symbol before people bought it.",
+    "votes": {
+      "stupid": 7541,
+      "genius": 5831
+    }
+  },
+  {
+    "id": "glossier",
+    "category": "Startups",
+    "year": "2014",
+    "title": "Glossier",
+    "metric": "$1.8B+",
+    "metricSub": "valuation at 2021 funding round",
+    "emoji": "🌸",
+    "score": "9.4",
+    "hook": "A beauty brand grew directly out of a personal blog with no products at all, before its readers helped design the eventual product line.",
+    "spark": "Treating its own customers as informal focus groups built rabid, built-in brand loyalty.",
+    "votes": {
+      "stupid": 1103,
+      "genius": 5777
+    }
+  },
+  {
+    "id": "brewdog",
+    "category": "Startups",
+    "year": "2007",
+    "title": "BrewDog",
+    "metric": "£1M+",
+    "metricSub": "raised via crowdfunded equity campaign",
+    "emoji": "🍺",
+    "score": "8.7",
+    "hook": "Two Scottish home-brewers, rejected by every traditional investor for their aggressive marketing, funded expansion by selling equity to beer fans.",
+    "spark": "Deliberately confrontational marketing stunts turned the brand itself into a talking point.",
+    "votes": {
+      "stupid": 3621,
+      "genius": 16818
+    }
+  },
+  {
+    "id": "the-room-tommy-wiseau",
+    "category": "Pop Culture",
+    "year": "2003",
+    "title": "The Room (Tommy Wiseau)",
+    "metric": "$500K+",
+    "metricSub": "rental/streaming revenue since release",
+    "emoji": "🎬",
+    "score": "9.6",
+    "hook": "A famously inept, self-funded indie film mocked as one of the worst movies ever made became a decades-long profitable midnight-movie phenomenon.",
+    "spark": "Los Angeles midnight screenings turned audience heckling itself into the main attraction.",
+    "votes": {
+      "stupid": 7471,
+      "genius": 15310
+    }
+  },
+  {
+    "id": "flappy-bird",
+    "category": "Pop Culture",
+    "year": "2013",
+    "title": "Flappy Bird",
+    "metric": "$50K/day",
+    "metricSub": "estimated ad revenue at peak",
+    "emoji": "🐦",
+    "score": "9.3",
+    "hook": "A deliberately frustrating one-button mobile game made by a single Vietnamese developer became the most-downloaded free app in the world.",
+    "spark": "Its brutal difficulty made rage-quitting and bragging about high scores a self-perpetuating loop.",
+    "votes": {
+      "stupid": 7541,
+      "genius": 7065
+    }
+  },
+  {
+    "id": "dogecoin",
+    "category": "Pop Culture",
+    "year": "2013",
+    "title": "Dogecoin",
+    "metric": "$88B+",
+    "metricSub": "market cap at 2021 peak",
+    "emoji": "🐕",
+    "score": "6.7",
+    "hook": "A cryptocurrency created purely as a joke about a meme dog, with no serious roadmap, briefly became one of the most valuable digital currencies on Earth.",
+    "spark": "Repeated celebrity tweets, especially from Elon Musk, sent its price soaring far beyond expectations.",
+    "votes": {
+      "stupid": 7350,
+      "genius": 13961
+    }
+  },
+  {
+    "id": "cards-against-humanity",
+    "category": "Pop Culture",
+    "year": "2009",
+    "title": "Cards Against Humanity",
+    "metric": "$12M+",
+    "metricSub": "revenue in first holiday season",
+    "emoji": "🃏",
+    "score": "6.0",
+    "hook": "A deliberately offensive party card game, funded on Kickstarter after being turned down by publishers, became one of the best-selling games in the US.",
+    "spark": "The creators gave the game away free as a print-and-play PDF first, building a cult following.",
+    "votes": {
+      "stupid": 8044,
+      "genius": 2634
+    }
+  },
+  {
+    "id": "chick-fil-a-eat-mor-chikin-cows",
+    "category": "Pop Culture",
+    "year": "1995",
+    "title": "Chick-fil-A 'Eat Mor Chikin' Cows",
+    "metric": "industry-leading",
+    "metricSub": "brand recognition among chains",
+    "emoji": "🐄",
+    "score": "9.3",
+    "hook": "Billboard cows misspelling 'chicken' on purpose to encourage eating more of it, instead of beef, became one of advertising's most enduring mascot campaigns.",
+    "spark": "The cows' 'rebellious' anti-beef stance made the brand feel like it had a personality.",
+    "votes": {
+      "stupid": 2722,
+      "genius": 6138
+    }
+  },
+  {
+    "id": "old-spice-the-man-your-man-could-smell-like",
+    "category": "Pop Culture",
+    "year": "2010",
+    "title": "Old Spice — The Man Your Man Could Smell Like",
+    "metric": "40M+",
+    "metricSub": "views in first week",
+    "emoji": "🛶",
+    "score": "9.1",
+    "hook": "A deodorant brand aiming at a dying, dated image bet everything on a surreal, absurdist single-take ad, a huge gamble for a legacy product.",
+    "spark": "A live campaign answering fan tweets with new custom videos kept it trending for days.",
+    "votes": {
+      "stupid": 4670,
+      "genius": 8925
+    }
+  },
+  {
+    "id": "dos-equis-the-most-interesting-man-in-the-world",
+    "category": "Pop Culture",
+    "year": "2006",
+    "title": "Dos Equis — The Most Interesting Man in the World",
+    "metric": "+20%",
+    "metricSub": "sales growth in year one",
+    "emoji": "🍻",
+    "score": "6.8",
+    "hook": "A struggling import beer built its whole identity around an absurdly over-the-top fictional character, an unusual bet for a mid-tier beer brand.",
+    "spark": "The tagline 'I don't always drink beer' became one of the decade's most-parodied ad formats.",
+    "votes": {
+      "stupid": 7415,
+      "genius": 5957
+    }
+  },
+  {
+    "id": "baby-yoda-grogu-merchandise",
+    "category": "Pop Culture",
+    "year": "2019",
+    "title": "Baby Yoda / Grogu merchandise",
+    "metric": "hundreds of millions",
+    "metricSub": "in official and unofficial merch sales",
+    "emoji": "👶",
+    "score": "6.5",
+    "hook": "A character deliberately kept secret from toy manufacturers before the show aired missed the holiday season, then triggered a merch boom anyway.",
+    "spark": "Social media couldn't stop posting screenshots, creating demand no one could plan for.",
+    "votes": {
+      "stupid": 6306,
+      "genius": 5293
+    }
+  },
+  {
+    "id": "the-als-ice-bucket-challenge",
+    "category": "Pop Culture",
+    "year": "2014",
+    "title": "The ALS Ice Bucket Challenge",
+    "metric": "$115M+",
+    "metricSub": "raised for ALS research",
+    "emoji": "🧊",
+    "score": "7.3",
+    "hook": "Dumping ice water on your head and daring friends to do the same, with no obvious link to fundraising, raised more for a rare disease than any campaign before.",
+    "spark": "Its simple nominating structure spread it exponentially, celebrity to celebrity, within days.",
+    "votes": {
+      "stupid": 3182,
+      "genius": 3340
+    }
+  },
+  {
+    "id": "salt-bae",
+    "category": "Pop Culture",
+    "year": "2017",
+    "title": "Salt Bae",
+    "metric": "millions",
+    "metricSub": "in restaurant valuation growth",
+    "emoji": "🧂",
+    "score": "9.8",
+    "hook": "A Turkish chef's theatrical way of sprinkling salt on meat, filmed almost by accident, turned him into a global celebrity and expanded his restaurant chain.",
+    "spark": "A single slow-motion Instagram clip made him instantly recognizable without anyone knowing his name.",
+    "votes": {
+      "stupid": 3186,
+      "genius": 9226
+    }
+  },
+  {
+    "id": "fyre-festival",
+    "category": "Pop Culture",
+    "year": "2017",
+    "title": "Fyre Festival",
+    "metric": "two",
+    "metricSub": "hit documentaries released the same week",
+    "emoji": "🏝️",
+    "score": "8.3",
+    "hook": "A luxury music festival that collapsed into total chaos, delivering disaster-relief tents instead of villas, became one of streaming's most-watched subjects.",
+    "spark": "Attendees' own real-time social posts created the exact evidence trail that later fueled the documentaries.",
+    "votes": {
+      "stupid": 4174,
+      "genius": 14643
+    }
+  },
+  {
+    "id": "left-shark",
+    "category": "Pop Culture",
+    "year": "2015",
+    "title": "Left Shark",
+    "metric": "thousands",
+    "metricSub": "of unofficial merch items sold within days",
+    "emoji": "🦈",
+    "score": "9.8",
+    "hook": "A backup dancer at the Katy Perry Super Bowl halftime show missing choreography steps became a bigger overnight story than the headliner's own set.",
+    "spark": "Millions watched the mismatch live simultaneously, guaranteeing instant, unstoppable meme spread.",
+    "votes": {
+      "stupid": 5292,
+      "genius": 8835
+    }
+  },
+  {
+    "id": "chewbacca-mom",
+    "category": "Pop Culture",
+    "year": "2016",
+    "title": "Chewbacca Mom",
+    "metric": "175M+",
+    "metricSub": "Facebook views in the first week",
+    "emoji": "👺",
+    "score": "9.6",
+    "hook": "A Texas mom's unfiltered joy trying on a Chewbacca mask in a parking lot became, at the time, the most-watched Facebook Live video ever recorded.",
+    "spark": "Facebook itself spotlighted the video as a flagship example of Live video's potential.",
+    "votes": {
+      "stupid": 1844,
+      "genius": 7409
+    }
+  },
+  {
+    "id": "charlie-bit-my-finger",
+    "category": "Pop Culture",
+    "year": "2007",
+    "title": "Charlie Bit My Finger",
+    "metric": "$760,000",
+    "metricSub": "NFT auction sale price in 2021",
+    "emoji": "👶",
+    "score": "6.3",
+    "hook": "A home video of two British brothers, one biting the other's finger, uploaded almost as a private clip became one of early YouTube's most-viewed videos.",
+    "spark": "A 2021 NFT auction of the original, then removed from YouTube, resurrected attention over a decade later.",
+    "votes": {
+      "stupid": 3074,
+      "genius": 2665
+    }
+  },
+  {
+    "id": "the-dress-blue-black-or-white-gold",
+    "category": "Pop Culture",
+    "year": "2015",
+    "title": "The Dress (Blue/Black or White/Gold)",
+    "metric": "10M+",
+    "metricSub": "tweets within 24 hours",
+    "emoji": "👗",
+    "score": "6.0",
+    "hook": "A blurry photo of a dress, posted to settle a small family disagreement, split the internet into two warring color-perception camps within a single day.",
+    "spark": "Celebrities publicly picking sides on Twitter turned an optical illusion into a global argument.",
+    "votes": {
+      "stupid": 4459,
+      "genius": 7663
+    }
+  },
+  {
+    "id": "masked-singer-format",
+    "category": "Pop Culture",
+    "year": "2015",
+    "title": "Masked Singer format",
+    "metric": "100+",
+    "metricSub": "countries with a local adaptation",
+    "emoji": "🎭",
+    "score": "8.7",
+    "hook": "Celebrities singing in elaborate costumes while a panel guesses their identity, a format many US networks initially passed on, became one of Fox's biggest hits.",
+    "spark": "The reveal moment was custom-built for social clips, making every episode independently shareable.",
+    "votes": {
+      "stupid": 3469,
+      "genius": 10384
+    }
+  },
+  {
+    "id": "tiger-king",
+    "category": "Pop Culture",
+    "year": "2020",
+    "title": "Tiger King",
+    "metric": "34M+",
+    "metricSub": "US households in first 10 days",
+    "emoji": "🐯",
+    "score": "8.2",
+    "hook": "A little-known documentary about eccentric big-cat breeders, filmed over years with no guarantee of release, became the defining pandemic pop-culture moment.",
+    "spark": "Perfect timing, released right as lockdowns began, drove unprecedented binge-viewing.",
+    "votes": {
+      "stupid": 5089,
+      "genius": 4322
+    }
+  },
+  {
+    "id": "mannequin-challenge",
+    "category": "Pop Culture",
+    "year": "2016",
+    "title": "Mannequin Challenge",
+    "metric": "tens of thousands",
+    "metricSub": "of videos within weeks",
+    "emoji": "🧍",
+    "score": "7.2",
+    "hook": "Groups freezing completely still mid-action while a camera pans around them, started by high schoolers with no marketing push, spread to NFL teams.",
+    "spark": "Its format required zero choreography, making it the easiest viral trend for anyone to replicate.",
+    "votes": {
+      "stupid": 5623,
+      "genius": 5420
+    }
+  },
+  {
+    "id": "kai-the-hitchhiker",
+    "category": "Pop Culture",
+    "year": "2013",
+    "title": "Kai the Hitchhiker",
+    "metric": "real",
+    "metricSub": "recording-contract offer received",
+    "emoji": "🔪",
+    "score": "6.6",
+    "hook": "A homeless hitchhiker's unfiltered local news interview about intervening in an assault was Auto-Tuned into a song within days.",
+    "spark": "The same remix community behind other viral news clips repeated the exact same playbook.",
+    "votes": {
+      "stupid": 6706,
+      "genius": 9418
+    }
+  },
+  {
+    "id": "damn-daniel",
+    "category": "Pop Culture",
+    "year": "2016",
+    "title": "Damn Daniel",
+    "metric": "187M+",
+    "metricSub": "Twitter impressions within a week",
+    "emoji": "👟",
+    "score": "5.5",
+    "hook": "Two California teens filming each other's outfits for fun turned 'Damn, Daniel, back at it again with the white Vans' into a national catchphrase.",
+    "spark": "Its simple, quotable rhythm made it instantly repeatable as an in-joke among teenagers.",
+    "votes": {
+      "stupid": 8482,
+      "genius": 10550
+    }
+  },
+  {
+    "id": "ain-t-nobody-got-time-for-that-sweet-brown",
+    "category": "Pop Culture",
+    "year": "2012",
+    "title": "Ain't Nobody Got Time for That (Sweet Brown)",
+    "metric": "dozens",
+    "metricSub": "of remix songs and parodies produced",
+    "emoji": "🔥",
+    "score": "8.5",
+    "hook": "A local Oklahoma news interview about a house fire, delivered with unmatched deadpan energy, produced one of the decade's most quoted catchphrases.",
+    "spark": "The same remix-song formula used elsewhere was applied here, by a different remix duo.",
+    "votes": {
+      "stupid": 6978,
+      "genius": 15834
+    }
+  },
+  {
+    "id": "ken-bone",
+    "category": "Pop Culture",
+    "year": "2016",
+    "title": "Ken Bone",
+    "metric": "overnight",
+    "metricSub": "national media appearances",
+    "emoji": "🇺🇸",
+    "score": "8.5",
+    "hook": "An undecided voter in a red sweater asking one unremarkable question at a US presidential debate became one of that election's biggest overnight celebrities.",
+    "spark": "His unusually earnest demeanor stood out so starkly it became the night's dominant story.",
+    "votes": {
+      "stupid": 3883,
+      "genius": 10199
+    }
+  },
+  {
+    "id": "cash-me-outside-girl",
+    "category": "Pop Culture",
+    "year": "2016",
+    "title": "Cash Me Outside Girl",
+    "metric": "real",
+    "metricSub": "record deal signed within months",
+    "emoji": "📺",
+    "score": "5.8",
+    "hook": "A defiant teenage guest's catchphrase on the Dr. Phil show, meant to shut down an audience member, launched an unexpected recording career.",
+    "spark": "The phrase's sheer confrontational absurdity made it an instant catchphrase in schools nationwide.",
+    "votes": {
+      "stupid": 6341,
+      "genius": 7334
+    }
+  },
+  {
+    "id": "gamestop-short-squeeze",
+    "category": "Pop Culture",
+    "year": "2021",
+    "title": "GameStop Short Squeeze",
+    "metric": "$24B+",
+    "metricSub": "market cap increase within days",
+    "emoji": "🎮",
+    "score": "8.2",
+    "hook": "Amateur retail investors coordinating online drove a struggling video-game retailer's stock up thousands of percent, deliberately targeting hedge funds.",
+    "spark": "A single Reddit community's coordinated buying turned a trading strategy into international news.",
+    "votes": {
+      "stupid": 6334,
+      "genius": 4485
+    }
+  },
+  {
+    "id": "kony-2012",
+    "category": "Pop Culture",
+    "year": "2012",
+    "title": "Kony 2012",
+    "metric": "100M+",
+    "metricSub": "views within its first six days",
+    "emoji": "📹",
+    "score": "8.7",
+    "hook": "A nonprofit's documentary calling for a Ugandan warlord's arrest became, at the time, the fastest-spreading viral video in internet history.",
+    "spark": "Its direct call-to-action, 'share this video,' made every viewer feel personally responsible.",
+    "votes": {
+      "stupid": 3360,
+      "genius": 11699
+    }
+  },
+  {
+    "id": "ugly-christmas-sweater-industry",
+    "category": "Pop Culture",
+    "year": "2001",
+    "title": "Ugly Christmas Sweater industry",
+    "metric": "$400M+",
+    "metricSub": "estimated annual US market",
+    "emoji": "🎄",
+    "score": "6.9",
+    "hook": "Deliberately hideous holiday sweaters, once genuinely embarrassing hand-me-downs, became an entire ironic fashion category with its own sales season.",
+    "spark": "Themed 'ugly sweater parties' as a social event format turned an embarrassing garment into a purchase occasion.",
+    "votes": {
+      "stupid": 4245,
+      "genius": 7674
+    }
+  },
+  {
+    "id": "tide-pod-challenge",
+    "category": "Pop Culture",
+    "year": "2018",
+    "title": "Tide Pod Challenge",
+    "metric": "tens of thousands",
+    "metricSub": "of news articles and PSAs generated",
+    "emoji": "🧺",
+    "score": "7.3",
+    "hook": "A dangerous dare to bite into laundry detergent packets, spun out of unrelated jokes about the pods looking edible, forced an emergency PSA campaign.",
+    "spark": "Late-night comedy shows repeating the joke unintentionally amplified awareness of the trend.",
+    "votes": {
+      "stupid": 3322,
+      "genius": 11803
+    }
+  },
+  {
+    "id": "chuck-e-cheese-recycled-pizza-conspiracy",
+    "category": "Pop Culture",
+    "year": "2018",
+    "title": "Chuck E. Cheese 'Recycled Pizza' Conspiracy",
+    "metric": "millions",
+    "metricSub": "of views on the debunking video",
+    "emoji": "🍕",
+    "score": "6.1",
+    "hook": "An unfounded rumor that the chain reassembled leftover pizza slices spread so widely it forced an official public rebuttal video.",
+    "spark": "A single amateur 'investigation' video with no real evidence outperformed the brand's own marketing that year.",
+    "votes": {
+      "stupid": 4344,
+      "genius": 12958
+    }
+  },
+  {
+    "id": "among-us-sus",
+    "category": "Pop Culture",
+    "year": "2020",
+    "title": "Among Us 'Sus'",
+    "metric": "500M+",
+    "metricSub": "monthly active players at 2020 peak",
+    "emoji": "🔪",
+    "score": "9.6",
+    "hook": "A niche indie game with a tiny player base for two years exploded overnight once livestreamers picked it up during pandemic lockdowns.",
+    "spark": "A handful of major streamers playing together on the same night triggered a download surge within hours.",
+    "votes": {
+      "stupid": 6448,
+      "genius": 16823
+    }
+  },
+  {
+    "id": "coffin-dance-meme",
+    "category": "Pop Culture",
+    "year": "2017",
+    "title": "Coffin Dance Meme",
+    "metric": "millions",
+    "metricSub": "of remix videos during the pandemic",
+    "emoji": "⚰️",
+    "score": "9.5",
+    "hook": "Ghanaian professional pallbearers performing an elaborate funeral dance routine became, three years after filming, the pandemic's default 'near-miss' punchline.",
+    "spark": "2020 lockdown boredom gave the old clip a second life as the go-to joke for any close call.",
+    "votes": {
+      "stupid": 5942,
+      "genius": 13305
+    }
+  },
+  {
+    "id": "y2k-survival-kits",
+    "category": "Pop Culture",
+    "year": "1999",
+    "title": "Y2K Survival Kits",
+    "metric": "millions",
+    "metricSub": "in sales ahead of Jan 1, 2000",
+    "emoji": "🗓️",
+    "score": "6.8",
+    "hook": "Bottled water, canned food, and generators sold on the premise that a date-format bug would collapse global infrastructure overnight.",
+    "spark": "24-hour news coverage of the 'millennium bug' turned mild software concern into a genuine consumer panic.",
+    "votes": {
+      "stupid": 5388,
+      "genius": 2086
+    }
+  },
+  {
+    "id": "the-beanie-baby-bubble",
+    "category": "Pop Culture",
+    "year": "1993",
+    "title": "The Beanie Baby Bubble",
+    "metric": "$6B+",
+    "metricSub": "estimated peak speculative market",
+    "emoji": "🐻",
+    "score": "6.8",
+    "hook": "Ordinary beanbag animals, deliberately kept scarce by their maker, briefly traded like real financial assets on early internet auction sites.",
+    "spark": "eBay's earliest days gave collectors a live public market, turning stuffed toys into genuine speculation.",
+    "votes": {
+      "stupid": 2621,
+      "genius": 9404
+    }
+  },
+  {
+    "id": "cinnamon-challenge",
+    "category": "Pop Culture",
+    "year": "2000s",
+    "title": "Cinnamon Challenge",
+    "metric": "tens of thousands",
+    "metricSub": "of attempt videos uploaded",
+    "emoji": "🌶️",
+    "score": "9.0",
+    "hook": "A dare to swallow a spoonful of ground cinnamon without water, spun from a niche internet forum, spread into a mainstream viral video trend.",
+    "spark": "YouTube's recommendation algorithm kept surfacing new attempts, feeding the trend for years.",
+    "votes": {
+      "stupid": 5869,
+      "genius": 14634
+    }
+  },
+  {
+    "id": "planking",
+    "category": "Pop Culture",
+    "year": "2011",
+    "title": "Planking",
+    "metric": "thousands",
+    "metricSub": "of photos shared within weeks",
+    "emoji": "🧍",
+    "score": "6.9",
+    "hook": "Lying face-down, rigid, in unusual public locations and photographing it, a joke with literally no rules, became a brief global photo trend.",
+    "spark": "A single Australian news story about a planking-related injury made international headlines and boosted the trend further.",
+    "votes": {
+      "stupid": 4519,
+      "genius": 9659
+    }
+  },
+  {
+    "id": "grumpy-cat",
+    "category": "Pop Culture",
+    "year": "2012",
+    "title": "Grumpy Cat",
+    "metric": "$100M+",
+    "metricSub": "estimated lifetime brand earnings",
+    "emoji": "🐱",
+    "score": "8.5",
+    "hook": "A cat's naturally permanent scowl, caused by feline dwarfism, turned an ordinary pet photo posted to Reddit into a full licensing empire.",
+    "spark": "A single Reddit front-page post introduced the world to the photo, and the caption format did the rest.",
+    "votes": {
+      "stupid": 5087,
+      "genius": 10971
+    }
+  },
+  {
+    "id": "overly-attached-girlfriend",
+    "category": "Pop Culture",
+    "year": "2012",
+    "title": "Overly Attached Girlfriend",
+    "metric": "90M+",
+    "metricSub": "views on the original video",
+    "emoji": "😩",
+    "score": "9.0",
+    "hook": "A YouTuber's exaggerated parody of clingy relationship behavior, made for a fan-video contest, became a defining reaction-image template of the decade.",
+    "spark": "Redditors turned individual still frames into an entire meme genre independent of the original video.",
+    "votes": {
+      "stupid": 7421,
+      "genius": 16165
+    }
+  },
+  {
+    "id": "success-kid",
+    "category": "Pop Culture",
+    "year": "2007",
+    "title": "Success Kid",
+    "metric": "$100K+",
+    "metricSub": "raised for the child's real kidney transplant",
+    "emoji": "👶",
+    "score": "6.2",
+    "hook": "A baby's clenched-fist beach photo, taken with zero meme intent, became one of the internet's most enduring 'triumph' reaction images for over a decade.",
+    "spark": "Its expression fit literally any minor personal victory, making it endlessly reusable.",
+    "votes": {
+      "stupid": 1594,
+      "genius": 6715
+    }
+  },
+  {
+    "id": "distracted-boyfriend-meme",
+    "category": "Pop Culture",
+    "year": "2017",
+    "title": "Distracted Boyfriend meme",
+    "metric": "one of",
+    "metricSub": "the most-licensed stock photos ever shot",
+    "emoji": "📸",
+    "score": "7.8",
+    "hook": "A Barcelona street-photography stock image, taken with zero meme intent, became one of the internet's most recognizable and reused reaction templates.",
+    "spark": "A single early caption unlocked its 'universal relatable jealousy' format independent of the photo's origin.",
+    "votes": {
+      "stupid": 6085,
+      "genius": 13238
+    }
+  },
+  {
+    "id": "harambe",
+    "category": "Pop Culture",
+    "year": "2016",
+    "title": "Harambe",
+    "metric": "one of",
+    "metricSub": "the most-referenced memes of 2016",
+    "emoji": "🦍",
+    "score": "7.0",
+    "hook": "A gorilla's death at the Cincinnati Zoo, a genuinely tragic incident, was co-opted by internet communities into one of the year's most persistent meme formats.",
+    "spark": "Ironic 'justice for Harambe' campaigns spread faster than the actual news story itself.",
+    "votes": {
+      "stupid": 7604,
+      "genius": 15021
+    }
+  },
+  {
+    "id": "woman-yelling-at-cat",
+    "category": "Pop Culture",
+    "year": "2019",
+    "title": "Woman Yelling at Cat",
+    "metric": "one of",
+    "metricSub": "the most-used meme templates of 2019",
+    "emoji": "🐱",
+    "score": "6.5",
+    "hook": "Two unrelated images, a reality TV argument screenshot and a confused-looking cat at a dinner table, were combined into one of the year's most versatile formats.",
+    "spark": "Its two-panel structure made it trivially easy to remix for absolutely any two-sided argument.",
+    "votes": {
+      "stupid": 3442,
+      "genius": 5821
+    }
+  },
+  {
+    "id": "this-is-fine-dog",
+    "category": "Pop Culture",
+    "year": "2013",
+    "title": "This Is Fine Dog",
+    "metric": "one of",
+    "metricSub": "the most recognizable reaction images ever drawn",
+    "emoji": "🔥",
+    "score": "9.0",
+    "hook": "A single panel from an otherwise little-read webcomic, showing a cartoon dog calmly sipping coffee in a burning room, became global shorthand for ignoring a crisis.",
+    "spark": "Its universal applicability to any bad news story made it the internet's most durable reaction image for a decade.",
+    "votes": {
+      "stupid": 2107,
+      "genius": 2760
+    }
+  },
+  {
+    "id": "big-chungus",
+    "category": "Pop Culture",
+    "year": "2019",
+    "title": "Big Chungus",
+    "metric": "top",
+    "metricSub": "Google search trend of the year in multiple countries",
+    "emoji": "🐰",
+    "score": "5.7",
+    "hook": "An unremarkable screenshot of an overweight Bugs Bunny from a 1990s cartoon became, decades later, one of the single most-searched meme terms globally.",
+    "spark": "Fake 'video game box art' mockups treating it as a real product title made the joke spiral further.",
+    "votes": {
+      "stupid": 4792,
+      "genius": 11834
+    }
+  },
+  {
+    "id": "npc-meme",
+    "category": "Pop Culture",
+    "year": "2018",
+    "title": "NPC Meme",
+    "metric": "thousands",
+    "metricSub": "of matching 'NPC' accounts created for a stunt",
+    "emoji": "🎮",
+    "score": "9.2",
+    "hook": "Video-game terminology for a background character with no free will was repurposed as an internet insult, spawning a genre of gray-faced avatar accounts.",
+    "spark": "A single coordinated social-media stunt using hundreds of matching NPC avatars made global news within a day.",
+    "votes": {
+      "stupid": 1496,
+      "genius": 10974
+    }
+  },
+  {
+    "id": "surprised-pikachu",
+    "category": "Pop Culture",
+    "year": "2016",
+    "title": "Surprised Pikachu",
+    "metric": "one of",
+    "metricSub": "the most-used meme templates of 2018-2019",
+    "emoji": "⚡",
+    "score": "7.3",
+    "hook": "A single frame from a Pokémon anime episode, showing an exaggerated shocked expression, became global shorthand for feigned surprise at a predictable outcome.",
+    "spark": "Its exaggerated design made it uniquely suited to sarcastic 'shocking, I know' captioning.",
+    "votes": {
+      "stupid": 6059,
+      "genius": 12174
+    }
+  },
+  {
+    "id": "stonks-meme",
+    "category": "Pop Culture",
+    "year": "2017",
+    "title": "Stonks Meme",
+    "metric": "one of",
+    "metricSub": "the most durable finance-related memes online",
+    "emoji": "📈",
+    "score": "6.4",
+    "hook": "A stock photo of a business-suited man against a rising green arrow, deliberately deadpan and low-effort, became the default joke about bad financial decisions.",
+    "spark": "Its intentional 'so dumb it's funny' low-effort aesthetic made it endlessly easy to recreate.",
+    "votes": {
+      "stupid": 6604,
+      "genius": 8456
+    }
+  },
+  {
+    "id": "bee-movie-script-copypasta",
+    "category": "Pop Culture",
+    "year": "2013",
+    "title": "Bee Movie Script Copypasta",
+    "metric": "tens of thousands",
+    "metricSub": "of remix videos using the full script",
+    "emoji": "🐝",
+    "score": "7.7",
+    "hook": "The entire transcript of a mediocre animated film was, for no clear reason, copy-pasted across forums as an in-joke, spawning years of remix videos.",
+    "spark": "Its sheer, pointless length made posting the whole thing itself the joke, daring people to scroll past it.",
+    "votes": {
+      "stupid": 2898,
+      "genius": 4792
+    }
+  },
+  {
+    "id": "navy-seal-copypasta",
+    "category": "Pop Culture",
+    "year": "2010",
+    "title": "Navy Seal Copypasta",
+    "metric": "one of",
+    "metricSub": "the most copy-pasted internet texts ever",
+    "emoji": "🎖️",
+    "score": "8.4",
+    "hook": "An anonymous, absurdly over-the-top threatening paragraph posted as a joke became one of the most reused blocks of internet text in existence.",
+    "spark": "Its escalating, self-parodying 'tough guy' tone made it perfect ammunition for any online argument.",
+    "votes": {
+      "stupid": 945,
+      "genius": 16019
+    }
+  },
+  {
+    "id": "loss-jpg",
+    "category": "Pop Culture",
+    "year": "2008",
+    "title": "Loss.jpg",
+    "metric": "one of",
+    "metricSub": "the longest-running meme formats in internet history",
+    "emoji": "😢",
+    "score": "9.3",
+    "hook": "A single somber four-panel webcomic strip, originally meant sincerely, was so widely mocked for its composition it became an abstract minimalist format.",
+    "spark": "Fans began hiding the exact panel layout inside unrelated images, turning 'finding the Loss' into an ongoing game.",
+    "votes": {
+      "stupid": 8153,
+      "genius": 4364
+    }
+  },
+  {
+    "id": "dat-boi",
+    "category": "Pop Culture",
+    "year": "2016",
+    "title": "Dat Boi",
+    "metric": "one of",
+    "metricSub": "the most inexplicably popular memes of its year",
+    "emoji": "🚲",
+    "score": "8.9",
+    "hook": "A crudely animated frog riding a unicycle, made as a throwaway GIF with no context, became one of the most-shared images of the year purely on absurdity.",
+    "spark": "Its total lack of explainability made 'here come dat boi' a running joke people repeated without a punchline.",
+    "votes": {
+      "stupid": 2692,
+      "genius": 5588
+    }
+  },
+  {
+    "id": "antoine-dodson-bed-intruder-fame",
+    "category": "Pop Culture",
+    "year": "2010",
+    "title": "Antoine Dodson — Bed Intruder Fame",
+    "metric": "130M+",
+    "metricSub": "combined views across video and remix",
+    "emoji": "🎤",
+    "score": "9.0",
+    "hook": "A local news interview about a home intrusion was Auto-Tuned into a genuine song by internet remixers, which then charted on iTunes above real pop songs.",
+    "spark": "A pair of music-remix YouTubers turned the unrelated news clip into an actual single within 48 hours.",
+    "votes": {
+      "stupid": 6600,
+      "genius": 12058
+    }
+  },
+  {
+    "id": "nyan-cat",
+    "category": "Internet Lore",
+    "year": "2011",
+    "title": "Nyan Cat",
+    "metric": "$600K",
+    "metricSub": "NFT auction sale price in 2021",
+    "emoji": "🌈",
+    "score": "7.5",
+    "hook": "A looping GIF of a pop-tart cat flying through space, made in about 20 minutes with a free drawing program, sold as an NFT a decade later for hundreds of thousands.",
+    "spark": "A 10-hour looped YouTube upload became a genuine endurance-watching phenomenon in its own right.",
+    "votes": {
+      "stupid": 5466,
+      "genius": 6538
+    }
+  },
+  {
+    "id": "pepe-the-frog",
+    "category": "Internet Lore",
+    "year": "2005",
+    "title": "Pepe the Frog",
+    "metric": "six figures",
+    "metricSub": "auction price for original comic pages",
+    "emoji": "🐸",
+    "score": "9.5",
+    "hook": "A laid-back cartoon frog from an obscure indie comic became one of the most reproduced images in internet history, spawning thousands of unauthorized variants.",
+    "spark": "Its blank, adaptable expression made it endlessly remixable across unrelated communities.",
+    "votes": {
+      "stupid": 1894,
+      "genius": 11136
+    }
+  },
+  {
+    "id": "doge-meme",
+    "category": "Internet Lore",
+    "year": "2013",
+    "title": "Doge Meme",
+    "metric": "one of",
+    "metricSub": "the most iconic image formats of the 2010s",
+    "emoji": "🐕",
+    "score": "6.1",
+    "hook": "A Shiba Inu photo paired with broken, colorful 'such wow' captions became a defining meme format, later inspiring an actual billion-dollar cryptocurrency.",
+    "spark": "Its deliberately broken grammar style made it instantly recognizable even without the original photo.",
+    "votes": {
+      "stupid": 4706,
+      "genius": 13001
+    }
+  },
+  {
+    "id": "the-rickroll",
+    "category": "Internet Lore",
+    "year": "2007",
+    "title": "The Rickroll",
+    "metric": "millions",
+    "metricSub": "of bait links shared across a decade-plus",
+    "emoji": "🎣",
+    "score": "7.8",
+    "hook": "Disguising a link as something interesting, then redirecting victims to Rick Astley's 1987 music video, became one of the internet's longest-running pranks.",
+    "spark": "4chan users weaponized it as a joke in 2007, and it never fully stopped spreading.",
+    "votes": {
+      "stupid": 5478,
+      "genius": 12812
+    }
+  },
+  {
+    "id": "salad-fingers",
+    "category": "Internet Lore",
+    "year": "2004",
+    "title": "Salad Fingers",
+    "metric": "cult status",
+    "metricSub": "among early Flash-animation series",
+    "emoji": "🥗",
+    "score": "6.9",
+    "hook": "A deliberately unsettling, low-budget Flash cartoon about a finger-obsessed creature became one of the most disturbing and beloved cult classics of the early web.",
+    "spark": "Newgrounds' front-page showcase gave it an audience long before YouTube even existed.",
+    "votes": {
+      "stupid": 7087,
+      "genius": 9667
+    }
+  },
+  {
+    "id": "homestar-runner",
+    "category": "Internet Lore",
+    "year": "2000",
+    "title": "Homestar Runner",
+    "metric": "millions",
+    "metricSub": "monthly visitors at 2000s peak",
+    "emoji": "⭐",
+    "score": "8.2",
+    "hook": "A hand-drawn Flash cartoon website with no studio backing became one of the most influential comedy series of the early internet, years before streaming existed.",
+    "spark": "Word-of-mouth alone, no ads or press, built its audience through email forwards and computer labs.",
+    "votes": {
+      "stupid": 6792,
+      "genius": 11399
+    }
+  },
+  {
+    "id": "all-your-base-are-belong-to-us",
+    "category": "Internet Lore",
+    "year": "1998",
+    "title": "All Your Base Are Belong To Us",
+    "metric": "one of",
+    "metricSub": "the first mass-viral internet phrases",
+    "emoji": "🕹️",
+    "score": "7.4",
+    "hook": "An awkward game-translation mistake became, two years after release, one of the earliest examples of a phrase going globally viral online.",
+    "spark": "Photoshopped images placing the phrase on random real-world objects turned it into an early meme template.",
+    "votes": {
+      "stupid": 8328,
+      "genius": 11744
+    }
+  },
+  {
+    "id": "dancing-baby-cha-cha-baby",
+    "category": "Internet Lore",
+    "year": "1996",
+    "title": "Dancing Baby (Cha-Cha Baby)",
+    "metric": "one of",
+    "metricSub": "the first viral GIFs ever shared",
+    "emoji": "👶",
+    "score": "7.5",
+    "hook": "A 3D animation test file, made to demo new character-rigging software, escaped its technical purpose and became one of the internet's first viral hits.",
+    "spark": "It later appeared on the TV show Ally McBeal, an early example of internet culture crossing into mainstream TV.",
+    "votes": {
+      "stupid": 2203,
+      "genius": 15247
+    }
+  },
+  {
+    "id": "hampster-dance-the-website",
+    "category": "Internet Lore",
+    "year": "1998",
+    "title": "Hampster Dance (the website)",
+    "metric": "17M+",
+    "metricSub": "site visits by the year 2000",
+    "emoji": "🐹",
+    "score": "9.3",
+    "hook": "A student's joke webpage of looping animated hamster GIFs, built with zero budget, became one of the most-visited sites of the early web.",
+    "spark": "Forwarded email chains, the era's version of 'going viral,' spread the link across offices and schools.",
+    "votes": {
+      "stupid": 4586,
+      "genius": 7276
+    }
+  },
+  {
+    "id": "star-wars-kid",
+    "category": "Internet Lore",
+    "year": "2002",
+    "title": "Star Wars Kid",
+    "metric": "900M+",
+    "metricSub": "estimated views across every re-upload",
+    "emoji": "🥍",
+    "score": "8.8",
+    "hook": "A teenager's private video of himself swinging a golf-ball retriever like a lightsaber was uploaded without consent and became one of the era's most-viewed videos.",
+    "spark": "Classmates spreading the file on peer-to-peer networks turned a private recording into a global phenomenon.",
+    "votes": {
+      "stupid": 7780,
+      "genius": 14189
+    }
+  },
+  {
+    "id": "leeroy-jenkins",
+    "category": "Internet Lore",
+    "year": "2005",
+    "title": "Leeroy Jenkins",
+    "metric": "one of",
+    "metricSub": "gaming's most quoted internet clips ever",
+    "emoji": "⚔️",
+    "score": "6.7",
+    "hook": "A World of Warcraft player charging into a raid while yelling his own name, ruining his team's careful plan, became one of gaming's most quoted clips.",
+    "spark": "Its chaotic, relatable energy made it meme-able far beyond gaming circles.",
+    "votes": {
+      "stupid": 7270,
+      "genius": 10908
+    }
+  },
+  {
+    "id": "numa-numa-guy",
+    "category": "Internet Lore",
+    "year": "2004",
+    "title": "Numa Numa Guy",
+    "metric": "700M+",
+    "metricSub": "estimated views across platforms",
+    "emoji": "🕺",
+    "score": "7.6",
+    "hook": "A teenager's webcam lip-sync to a Moldovan pop song, recorded just for fun, became one of the very first viral video stars of the YouTube era.",
+    "spark": "Newgrounds first hosted the clip, spreading it across early forums before video platforms existed widely.",
+    "votes": {
+      "stupid": 2859,
+      "genius": 7018
+    }
+  },
+  {
+    "id": "keyboard-cat",
+    "category": "Internet Lore",
+    "year": "1984",
+    "title": "Keyboard Cat",
+    "metric": "50M+",
+    "metricSub": "views across meme reposts and remixes",
+    "emoji": "🐱",
+    "score": "7.4",
+    "hook": "A decades-old home video of a cat's paws being puppeteered across a keyboard was rediscovered and repurposed as an internet 'fail' reaction meme.",
+    "spark": "Pairing the clip with other people's blooper videos gave an old home recording a new comedic function.",
+    "votes": {
+      "stupid": 6745,
+      "genius": 7148
+    }
+  },
+  {
+    "id": "ridiculously-photogenic-guy",
+    "category": "Internet Lore",
+    "year": "2012",
+    "title": "Ridiculously Photogenic Guy",
+    "metric": "one of",
+    "metricSub": "2012's most recognized reaction-photo memes",
+    "emoji": "🏃",
+    "score": "6.5",
+    "hook": "A runner captured mid-stride looking unnaturally photogenic in a random marathon photo became an overnight meme and briefly a minor celebrity.",
+    "spark": "The subject himself leaned into the fame, doing interviews that kept the story circulating.",
+    "votes": {
+      "stupid": 3651,
+      "genius": 7418
+    }
+  },
+  {
+    "id": "bad-luck-brian",
+    "category": "Internet Lore",
+    "year": "2012",
+    "title": "Bad Luck Brian",
+    "metric": "one of",
+    "metricSub": "Reddit's most iconic meme templates of its decade",
+    "emoji": "🦷",
+    "score": "9.4",
+    "hook": "An awkward yearbook photo, posted by a friend as a joke, became shorthand across Reddit for any story of relentless misfortune.",
+    "spark": "Its instantly relatable 'everything goes wrong' caption format made it endlessly reusable.",
+    "votes": {
+      "stupid": 1560,
+      "genius": 4992
+    }
+  },
+  {
+    "id": "one-does-not-simply-boromir-meme",
+    "category": "Internet Lore",
+    "year": "2001",
+    "title": "One Does Not Simply (Boromir Meme)",
+    "metric": "one of",
+    "metricSub": "the most reused meme templates in history",
+    "emoji": "💍",
+    "score": "6.2",
+    "hook": "A single dramatic film-still line from Lord of the Rings, taken wildly out of context, became internet shorthand for 'this is harder than it sounds.'",
+    "spark": "Its dramatic delivery made it perfect for ironic captions about mundane tasks.",
+    "votes": {
+      "stupid": 4037,
+      "genius": 13502
+    }
+  },
+  {
+    "id": "y-u-no-guy",
+    "category": "Internet Lore",
+    "year": "2010",
+    "title": "Y U No Guy",
+    "metric": "one of",
+    "metricSub": "the most recognized rage-comic characters",
+    "emoji": "😤",
+    "score": "6.2",
+    "hook": "A crudely drawn, permanently furious stick-figure face became the internet's go-to expression of exasperated complaint for years.",
+    "spark": "Its simplicity made it trivially easy for anyone to draw and remix, fueling constant reuse.",
+    "votes": {
+      "stupid": 2652,
+      "genius": 3082
+    }
+  },
+  {
+    "id": "philosoraptor",
+    "category": "Internet Lore",
+    "year": "2008",
+    "title": "Philosoraptor",
+    "metric": "one of",
+    "metricSub": "the longest-running 'deep thoughts' meme templates",
+    "emoji": "🦖",
+    "score": "7.3",
+    "hook": "A stock clip-art dinosaur paired with mock-profound rhetorical questions became a durable joke format about fake intellectualism.",
+    "spark": "Its deadpan delivery made genuinely dumb questions sound momentarily philosophical.",
+    "votes": {
+      "stupid": 3610,
+      "genius": 11597
+    }
+  },
+  {
+    "id": "scumbag-steve",
+    "category": "Internet Lore",
+    "year": "2011",
+    "title": "Scumbag Steve",
+    "metric": "one of",
+    "metricSub": "the most recognized 'bad friend' meme templates",
+    "emoji": "🧢",
+    "score": "7.6",
+    "hook": "A sideways-cap photo of a random teenager became shorthand across the internet for any story about an inconsiderate acquaintance.",
+    "spark": "Its instantly recognizable pose made it a reliable punchline setup for millions of captions.",
+    "votes": {
+      "stupid": 1410,
+      "genius": 5819
+    }
+  },
+  {
+    "id": "confession-bear",
+    "category": "Internet Lore",
+    "year": "2011",
+    "title": "Confession Bear",
+    "metric": "one of",
+    "metricSub": "Reddit's most-used confession meme templates",
+    "emoji": "🐻",
+    "score": "9.2",
+    "hook": "A stock photo of a bear became the internet's preferred format for anonymously confessing embarrassing personal habits.",
+    "spark": "Its non-judgmental, cute framing made people more comfortable posting genuinely embarrassing admissions.",
+    "votes": {
+      "stupid": 4090,
+      "genius": 16949
+    }
+  },
+  {
+    "id": "socially-awkward-penguin",
+    "category": "Internet Lore",
+    "year": "2009",
+    "title": "Socially Awkward Penguin",
+    "metric": "one of",
+    "metricSub": "the most iconic early Reddit-era meme templates",
+    "emoji": "🐧",
+    "score": "8.1",
+    "hook": "A photo of a penguin from National Geographic became shorthand for cringeworthy social mishaps, one of Reddit's foundational meme formats.",
+    "spark": "Its blank, confused expression matched the tone needed for self-deprecating awkward stories.",
+    "votes": {
+      "stupid": 6597,
+      "genius": 2563
+    }
+  },
+  {
+    "id": "advice-dog-courage-wolf",
+    "category": "Internet Lore",
+    "year": "2006",
+    "title": "Advice Dog / Courage Wolf",
+    "metric": "one of",
+    "metricSub": "the earliest 'advice animal' meme formats",
+    "emoji": "🐺",
+    "score": "9.3",
+    "hook": "A colorful stock-photo dog paired with terrible advice launched an entire genre of animal-based meme templates that dominated forums for years.",
+    "spark": "Its format was so simple to copy that dozens of spinoff 'advice animal' memes followed within months.",
+    "votes": {
+      "stupid": 7171,
+      "genius": 13318
+    }
+  },
+  {
+    "id": "chuck-norris-facts",
+    "category": "Internet Lore",
+    "year": "2005",
+    "title": "Chuck Norris Facts",
+    "metric": "thousands",
+    "metricSub": "of user-submitted jokes across fan sites",
+    "emoji": "🥋",
+    "score": "7.2",
+    "hook": "A meme format built entirely on absurd, impossible claims about an action star's toughness became one of the internet's most durable running jokes.",
+    "spark": "Its open-ended, endlessly repeatable format let anyone submit a new 'fact,' keeping the joke alive for decades.",
+    "votes": {
+      "stupid": 948,
+      "genius": 8228
+    }
+  },
+  {
+    "id": "not-sure-if-fry-meme",
+    "category": "Internet Lore",
+    "year": "2011",
+    "title": "Not Sure If (Fry Meme)",
+    "metric": "one of",
+    "metricSub": "the most durable 'squinting skepticism' templates",
+    "emoji": "🤨",
+    "score": "6.8",
+    "hook": "A single expressive frame from the show Futurama became internet shorthand for genuine confusion about whether something is a joke.",
+    "spark": "Its ambiguous, squinting expression fit an unusually wide range of sarcastic and sincere captions alike.",
+    "votes": {
+      "stupid": 4094,
+      "genius": 9219
+    }
+  },
+  {
+    "id": "trollface",
+    "category": "Internet Lore",
+    "year": "2008",
+    "title": "Trollface",
+    "metric": "one of",
+    "metricSub": "the single most reproduced amateur drawings online",
+    "emoji": "😈",
+    "score": "7.9",
+    "hook": "A crude MS Paint sketch of a grinning face, drawn in minutes for a throwaway forum comic, became arguably the most recognized amateur digital art ever made.",
+    "spark": "Its instantly recognizable smirk needed zero context to signal 'you got trolled' across any language.",
+    "votes": {
+      "stupid": 6918,
+      "genius": 11986
+    }
+  },
+  {
+    "id": "wojak-feels-guy",
+    "category": "Internet Lore",
+    "year": "2010",
+    "title": "Wojak / Feels Guy",
+    "metric": "one of",
+    "metricSub": "the most widely adapted meme character templates ever",
+    "emoji": "😔",
+    "score": "9.0",
+    "hook": "A crude bald-headed sketch representing raw, unfiltered emotion became a base template later adapted into hundreds of distinct meme sub-characters.",
+    "spark": "Its blank, editable design let communities customize it endlessly into their own in-group variants.",
+    "votes": {
+      "stupid": 8254,
+      "genius": 6454
+    }
+  },
+  {
+    "id": "galaxy-brain-meme",
+    "category": "Internet Lore",
+    "year": "2017",
+    "title": "Galaxy Brain Meme",
+    "metric": "one of",
+    "metricSub": "the most recognized 'escalating logic' meme formats",
+    "emoji": "🧠",
+    "score": "7.6",
+    "hook": "A multi-panel format showing increasingly glowing brains became the internet's default way of mocking overly convoluted or pretentious reasoning.",
+    "spark": "Its escalating structure made it easy to apply ironically to literally any argument, however small.",
+    "votes": {
+      "stupid": 3135,
+      "genius": 9871
+    }
+  },
+  {
+    "id": "sanic",
+    "category": "Internet Lore",
+    "year": "2015",
+    "title": "Sanic",
+    "metric": "one of",
+    "metricSub": "the most infamous 'so-bad-it's-good' fan-art memes",
+    "emoji": "💨",
+    "score": "7.6",
+    "hook": "A deliberately terrible fan redrawing of Sonic the Hedgehog, posted as a joke, became more recognizable online than most official artwork of the character.",
+    "spark": "Its uncanny, off-model design made it instantly identifiable and endlessly reproducible by other fans.",
+    "votes": {
+      "stupid": 4085,
+      "genius": 8107
+    }
+  },
+  {
+    "id": "ugandan-knuckles",
+    "category": "Internet Lore",
+    "year": "2017",
+    "title": "Ugandan Knuckles",
+    "metric": "millions",
+    "metricSub": "of VRChat and YouTube meme-video views",
+    "emoji": "🦍",
+    "score": "8.4",
+    "hook": "A deliberately ugly fan redesign of a Sonic character, paired with an exaggerated accent catchphrase, became one of gaming culture's most controversial viral memes.",
+    "spark": "A single VRChat video showing dozens of players imitating the character simultaneously kicked off the wider trend.",
+    "votes": {
+      "stupid": 7438,
+      "genius": 9658
+    }
+  },
+  {
+    "id": "shrek-is-love-shrek-is-life",
+    "category": "Internet Lore",
+    "year": "2013",
+    "title": "Shrek Is Love, Shrek Is Life",
+    "metric": "one of",
+    "metricSub": "the most infamous creepypasta-adjacent phenomena",
+    "emoji": "👹",
+    "score": "8.7",
+    "hook": "An unofficial, deliberately unsettling fan animation loosely based on the Shrek franchise became one of the strangest viral internet legends of its decade.",
+    "spark": "Its bizarre, uncomfortable tone made it a rite-of-passage 'have you seen this' dare among younger internet users.",
+    "votes": {
+      "stupid": 7785,
+      "genius": 10960
+    }
+  },
+  {
+    "id": "the-poop-emoji",
+    "category": "Internet Lore",
+    "year": "2010",
+    "title": "The 💩 Poop Emoji",
+    "metric": "official",
+    "metricSub": "Unicode character status granted in 2010",
+    "emoji": "💩",
+    "score": "9.5",
+    "hook": "A cartoonish pile-of-poop symbol, originally a niche Japanese emoji, became an officially standardized global character and later inspired its own hit mobile game.",
+    "spark": "Apple's inclusion of it in the default iOS keyboard normalized using it as a genuine, mainstream reaction symbol.",
+    "votes": {
+      "stupid": 5997,
+      "genius": 12632
+    }
+  },
+  {
+    "id": "chuck-testa-nope",
+    "category": "Internet Lore",
+    "year": "2012",
+    "title": "Chuck Testa ('Nope')",
+    "metric": "one of",
+    "metricSub": "the most quoted ad-turned-memes of 2012",
+    "emoji": "🦌",
+    "score": "5.6",
+    "hook": "A local taxidermist's deadpan local commercial, showing off unnervingly realistic mounts, became a nationwide catchphrase almost overnight.",
+    "spark": "The commercial's flat, sincere delivery made its punchline funnier than any scripted joke could have been.",
+    "votes": {
+      "stupid": 4127,
+      "genius": 11463
+    }
+  },
+  {
+    "id": "slender-man",
+    "category": "Internet Lore",
+    "year": "2009",
+    "title": "Slender Man",
+    "metric": "one",
+    "metricSub": "feature film and multiple video games spawned",
+    "emoji": "🎩",
+    "score": "8.0",
+    "hook": "An anonymous forum user's Photoshopped horror images, created for a 'create a paranormal creature' contest, spiraled into one of the biggest collaborative horror legends online.",
+    "spark": "A collaborative fiction-writing community kept adding new 'sightings,' building an entire shared mythology from scratch.",
+    "votes": {
+      "stupid": 1122,
+      "genius": 3712
+    }
+  },
+  {
+    "id": "scp-foundation",
+    "category": "Internet Lore",
+    "year": "2007",
+    "title": "SCP Foundation",
+    "metric": "thousands",
+    "metricSub": "of community-written entries across the wiki",
+    "emoji": "📁",
+    "score": "8.3",
+    "hook": "A single anonymous forum post about a paranormal containment object spiraled into a massive, collaboratively written fictional universe with no editorial staff.",
+    "spark": "Its open-contribution wiki format let anyone add new 'classified documents,' and thousands did exactly that.",
+    "votes": {
+      "stupid": 2011,
+      "genius": 10663
+    }
+  },
+  {
+    "id": "david-after-dentist",
+    "category": "Internet Lore",
+    "year": "2009",
+    "title": "David After Dentist",
+    "metric": "150M+",
+    "metricSub": "YouTube views across the original upload",
+    "emoji": "🦷",
+    "score": "6.3",
+    "hook": "A father's home video of his groggy son loopy from dental anesthesia, uploaded just for family, became one of YouTube's biggest breakout hits and a licensed commercial.",
+    "spark": "The child's genuinely funny, unscripted questions made it endlessly quotable years after upload.",
+    "votes": {
+      "stupid": 3031,
+      "genius": 8334
+    }
+  },
+  {
+    "id": "chad-and-virgin-meme",
+    "category": "Internet Lore",
+    "year": "2018",
+    "title": "Chad and Virgin Meme",
+    "metric": "one of",
+    "metricSub": "the most reused 'comparison' meme formats",
+    "emoji": "💪",
+    "score": "6.9",
+    "hook": "A crude side-by-side comparison format, mocking two exaggerated stereotypes, became one of the internet's most flexible templates for any ironic contrast.",
+    "spark": "Its simple two-panel structure made it trivially remixable for literally any topic.",
+    "votes": {
+      "stupid": 4624,
+      "genius": 7685
+    }
+  },
+  {
+    "id": "mocking-spongebob",
+    "category": "Internet Lore",
+    "year": "2017",
+    "title": "Mocking SpongeBob",
+    "metric": "one of",
+    "metricSub": "the most-used 'sarcastic mockery' meme templates",
+    "emoji": "🧽",
+    "score": "7.0",
+    "hook": "A single deranged expression, pulled from an old SpongeBob episode, became the internet's default way of mocking someone's argument in alternating capital letters.",
+    "spark": "Its exaggerated, unhinged expression made the accompanying text format instantly recognizable at a glance.",
+    "votes": {
+      "stupid": 8106,
+      "genius": 8621
+    }
+  },
+  {
+    "id": "change-my-mind-meme",
+    "category": "Internet Lore",
+    "year": "2018",
+    "title": "Change My Mind Meme",
+    "metric": "one of",
+    "metricSub": "the most parodied 'debate me' meme formats",
+    "emoji": "🪑",
+    "score": "6.7",
+    "hook": "A commentator's own promotional photo, sitting behind a provocative sign at a table, was turned by internet users into a joke format for any absurd opinion.",
+    "spark": "Its real, unedited setup made it uniquely easy to caption with any ridiculous claim and still look plausible.",
+    "votes": {
+      "stupid": 7715,
+      "genius": 9217
+    }
+  },
+  {
+    "id": "drakeposting",
+    "category": "Internet Lore",
+    "year": "2015",
+    "title": "Drakeposting",
+    "metric": "one of",
+    "metricSub": "the most iconic 'reject/approve' meme templates ever",
+    "emoji": "👎",
+    "score": "6.6",
+    "hook": "Two photos from a music video, one showing disapproval and one approval, became the internet's default template for comparing a bad option to a preferred one.",
+    "spark": "Its clean two-panel structure made it instantly adaptable to any comparison, from software to snacks.",
+    "votes": {
+      "stupid": 1570,
+      "genius": 9996
+    }
+  },
+  {
+    "id": "roll-safe-meme",
+    "category": "Internet Lore",
+    "year": "2016",
+    "title": "Roll Safe Meme",
+    "metric": "one of",
+    "metricSub": "the most enduring 'clever advice' meme templates",
+    "emoji": "🧠",
+    "score": "5.6",
+    "hook": "A single freeze-frame from a British TV drama, showing a character tapping his temple, became internet shorthand for mocking obviously flawed 'genius' logic.",
+    "spark": "Its exaggerated smugness made it perfect for captioning absurd, self-defeating life hacks.",
+    "votes": {
+      "stupid": 5318,
+      "genius": 2795
+    }
+  },
+  {
+    "id": "is-this-a-pigeon-meme",
+    "category": "Internet Lore",
+    "year": "2018",
+    "title": "Is This a Pigeon? Meme",
+    "metric": "one of",
+    "metricSub": "the most versatile 'confused misidentification' formats",
+    "emoji": "🦋",
+    "score": "9.9",
+    "hook": "A single frame from an obscure 1990s anime, showing a character mistaking a butterfly for a pigeon, resurfaced years later as a meme about basic misunderstanding.",
+    "spark": "Its perfectly deadpan mislabeling structure made it instantly reusable for any topic involving confident wrongness.",
+    "votes": {
+      "stupid": 3766,
+      "genius": 6779
+    }
+  },
+  {
+    "id": "expanding-brain-meme",
+    "category": "Internet Lore",
+    "year": "2017",
+    "title": "Expanding Brain Meme",
+    "metric": "one of",
+    "metricSub": "the most parodied 'escalating enlightenment' formats",
+    "emoji": "🧠",
+    "score": "8.4",
+    "hook": "A four-panel medical-style brain-scan image became the internet's go-to joke format for mocking increasingly pretentious opinions.",
+    "spark": "Its escalating, glowing visual structure made even mundane opinions look absurdly self-important when captioned.",
+    "votes": {
+      "stupid": 7299,
+      "genius": 14199
+    }
+  },
+  {
+    "id": "two-buttons-meme",
+    "category": "Internet Lore",
+    "year": "2016",
+    "title": "Two Buttons Meme",
+    "metric": "one of",
+    "metricSub": "the most durable 'impossible choice' meme templates",
+    "emoji": "🔴",
+    "score": "5.7",
+    "hook": "A comic panel of a sweating man choosing between two red buttons became internet shorthand for any genuinely difficult or absurd dilemma.",
+    "spark": "Its visibly anxious expression made it instantly relatable for describing any minor personal indecision.",
+    "votes": {
+      "stupid": 1154,
+      "genius": 5960
+    }
+  },
+  {
+    "id": "hide-the-pain-harold",
+    "category": "Internet Lore",
+    "year": "2011",
+    "title": "Hide the Pain Harold",
+    "metric": "one of",
+    "metricSub": "the most enduring 'forced smile' meme templates",
+    "emoji": "😬",
+    "score": "6.4",
+    "hook": "A Hungarian stock-photo model's tight, uncomfortable smile became internet shorthand for masking inner suffering behind a polite face.",
+    "spark": "The photo's genuinely unsettling authenticity made it instantly relatable across cultures and languages.",
+    "votes": {
+      "stupid": 1066,
+      "genius": 12422
+    }
+  },
+  {
+    "id": "ok-boomer",
+    "category": "Internet Lore",
+    "year": "2019",
+    "title": "Ok Boomer",
+    "metric": "one of",
+    "metricSub": "2019's most-discussed generational catchphrases",
+    "emoji": "👴",
+    "score": "6.2",
+    "hook": "A dismissive two-word retort aimed at outdated opinions spread from TikTok comment sections into mainstream news coverage almost overnight.",
+    "spark": "Its brevity made it endlessly repeatable, turning a comment-section joke into an actual generational catchphrase.",
+    "votes": {
+      "stupid": 1934,
+      "genius": 9855
+    }
+  },
+  {
+    "id": "feelsbadman-feelsgoodman",
+    "category": "Internet Lore",
+    "year": "2015",
+    "title": "FeelsBadMan / FeelsGoodMan",
+    "metric": "billions",
+    "metricSub": "cumulative uses across livestream chat",
+    "emoji": "🐸",
+    "score": "8.4",
+    "hook": "Two crudely drawn cartoon frog faces, adapted from Pepe the Frog, became the default emotional shorthand across livestreaming chat culture.",
+    "spark": "Twitch's emote system turned the two faces into a constant, real-time reaction language used by millions daily.",
+    "votes": {
+      "stupid": 5520,
+      "genius": 6239
+    }
+  },
+  {
+    "id": "pogchamp",
+    "category": "Internet Lore",
+    "year": "2012",
+    "title": "PogChamp",
+    "metric": "billions",
+    "metricSub": "cumulative uses on Twitch before removal",
+    "emoji": "😲",
+    "score": "7.5",
+    "hook": "A single photo of a gamer's exaggerated shocked expression became one of the most-used reaction images in livestreaming history.",
+    "spark": "Twitch built it directly into its default emote set, guaranteeing constant reuse by every streamer's audience.",
+    "votes": {
+      "stupid": 2999,
+      "genius": 15656
+    }
+  },
+  {
+    "id": "deep-fried-memes",
+    "category": "Internet Lore",
+    "year": "2015",
+    "title": "Deep-Fried Memes",
+    "metric": "its own",
+    "metricSub": "distinct meme-editing subgenre and aesthetic",
+    "emoji": "🍳",
+    "score": "7.1",
+    "hook": "Deliberately over-compressing and over-saturating an image until it looks visually 'fried' became, ironically, its own respected internet art style.",
+    "spark": "Communities began competing to make images look intentionally worse, turning bad editing into a genuine skill.",
+    "votes": {
+      "stupid": 5863,
+      "genius": 12606
+    }
+  },
+  {
+    "id": "rage-comics",
+    "category": "Internet Lore",
+    "year": "2008",
+    "title": "Rage Comics",
+    "metric": "one of",
+    "metricSub": "the defining early meme-comic formats",
+    "emoji": "😡",
+    "score": "9.7",
+    "hook": "Crudely drawn stick-figure comics using a recurring cast of stock expressions, made by amateur forum users with no art training, dominated early meme culture.",
+    "spark": "Free, simple drawing templates let anyone contribute new comics, sustaining a self-generating content genre.",
+    "votes": {
+      "stupid": 6784,
+      "genius": 4593
+    }
+  },
+  {
+    "id": "boneless-pizza-copypasta",
+    "category": "Internet Lore",
+    "year": "2020",
+    "title": "Boneless Pizza Copypasta",
+    "metric": "hundreds of thousands",
+    "metricSub": "of shares within its first viral week",
+    "emoji": "🍕",
+    "score": "8.9",
+    "hook": "An old customer-service call arguing that 'boneless wings' should logically mean 'chicken nuggets' resurfaced years later as one of 2020's most quoted debates.",
+    "spark": "A pizza chain's own Twitter account joking along with the debate turned an old radio clip into a fresh viral moment.",
+    "votes": {
+      "stupid": 2241,
+      "genius": 8124
+    }
   }
 ]
