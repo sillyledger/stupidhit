@@ -11,6 +11,7 @@ import Toast from "@/components/Toast";
 import Footer from "@/components/Footer";
 import { getHits } from "@/lib/hits";
 import { categoryColor } from "@/lib/categoryColors";
+import { fetchAllVotes, incrementVote, type VoteMap } from "@/lib/votes";
 import type { CategoryFilter } from "@/types/hit";
 
 const ALL_HITS = getHits();
@@ -19,7 +20,12 @@ export default function Home() {
   const [category, setCategory] = useState<CategoryFilter>("All");
   const [index, setIndex] = useState(0);
   const [toast, setToast] = useState<string | null>(null);
+  const [voteMap, setVoteMap] = useState<VoteMap>({});
   const toastTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  useEffect(() => {
+    fetchAllVotes().then(setVoteMap);
+  }, []);
 
   const filteredHits = useMemo(
     () =>
@@ -122,8 +128,14 @@ export default function Home() {
     }
   }
 
-  function handleVote(kind: "stupid" | "genius") {
-    showToast(kind === "stupid" ? "Marked as stupid. 🤡" : "Marked as genius. 🧠");
+  async function handleVote(hitId: string, kind: "stupid" | "genius") {
+    const result = await incrementVote(hitId, kind);
+    if (!result) {
+      showToast("Vote didn't go through — try again.");
+      return;
+    }
+    setVoteMap((prev) => ({ ...prev, [hitId]: result }));
+    showToast(kind === "stupid" ? "🤡 Vote counted." : "🧠 Vote counted.");
   }
 
   return (
@@ -137,9 +149,10 @@ export default function Home() {
           <HitCard
             key={currentHit.id}
             hit={currentHit}
+            votes={voteMap[currentHit.id] ?? currentHit.votes}
             onNext={nextHit}
             onShare={(hit) => handleShare(hit.id)}
-            onVote={handleVote}
+            onVote={(kind) => handleVote(currentHit.id, kind)}
           />
           <Pagination
             total={filteredHits.length}

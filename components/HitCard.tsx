@@ -2,10 +2,12 @@
 
 import { useState } from "react";
 import type { Hit } from "@/types/hit";
+import type { VoteCounts } from "@/lib/votes";
 import { categoryColor } from "@/lib/categoryColors";
 
 interface HitCardProps {
   hit: Hit;
+  votes: VoteCounts;
   onNext: () => void;
   onShare: (hit: Hit) => void;
   onVote: (kind: "stupid" | "genius") => void;
@@ -18,14 +20,12 @@ function metricFontSize(metric: string) {
   return "text-2xl sm:text-3xl";
 }
 
-export default function HitCard({ hit, onNext, onShare, onVote }: HitCardProps) {
-  const [votes, setVotes] = useState(hit.votes);
+export default function HitCard({ hit, votes, onNext, onShare, onVote }: HitCardProps) {
   const [voted, setVoted] = useState<"stupid" | "genius" | null>(null);
   const accent = categoryColor(hit.category);
 
   function vote(kind: "stupid" | "genius") {
     if (voted) return;
-    setVotes((v) => ({ ...v, [kind]: v[kind] + 1 }));
     setVoted(kind);
     onVote(kind);
   }
