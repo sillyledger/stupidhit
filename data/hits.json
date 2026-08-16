@@ -3998,5 +3998,805 @@
       "stupid": 2241,
       "genius": 8124
     }
+  },
+  {
+    "id": "roomba",
+    "category": "Tech",
+    "year": "2002",
+    "title": "Roomba",
+    "metric": "40M+",
+    "metricSub": "units sold since launch",
+    "emoji": "🤖",
+    "score": "6.0",
+    "hook": "A frisbee-shaped robot that randomly bumps around your living room vacuuming, dismissed by reviewers as a gimmick, became the best-selling home robot ever made.",
+    "spark": "Its 'so dumb it's kind of hypnotic' bumping pattern made unboxing and demo videos an early YouTube staple.",
+    "votes": {
+      "stupid": 1110,
+      "genius": 7111
+    }
+  },
+  {
+    "id": "amazon-echo-alexa",
+    "category": "Tech",
+    "year": "2014",
+    "title": "Amazon Echo (Alexa)",
+    "metric": "100M+",
+    "metricSub": "Alexa-enabled devices sold",
+    "emoji": "🔊",
+    "score": "8.0",
+    "hook": "A cylindrical speaker that listens to your living room and talks back, mocked as an open invitation for corporate eavesdropping, became a fixture in tens of millions of homes.",
+    "spark": "Aggressive holiday-season discounting turned an odd novelty into the default gift for confused relatives everywhere.",
+    "votes": {
+      "stupid": 8338,
+      "genius": 8963
+    }
+  },
+  {
+    "id": "fitbit",
+    "category": "Tech",
+    "year": "2009",
+    "title": "Fitbit",
+    "metric": "$2.1B",
+    "metricSub": "acquisition price by Google",
+    "emoji": "⌚",
+    "score": "7.2",
+    "hook": "A plastic clip that just counts your steps, mocked as an expensive pedometer for people who already own a phone, became a billion-dollar wearable category on its own.",
+    "spark": "Office step-count competitions turned a solo gadget into a social, sharable habit.",
+    "votes": {
+      "stupid": 6757,
+      "genius": 5563
+    }
+  },
+  {
+    "id": "airpods",
+    "category": "Tech",
+    "year": "2016",
+    "title": "AirPods",
+    "metric": "$12B+",
+    "metricSub": "estimated annual revenue at peak",
+    "emoji": "🎧",
+    "score": "5.8",
+    "hook": "Wireless earbuds with no cord and a widely mocked 'dorky floating toothbrush head' look became Apple's fastest-growing accessory category ever.",
+    "spark": "Their instantly recognizable white silhouette became an unplanned status symbol, visible from across a room.",
+    "votes": {
+      "stupid": 6557,
+      "genius": 12153
+    }
+  },
+  {
+    "id": "apple-watch",
+    "category": "Tech",
+    "year": "2015",
+    "title": "Apple Watch",
+    "metric": "100M+",
+    "metricSub": "estimated active users worldwide",
+    "emoji": "⌚",
+    "score": "6.6",
+    "hook": "A smartwatch that needs daily charging, mocked at launch as solving a problem nobody had, became the best-selling watch, smart or otherwise, on Earth.",
+    "spark": "Positioning it as a fitness and health device gave it a purpose skeptics hadn't considered.",
+    "votes": {
+      "stupid": 6611,
+      "genius": 15095
+    }
+  },
+  {
+    "id": "selfie-stick",
+    "category": "Tech",
+    "year": "2014",
+    "title": "Selfie Stick",
+    "metric": "$1B+",
+    "metricSub": "estimated global annual market at peak",
+    "emoji": "🤳",
+    "score": "6.8",
+    "hook": "An extendable pole for holding your own phone further away, mocked globally as the most narcissistic gadget ever invented, became a billion-dollar accessory category.",
+    "spark": "Museums and venues banning it worldwide made international news, which acted as free advertising.",
+    "votes": {
+      "stupid": 6505,
+      "genius": 12310
+    }
+  },
+  {
+    "id": "apple-airtag",
+    "category": "Tech",
+    "year": "2021",
+    "title": "Apple AirTag",
+    "metric": "100K+",
+    "metricSub": "units sold within launch weekend",
+    "emoji": "📍",
+    "score": "9.0",
+    "hook": "A $29 coin-sized Bluetooth tracker for finding lost keys, mocked as an overpriced solution to a minor annoyance, sold out within days of release.",
+    "spark": "Viral videos of people tracking down stolen bikes and luggage using the tag turned it into unpaid marketing.",
+    "votes": {
+      "stupid": 7422,
+      "genius": 12962
+    }
+  },
+  {
+    "id": "google-glass",
+    "category": "Tech",
+    "year": "2013",
+    "title": "Google Glass",
+    "metric": "8,000+",
+    "metricSub": "developer units shipped in first wave",
+    "emoji": "👓",
+    "score": "8.9",
+    "hook": "A $1,500 pair of computerized glasses with a built-in camera, widely mocked and even banned from bars over privacy concerns, still drew a massive public waitlist.",
+    "spark": "The backlash term 'glasshole' became so widely used it turned the product into a genuine cultural talking point.",
+    "votes": {
+      "stupid": 3744,
+      "genius": 12283
+    }
+  },
+  {
+    "id": "snap-spectacles",
+    "category": "Tech",
+    "year": "2016",
+    "title": "Snap Spectacles",
+    "metric": "220,000+",
+    "metricSub": "units sold in the first year",
+    "emoji": "👓",
+    "score": "7.4",
+    "hook": "Sunglasses with a built-in camera sold out of literal vending machines shaped like a cartoon bird, an odd retail strategy for a wearable camera.",
+    "spark": "The mysterious vending-machine rollout, appearing in random cities with no warning, turned buying a pair into a scavenger hunt.",
+    "votes": {
+      "stupid": 3935,
+      "genius": 3348
+    }
+  },
+  {
+    "id": "hapifork",
+    "category": "Tech",
+    "year": "2013",
+    "title": "HAPIfork",
+    "metric": "CES Award",
+    "metricSub": "2013 Innovation Award honoree",
+    "emoji": "🍴",
+    "score": "7.7",
+    "hook": "A fork that vibrates and flashes if you're eating too fast, mocked relentlessly as the most pointless gadget at that year's CES, still shipped to real customers.",
+    "spark": "'World's dumbest gadget' headlines from major tech outlets ended up driving curiosity purchases.",
+    "votes": {
+      "stupid": 3695,
+      "genius": 2394
+    }
+  },
+  {
+    "id": "ipotty",
+    "category": "Tech",
+    "year": "2013",
+    "title": "iPotty",
+    "metric": "real",
+    "metricSub": "product line still sold at major retailers",
+    "emoji": "🚽",
+    "score": "9.2",
+    "hook": "An iPad holder built directly into a toddler's potty-training seat, widely mocked as a parenting-app dystopia, became a genuine bestseller for the brand.",
+    "spark": "A single viral 'you have got to be kidding me' news segment introduced it to parents nationwide.",
+    "votes": {
+      "stupid": 7636,
+      "genius": 11635
+    }
+  },
+  {
+    "id": "the-wine-rack-bra",
+    "category": "Tech",
+    "year": "2010",
+    "title": "The Wine Rack Bra",
+    "metric": "real",
+    "metricSub": "Shark Tank licensing deal secured",
+    "emoji": "🍷",
+    "score": "6.0",
+    "hook": "A bra with a hidden bladder that holds and dispenses wine through a concealed straw, pitched half as a joke, became a genuine novelty bestseller after a TV pitch.",
+    "spark": "Its unapologetically absurd pitch on national television made it one of the most talked-about products of that season.",
+    "votes": {
+      "stupid": 3867,
+      "genius": 12413
+    }
+  },
+  {
+    "id": "shakeweight",
+    "category": "Tech",
+    "year": "2009",
+    "title": "ShakeWeight",
+    "metric": "$40M+",
+    "metricSub": "sales within the first year",
+    "emoji": "🏋️",
+    "score": "9.4",
+    "hook": "A vibrating dumbbell marketed as a home arm-toning device, whose infomercial motion was so unintentionally suggestive it became a running national joke.",
+    "spark": "Parody videos mocking the infomercial's visuals drove more attention than the ads themselves.",
+    "votes": {
+      "stupid": 4666,
+      "genius": 15897
+    }
+  },
+  {
+    "id": "thighmaster",
+    "category": "Tech",
+    "year": "1991",
+    "title": "ThighMaster",
+    "metric": "tens of millions",
+    "metricSub": "units sold since launch",
+    "emoji": "🦵",
+    "score": "6.2",
+    "hook": "A spring-loaded thigh-squeezing device sold via infomercial by a former sitcom star, mocked as a gimmick, became one of the best-selling fitness products of its era.",
+    "spark": "A single, relentlessly repeated celebrity endorsement made it an inescapable late-night TV fixture.",
+    "votes": {
+      "stupid": 2342,
+      "genius": 14162
+    }
+  },
+  {
+    "id": "sony-walkman",
+    "category": "Tech",
+    "year": "1979",
+    "title": "Sony Walkman",
+    "metric": "400M+",
+    "metricSub": "units sold across its production run",
+    "emoji": "🎧",
+    "score": "7.8",
+    "hook": "A portable cassette player with no recording function or built-in speaker, dismissed internally at Sony as pointless, became the defining gadget of a generation.",
+    "spark": "Sony seeded early units with Tokyo teenagers directly, turning street-level curiosity into demand before any ads ran.",
+    "votes": {
+      "stupid": 6228,
+      "genius": 7003
+    }
+  },
+  {
+    "id": "nest-thermostat",
+    "category": "Tech",
+    "year": "2011",
+    "title": "Nest Thermostat",
+    "metric": "$3.2B",
+    "metricSub": "acquisition price by Google",
+    "emoji": "🌡️",
+    "score": "8.2",
+    "hook": "A $250 wifi-connected thermostat, mocked as an absurd markup on a device that costs $30 at any hardware store, sold well enough to trigger a billion-dollar buyout.",
+    "spark": "Its self-learning algorithm made it feel futuristic enough to justify the price to early adopters.",
+    "votes": {
+      "stupid": 8433,
+      "genius": 12006
+    }
+  },
+  {
+    "id": "ipad",
+    "category": "Tech",
+    "year": "2010",
+    "title": "iPad",
+    "metric": "500M+",
+    "metricSub": "units sold since launch",
+    "emoji": "📱",
+    "score": "8.9",
+    "hook": "Unveiled to widespread mockery as 'just a big iPhone' with no real use case, it went on to define an entirely new category of consumer computing.",
+    "spark": "Its simplicity, no keyboard, no mouse, made it usable by children and grandparents alike, expanding the market far past tech enthusiasts.",
+    "votes": {
+      "stupid": 4708,
+      "genius": 10460
+    }
+  },
+  {
+    "id": "nintendo-wii",
+    "category": "Tech",
+    "year": "2006",
+    "title": "Nintendo Wii",
+    "metric": "101M+",
+    "metricSub": "consoles sold",
+    "emoji": "🎮",
+    "score": "9.1",
+    "hook": "A console built around a plastic motion-sensing remote, dismissed by hardcore gamers as an underpowered gimmick, became the best-selling console of its generation.",
+    "spark": "Its appeal to non-gamers, especially older adults and families, opened a market competitors hadn't even tried to reach.",
+    "votes": {
+      "stupid": 5753,
+      "genius": 7388
+    }
+  },
+  {
+    "id": "snoo-smart-sleeper",
+    "category": "Tech",
+    "year": "2016",
+    "title": "Snoo Smart Sleeper",
+    "metric": "$1,700",
+    "metricSub": "retail price for an automated baby crib",
+    "emoji": "👶",
+    "score": "6.9",
+    "hook": "A wifi-connected bassinet that rocks and shushes a crying baby automatically, mocked as an absurdly expensive fix for normal parenting, sold out repeatedly anyway.",
+    "spark": "Sleep-deprived parents sharing before-and-after sleep-tracking data on social media built organic, desperate demand.",
+    "votes": {
+      "stupid": 2911,
+      "genius": 3572
+    }
+  },
+  {
+    "id": "amazon-dash-button",
+    "category": "Tech",
+    "year": "2015",
+    "title": "Amazon Dash Button",
+    "metric": "millions",
+    "metricSub": "buttons sold before discontinuation",
+    "emoji": "🔘",
+    "score": "6.7",
+    "hook": "A physical wifi button you stick on your washing machine to instantly reorder detergent, mocked as a solution nobody asked for, sold millions before being quietly killed off.",
+    "spark": "Novelty press coverage treating it as the silliest gadget of the year drove curiosity purchases anyway.",
+    "votes": {
+      "stupid": 4592,
+      "genius": 6204
+    }
+  },
+  {
+    "id": "napster",
+    "category": "Tech",
+    "year": "1999",
+    "title": "Napster",
+    "metric": "80M+",
+    "metricSub": "registered users at its peak",
+    "emoji": "🎵",
+    "score": "8.8",
+    "hook": "A dorm-room project letting anyone download any song for free, an idea so legally reckless it got sued out of existence within two years, reshaped the entire music industry anyway.",
+    "spark": "College campuses with fast internet access spread it faster than the record labels could react.",
+    "votes": {
+      "stupid": 5568,
+      "genius": 13678
+    }
+  },
+  {
+    "id": "aol-free-trial-cds",
+    "category": "Tech",
+    "year": "1993",
+    "title": "AOL Free Trial CDs",
+    "metric": "50%+",
+    "metricSub": "of all CDs manufactured worldwide at one point",
+    "emoji": "💿",
+    "score": "8.4",
+    "hook": "Mailing free software discs to every household in America, an approach mocked as wasteful junk mail, became one of the most successful direct-marketing campaigns ever run.",
+    "spark": "AOL reportedly bought so much blank CD stock it briefly affected the global price of polycarbonate.",
+    "votes": {
+      "stupid": 3655,
+      "genius": 2766
+    }
+  },
+  {
+    "id": "nokia-3310-2017-relaunch",
+    "category": "Tech",
+    "year": "2017",
+    "title": "Nokia 3310 (2017 Relaunch)",
+    "metric": "1M+",
+    "metricSub": "units sold in relaunch year",
+    "emoji": "📱",
+    "score": "7.7",
+    "hook": "Rereleasing a 17-year-old 'indestructible' candy-bar phone with zero smartphone features, an idea skeptics called pure nostalgia bait, sold surprisingly well anyway.",
+    "spark": "Meme culture around the original phone's legendary durability primed a built-in audience before launch.",
+    "votes": {
+      "stupid": 3562,
+      "genius": 5402
+    }
+  },
+  {
+    "id": "motorola-razr-2020-relaunch",
+    "category": "Tech",
+    "year": "2020",
+    "title": "Motorola Razr (2020 Relaunch)",
+    "metric": "real",
+    "metricSub": "sellout waves at launch",
+    "emoji": "📱",
+    "score": "7.6",
+    "hook": "Reviving a beloved 2004 flip phone as a $1,500 foldable smartphone, mocked as an overpriced nostalgia cash-grab, still sold out its initial launch batches.",
+    "spark": "Nostalgia-driven unboxing videos from people who owned the original in high school drove massive organic reach.",
+    "votes": {
+      "stupid": 3806,
+      "genius": 6730
+    }
+  },
+  {
+    "id": "sony-aibo",
+    "category": "Tech",
+    "year": "1999",
+    "title": "Sony Aibo",
+    "metric": "$2,500+",
+    "metricSub": "retail price per unit",
+    "emoji": "🐕",
+    "score": "7.0",
+    "hook": "A robotic dog with no practical function beyond companionship, mocked as an absurdly priced toy for adults, sold out its entire first Japanese run in 20 minutes.",
+    "spark": "A cult following of owners treating it as a genuine pet, complete with robot-dog funerals, kept demand alive for decades.",
+    "votes": {
+      "stupid": 8111,
+      "genius": 12355
+    }
+  },
+  {
+    "id": "chatroulette",
+    "category": "Tech",
+    "year": "2009",
+    "title": "Chatroulette",
+    "metric": "1.5M+",
+    "metricSub": "daily unique visitors at 2010 peak",
+    "emoji": "💻",
+    "score": "8.6",
+    "hook": "A website that randomly pairs you on video chat with a total stranger, an idea widely mocked as reckless and unsafe, drew over a million visitors a day within months.",
+    "spark": "A single New York Times feature story on the site's chaos brought a wave of mainstream curiosity traffic.",
+    "votes": {
+      "stupid": 3163,
+      "genius": 12549
+    }
+  },
+  {
+    "id": "yik-yak",
+    "category": "Tech",
+    "year": "2013",
+    "title": "Yik Yak",
+    "metric": "$400M",
+    "metricSub": "peak valuation before shutting down",
+    "emoji": "📍",
+    "score": "5.5",
+    "hook": "An anonymous, location-based bulletin board app, mocked as a bullying liability waiting to happen, became one of the most-downloaded apps on college campuses.",
+    "spark": "Campus-only visibility made every post feel like real, immediate local gossip, driving addictive daily use.",
+    "votes": {
+      "stupid": 2465,
+      "genius": 3316
+    }
+  },
+  {
+    "id": "clubhouse",
+    "category": "Tech",
+    "year": "2020",
+    "title": "Clubhouse",
+    "metric": "$4B",
+    "metricSub": "valuation at 2021 funding round",
+    "emoji": "🎙️",
+    "score": "6.6",
+    "hook": "An invite-only, audio-only social app with no video, text, or replay function, an idea many called a step backward, briefly became Silicon Valley's most obsessed-over app.",
+    "spark": "A strict invite-only rollout during lockdown made access itself feel like a status symbol worth chasing.",
+    "votes": {
+      "stupid": 4229,
+      "genius": 10304
+    }
+  },
+  {
+    "id": "bereal",
+    "category": "Tech",
+    "year": "2020",
+    "title": "BeReal",
+    "metric": "40M+",
+    "metricSub": "daily active users at 2023 peak",
+    "emoji": "📸",
+    "score": "7.9",
+    "hook": "An app that sends one random daily notification demanding an unfiltered photo within two minutes, deliberately anti-Instagram, became huge among teenagers.",
+    "spark": "Its inconvenient, unpredictable notification timing was the entire selling point, not a bug to fix.",
+    "votes": {
+      "stupid": 2868,
+      "genius": 14578
+    }
+  },
+  {
+    "id": "myspace-top-8",
+    "category": "Tech",
+    "year": "2003",
+    "title": "MySpace 'Top 8'",
+    "metric": "real",
+    "metricSub": "one of social media's most controversial features ever",
+    "emoji": "👥",
+    "score": "7.6",
+    "hook": "A feature letting users publicly rank their eight closest friends became, almost by accident, one of the most socially fraught pieces of software ever shipped.",
+    "spark": "The genuine social drama it caused, being demoted from someone's Top 8, kept people obsessively checking lists.",
+    "votes": {
+      "stupid": 6731,
+      "genius": 10844
+    }
+  },
+  {
+    "id": "qr-codes",
+    "category": "Tech",
+    "year": "1994",
+    "title": "QR Codes",
+    "metric": "billions",
+    "metricSub": "scans during the pandemic dining-menu boom",
+    "emoji": "📷",
+    "score": "7.5",
+    "hook": "A grid pattern designed for tracking car parts in Japanese factories was mocked as a dead marketing gimmick for over a decade before restaurants revived it overnight.",
+    "spark": "Pandemic-era contactless dining requirements forced an entire industry to adopt it within weeks.",
+    "votes": {
+      "stupid": 1041,
+      "genius": 3788
+    }
+  },
+  {
+    "id": "bluetooth-beanie",
+    "category": "Tech",
+    "year": "2013",
+    "title": "Bluetooth Beanie",
+    "metric": "real",
+    "metricSub": "sold at major retailers nationwide",
+    "emoji": "🧢",
+    "score": "6.8",
+    "hook": "A winter hat with wireless headphones sewn into the earflaps, mocked as an unnecessary mashup of two unrelated products, became a genuine seasonal bestseller.",
+    "spark": "Ski and snowboard communities adopted it for hands-free music on the slopes, giving it an actual practical niche.",
+    "votes": {
+      "stupid": 4212,
+      "genius": 13867
+    }
+  },
+  {
+    "id": "speak-spell",
+    "category": "Tech",
+    "year": "1978",
+    "title": "Speak & Spell",
+    "metric": "millions",
+    "metricSub": "units sold since launch",
+    "emoji": "🔤",
+    "score": "6.6",
+    "hook": "An electronic educational toy built on genuinely groundbreaking speech-synthesis technology, expensive to develop for what looked like a simple kids' toy, defined its decade.",
+    "spark": "An appearance as a plot device in E.T. the Extra-Terrestrial cemented it in pop-culture memory permanently.",
+    "votes": {
+      "stupid": 6339,
+      "genius": 11873
+    }
+  },
+  {
+    "id": "nintendo-power-glove",
+    "category": "Tech",
+    "year": "1989",
+    "title": "Nintendo Power Glove",
+    "metric": "1M+",
+    "metricSub": "units sold despite poor reviews",
+    "emoji": "🧤",
+    "score": "7.1",
+    "hook": "A wearable controller for playing NES games with hand gestures, almost universally panned by critics as barely functional, still sold a million units on hype alone.",
+    "spark": "A memorable cameo in the movie The Wizard turned a flawed product into a must-have for kids nationwide.",
+    "votes": {
+      "stupid": 5434,
+      "genius": 11286
+    }
+  },
+  {
+    "id": "nintendo-virtual-boy",
+    "category": "Tech",
+    "year": "1995",
+    "title": "Nintendo Virtual Boy",
+    "metric": "cult status",
+    "metricSub": "sought-after collector item decades later",
+    "emoji": "🥽",
+    "score": "7.0",
+    "hook": "A headset displaying games in only red and black, criticized for causing headaches and discontinued within a year, became one of gaming's most valuable cult collectibles.",
+    "spark": "Its notorious failure became its own legend, turning a flop into must-own memorabilia for retro collectors.",
+    "votes": {
+      "stupid": 7010,
+      "genius": 11567
+    }
+  },
+  {
+    "id": "oura-ring",
+    "category": "Tech",
+    "year": "2015",
+    "title": "Oura Ring",
+    "metric": "$2.5B",
+    "metricSub": "valuation at 2024 funding round",
+    "emoji": "💍",
+    "score": "7.0",
+    "hook": "A $300+ titanium ring that tracks sleep and health data, mocked as an overpriced Fitbit you wear on your finger, became a favorite of executives and athletes alike.",
+    "spark": "Celebrity and athlete endorsements normalized wearing a health tracker as jewelry rather than a gadget.",
+    "votes": {
+      "stupid": 6657,
+      "genius": 9905
+    }
+  },
+  {
+    "id": "bitcoin-atm",
+    "category": "Tech",
+    "year": "2013",
+    "title": "Bitcoin ATM",
+    "metric": "30,000+",
+    "metricSub": "machines installed worldwide",
+    "emoji": "🏧",
+    "score": "6.7",
+    "hook": "A physical kiosk for buying cryptocurrency with cash, an odd hybrid of old and new finance mocked as pointless once apps existed, spread to tens of thousands of locations.",
+    "spark": "Placing machines in ordinary convenience stores made an abstract digital currency feel suddenly tangible.",
+    "votes": {
+      "stupid": 2959,
+      "genius": 5979
+    }
+  },
+  {
+    "id": "the-clapper",
+    "category": "Tech",
+    "year": "1984",
+    "title": "The Clapper",
+    "metric": "12M+",
+    "metricSub": "units sold within the first two years",
+    "emoji": "👏",
+    "score": "6.0",
+    "hook": "A device that turns lamps and appliances on or off with two claps, mocked instantly as the laziest gadget ever conceived, became one of infomercial history's best-sellers.",
+    "spark": "Its jingle, 'Clap on! Clap off!', became so ubiquitous it functioned as free advertising for over a decade.",
+    "votes": {
+      "stupid": 2477,
+      "genius": 7169
+    }
+  },
+  {
+    "id": "palm-pilot",
+    "category": "Tech",
+    "year": "1996",
+    "title": "Palm Pilot",
+    "metric": "1M+",
+    "metricSub": "units sold within 18 months of launch",
+    "emoji": "🖊️",
+    "score": "6.0",
+    "hook": "A handheld organizer requiring you to learn a custom shorthand alphabet just to write on it, mocked as needlessly complicated, became the fastest-selling computer product ever at the time.",
+    "spark": "Simple, reliable syncing with a desktop calendar solved a real problem well enough to overcome the learning-curve complaint.",
+    "votes": {
+      "stupid": 5289,
+      "genius": 14487
+    }
+  },
+  {
+    "id": "ember-smart-mug",
+    "category": "Tech",
+    "year": "2017",
+    "title": "Ember Smart Mug",
+    "metric": "$195",
+    "metricSub": "retail price for a temperature-controlled mug",
+    "emoji": "☕",
+    "score": "8.5",
+    "hook": "A coffee mug with a built-in battery and app to keep your drink at a precise temperature, mocked as absurd for something you could just microwave, became a genuine bestseller.",
+    "spark": "Gifting it as a 'ridiculous but you'll secretly love it' present made it a recurring holiday best-seller.",
+    "votes": {
+      "stupid": 2469,
+      "genius": 6238
+    }
+  },
+  {
+    "id": "whistle-gps-pet-collar",
+    "category": "Tech",
+    "year": "2012",
+    "title": "Whistle GPS Pet Collar",
+    "metric": "real",
+    "metricSub": "backed by major pet-industry investors",
+    "emoji": "🐾",
+    "score": "8.7",
+    "hook": "A subscription-based GPS tracker collar for pets, mocked as overkill for something a fence could solve for free, became a genuine category leader in pet tech.",
+    "spark": "Viral 'lost dog found in hours, not days' stories from real owners built organic trust in the product.",
+    "votes": {
+      "stupid": 3165,
+      "genius": 15743
+    }
+  },
+  {
+    "id": "kindle",
+    "category": "Tech",
+    "year": "2007",
+    "title": "Kindle",
+    "metric": "sold out",
+    "metricSub": "entire inventory within 5.5 hours of launch",
+    "emoji": "📖",
+    "score": "8.1",
+    "hook": "An e-reader pitched against people's deep attachment to physical books, an idea traditional publishers were sure would flop, sold out its entire launch inventory in under six hours.",
+    "spark": "Free wireless book delivery, with no computer required, removed the one real friction point critics had predicted.",
+    "votes": {
+      "stupid": 7127,
+      "genius": 11707
+    }
+  },
+  {
+    "id": "oral-b-smart-toothbrush",
+    "category": "Tech",
+    "year": "2014",
+    "title": "Oral-B Smart Toothbrush",
+    "metric": "$200+",
+    "metricSub": "retail price for a wifi-connected toothbrush",
+    "emoji": "🪥",
+    "score": "8.1",
+    "hook": "A toothbrush that syncs to a smartphone app to grade your brushing technique, mocked as the most needlessly 'smart' object ever made, became a genuine retail category.",
+    "spark": "Dentists recommending it to patients with brushing habit issues gave it unexpected professional legitimacy.",
+    "votes": {
+      "stupid": 1723,
+      "genius": 5723
+    }
+  },
+  {
+    "id": "theragun",
+    "category": "Tech",
+    "year": "2016",
+    "title": "Theragun",
+    "metric": "$1B+",
+    "metricSub": "brand valuation by 2021",
+    "emoji": "🔫",
+    "score": "6.8",
+    "hook": "A loud, aggressive-looking percussive massage gun, mocked online as looking more like a power tool than a wellness device, became a staple in pro locker rooms and living rooms alike.",
+    "spark": "NBA and NFL athletes using it on the sidelines during televised games gave it constant free exposure.",
+    "votes": {
+      "stupid": 3856,
+      "genius": 5136
+    }
+  },
+  {
+    "id": "dji-phantom-drone",
+    "category": "Tech",
+    "year": "2013",
+    "title": "DJI Phantom Drone",
+    "metric": "$15B+",
+    "metricSub": "estimated company valuation at peak",
+    "emoji": "🚁",
+    "score": "6.8",
+    "hook": "A consumer camera drone priced well above a hobbyist's casual budget, mocked as an expensive toy for better vacation photos, built the dominant company in an entire industry.",
+    "spark": "Real-estate agents and wedding videographers adopting it for aerial shots turned a hobbyist toy into a professional tool.",
+    "votes": {
+      "stupid": 6700,
+      "genius": 11181
+    }
+  },
+  {
+    "id": "bluetooth-shower-speaker",
+    "category": "Tech",
+    "year": "2013",
+    "title": "Bluetooth Shower Speaker",
+    "metric": "millions",
+    "metricSub": "units sold across the category",
+    "emoji": "🚿",
+    "score": "6.1",
+    "hook": "A waterproof speaker that sticks to your shower wall via suction cup, mocked as solving a problem nobody had, became one of Amazon's most consistently best-selling gadget categories.",
+    "spark": "Its absurdly low price point made it an easy impulse-buy add-on to completely unrelated orders.",
+    "votes": {
+      "stupid": 1272,
+      "genius": 2907
+    }
+  },
+  {
+    "id": "motorola-dynatac-brick-phone",
+    "category": "Tech",
+    "year": "1983",
+    "title": "Motorola DynaTAC ('Brick Phone')",
+    "metric": "$3,995",
+    "metricSub": "launch price per unit",
+    "emoji": "📱",
+    "score": "7.9",
+    "hook": "A 2-pound, foot-long mobile phone with 30 minutes of battery life, mocked even at launch as an oversized status toy for the ultra-wealthy, kicked off the entire cell phone industry.",
+    "spark": "Its dramatic size made it a visible status symbol on Wall Street and in Hollywood films throughout the 1980s.",
+    "votes": {
+      "stupid": 6613,
+      "genius": 4454
+    }
+  },
+  {
+    "id": "original-iphone",
+    "category": "Tech",
+    "year": "2007",
+    "title": "Original iPhone",
+    "metric": "6M+",
+    "metricSub": "units sold in the first five quarters",
+    "emoji": "📱",
+    "score": "8.3",
+    "hook": "A phone with no physical keyboard and no third-party apps at launch, an idea rival executives publicly predicted would flop within a year, redefined mobile phones instead.",
+    "spark": "A single, unusually theatrical product unveiling made even skeptical tech journalists reconsider their predictions on the spot.",
+    "votes": {
+      "stupid": 7066,
+      "genius": 11196
+    }
+  },
+  {
+    "id": "blackberry",
+    "category": "Tech",
+    "year": "1999",
+    "title": "BlackBerry",
+    "metric": "85M+",
+    "metricSub": "subscribers at 2011 peak",
+    "emoji": "📧",
+    "score": "6.0",
+    "hook": "A pager-sized device built almost entirely around typing emails on a tiny physical keyboard, dismissed by consumer phone makers as a niche business tool, became so habit-forming users nicknamed it 'CrackBerry.'",
+    "spark": "Corporate IT departments adopting it company-wide turned a business tool into an inescapable status symbol.",
+    "votes": {
+      "stupid": 1000,
+      "genius": 11405
+    }
+  },
+  {
+    "id": "talkboy",
+    "category": "Tech",
+    "year": "1992",
+    "title": "Talkboy",
+    "metric": "real",
+    "metricSub": "retail bestseller after a single movie cameo",
+    "emoji": "🎙️",
+    "score": "6.8",
+    "hook": "A plastic cassette recorder with pitch-shifting playback, created purely as a movie prop for Home Alone 2, was rushed into real production after kids demanded to buy one.",
+    "spark": "Thousands of letters from kids asking where to buy the fictional prop forced the toy company to manufacture a real version.",
+    "votes": {
+      "stupid": 4821,
+      "genius": 9584
+    }
   }
 ]
