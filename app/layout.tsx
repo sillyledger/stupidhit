@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
+import Script from "next/script";
 import "./globals.css";
 
 // Reddit Sans / Reddit Mono aren't in next/font/google's bundled catalog on
@@ -47,6 +48,21 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className={`${redditSans.variable} ${redditMono.variable}`}>
+      <head>
+        {/* Google tag (gtag.js) */}
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-P1EDMXWJBW"
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-P1EDMXWJBW');
+          `}
+        </Script>
+      </head>
       <body className="font-sans bg-void text-bone antialiased">
         {children}
       </body>
