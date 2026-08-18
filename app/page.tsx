@@ -7,6 +7,7 @@ import CategoryFilters from "@/components/CategoryFilters";
 import HitCard from "@/components/HitCard";
 import Pagination from "@/components/Pagination";
 import EmptyState from "@/components/EmptyState";
+import StupidHitAwards from "@/components/StupidHitAwards";
 import Toast from "@/components/Toast";
 import Footer from "@/components/Footer";
 import { getHits } from "@/lib/hits";
@@ -165,6 +166,8 @@ export default function Home() {
       ) : (
         <EmptyState />
       )}
+
+      <StupidHitAwards hits={ALL_HITS} voteMap={voteMap} />
 
       <Footer />
       <Toast message={toast} />
