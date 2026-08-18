@@ -1600,6 +1600,22 @@
     }
   },
   {
+    "id": "pikotaro-ppap",
+    "category": "Music",
+    "year": "2016",
+    "title": "Pikotaro — PPAP (Pen-Pineapple-Apple-Pen)",
+    "metric": "45 sec",
+    "metricSub": "shortest song ever to chart on the Billboard Hot 100",
+    "emoji": "🍍",
+    "score": "9.5",
+    "hook": "Japanese comedian Daimaou Kosaka, performing as his novelty alter ego Pikotaro, uploaded a 45-second song about mashing a pen into a pineapple and an apple, with no label backing behind it.",
+    "spark": "Justin Bieber tweeted it was his 'favourite video on the internet,' and the clip exploded into a worldwide viral hit within days.",
+    "votes": {
+      "stupid": 3287,
+      "genius": 13940
+    }
+  },
+  {
     "id": "airbnb",
     "category": "Startups",
     "year": "2007",
@@ -4064,22 +4080,6 @@
     }
   },
   {
-    "id": "apple-watch",
-    "category": "Tech",
-    "year": "2015",
-    "title": "Apple Watch",
-    "metric": "100M+",
-    "metricSub": "estimated active users worldwide",
-    "emoji": "⌚",
-    "score": "6.6",
-    "hook": "A smartwatch that needs daily charging, mocked at launch as solving a problem nobody had, became the best-selling watch, smart or otherwise, on Earth.",
-    "spark": "Positioning it as a fitness and health device gave it a purpose skeptics hadn't considered.",
-    "votes": {
-      "stupid": 6611,
-      "genius": 15095
-    }
-  },
-  {
     "id": "selfie-stick",
     "category": "Tech",
     "year": "2014",
@@ -4797,6 +4797,22 @@
     "votes": {
       "stupid": 4821,
       "genius": 9584
+    }
+  },
+  {
+    "id": "cuecat",
+    "category": "Tech",
+    "year": "2000",
+    "title": "CueCat",
+    "metric": "$185M",
+    "metricSub": "raised from investors incl. RadioShack, Coca-Cola & Belo",
+    "emoji": "🐱",
+    "score": "9.0",
+    "hook": "Digital Convergence built a cat-shaped barcode scanner that plugged into a home PC so people could swipe special codes printed next to magazine ads and jump straight to the linked webpage, a physical shortcut for typing a URL.",
+    "spark": "Backers gave millions of units away for free through Forbes, Wired, and RadioShack stores, but almost nobody used them, and the company gutted its staff within a year.",
+    "votes": {
+      "stupid": 7415,
+      "genius": 6802
     }
   }
 ]
