@@ -37,12 +37,12 @@ export default function BuyPage() {
             stupid hit: absurd on paper, and yet here it is, the actual asking price.
           </p>
 
-          <div className="mt-8">
+          <div className="mt-10">
             <h2 className="text-4xl font-black tracking-tight sm:text-5xl">
               How This Happened
             </h2>
 
-            <p className="mt-4 text-base leading-relaxed text-bone/90 sm:text-lg">
+            <p className="mt-6 text-base leading-relaxed text-bone/90 sm:text-lg">
               stupidhit.com was first registered in 2007, deep in the era when domain squatters
               bought up anything that sounded vaguely clever and let it rot on a parking page
               forever. Ownership drifted through a string of brokers and resellers, including at
@@ -53,18 +53,9 @@ export default function BuyPage() {
               genuinely bad bet that just kept paying off.
             </p>
 
-            <div className="mt-4 flex items-center gap-2 font-mono text-[11px] uppercase tracking-widest text-mint">
+            <div className="mt-6 flex items-center gap-2 font-mono text-[11px] uppercase tracking-widest text-mint">
               Domain Age: 19 Years · Owners Before Us: Lost To History · Original Business Plan: None
             </div>
-          </div>
-
-          <div className="mt-auto flex items-center gap-2 pt-6">
-            <Link
-              href="/contact"
-              className="rounded-lg bg-mint px-6 py-3 text-xs font-bold uppercase tracking-wide text-void transition-opacity hover:opacity-90"
-            >
-              Make an offer →
-            </Link>
           </div>
         </div>
 
@@ -80,6 +71,14 @@ export default function BuyPage() {
             </div>
             <div className="mt-1 break-words text-center text-4xl font-black leading-none text-mint sm:mt-2 sm:text-5xl">
               2 BTC
+            </div>
+            <div className="mt-1 w-full sm:mt-2">
+              <Link
+                href="/contact"
+                className="flex w-full items-center justify-center rounded-lg bg-mint px-6 py-3 text-xs font-bold uppercase tracking-wide text-void transition-opacity hover:opacity-90"
+              >
+                Make an offer →
+              </Link>
             </div>
           </div>
         </div>
