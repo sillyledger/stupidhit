@@ -4,7 +4,7 @@ import SealIcon from "@/components/SealIcon";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Buy This Site — stupidhit.com",
+  title: "Buy This Site - stupidhit.com",
   description: "stupidhit.com, domain and all, is for sale for 2 BTC.",
 };
 
@@ -32,10 +32,31 @@ export default function BuyPage() {
 
           <p className="mt-4 text-base leading-relaxed text-bone/90 sm:text-lg">
             stupidhit.com is a 19-year-old domain attached to a fully functioning museum of
-            terrible ideas that made money anyway. The whole thing — code, content, domain,
-            seal of approval — is for sale for 2 BTC, a number chosen because it&apos;s itself a
+            terrible ideas that made money anyway. The whole thing, code, content, domain,
+            seal of approval, is for sale for 2 BTC, a number chosen because it&apos;s itself a
             stupid hit: absurd on paper, and yet here it is, the actual asking price.
           </p>
+
+          <div className="mt-8">
+            <h2 className="text-4xl font-black tracking-tight sm:text-5xl">
+              How This Happened
+            </h2>
+
+            <p className="mt-4 text-base leading-relaxed text-bone/90 sm:text-lg">
+              stupidhit.com was first registered in 2007, deep in the era when domain squatters
+              bought up anything that sounded vaguely clever and let it rot on a parking page
+              forever. Ownership drifted through a string of brokers and resellers, including at
+              least one owner who almost certainly forgot the domain existed. It got listed,
+              delisted, and quietly renewed by nobody in particular, and somehow never expired.
+              Nineteen years, several owners, and zero business plans later, it landed here.
+              Turns out the domain&apos;s own backstory is the most stupid hit of all: a
+              genuinely bad bet that just kept paying off.
+            </p>
+
+            <div className="mt-4 flex items-center gap-2 font-mono text-[11px] uppercase tracking-widest text-mint">
+              Domain Age: 19 Years · Owners Before Us: Lost To History · Original Business Plan: None
+            </div>
+          </div>
 
           <div className="mt-auto flex items-center gap-2 pt-6">
             <Link
