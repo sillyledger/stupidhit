@@ -4814,5 +4814,389 @@
       "stupid": 7415,
       "genius": 6802
     }
+  },
+  {
+    "id": "ouija-board",
+    "category": "Toys",
+    "year": "1966",
+    "title": "Ouija Board",
+    "metric": "60+ yrs",
+    "metricSub": "in continuous production since Parker Brothers bought the rights",
+    "emoji": "👻",
+    "score": "7.6",
+    "hook": "A Victorian parlor game for supposedly talking to the dead, sold to families as a board game for kids' sleepovers.",
+    "spark": "The Exorcist hit theaters in 1973 and turned a toy store item into a genuine moral panic.",
+    "votes": {
+      "stupid": 6874,
+      "genius": 13476
+    }
+  },
+  {
+    "id": "rock-em-sock-em-robots",
+    "category": "Toys",
+    "year": "1964",
+    "title": "Rock 'Em Sock 'Em Robots",
+    "metric": "100,000s",
+    "metricSub": "units sold in its original run",
+    "emoji": "🥊",
+    "score": "6.8",
+    "hook": "Two plastic robots punch each other in the face until one head pops clean off.",
+    "spark": "Became a staple of Baby Boomer and Gen X childhoods on pure blunt-force appeal.",
+    "votes": {
+      "stupid": 1943,
+      "genius": 7506
+    }
+  },
+  {
+    "id": "monster-mash",
+    "category": "Music",
+    "year": "1962",
+    "title": "Bobby \"Boris\" Pickett — Monster Mash",
+    "metric": "$1M/yr",
+    "metricSub": "in ongoing royalties, six decades after release",
+    "emoji": "🧟",
+    "score": "8.7",
+    "hook": "A novelty song written in 30 minutes, sung in a Boris Karloff impression, about monsters throwing a dance party.",
+    "spark": "Four major labels rejected it before it hit #1, and the BBC banned it outright as 'too morbid.'",
+    "votes": {
+      "stupid": 6867,
+      "genius": 15066
+    }
+  },
+  {
+    "id": "its-raining-tacos",
+    "category": "Music",
+    "year": "2012",
+    "title": "Parry Gripp — It's Raining Tacos",
+    "metric": "Book deal",
+    "metricSub": "HarperCollins picture book after years of internet virality",
+    "emoji": "🌮",
+    "score": "6.9",
+    "hook": "A 90 second joke song about, specifically, tacos falling from the sky.",
+    "spark": "Roblox kids adopted it as an unofficial anthem years after release, leading to a mobile game too.",
+    "votes": {
+      "stupid": 4256,
+      "genius": 11935
+    }
+  },
+  {
+    "id": "scrub-daddy",
+    "category": "Startups",
+    "year": "2012",
+    "title": "Scrub Daddy",
+    "metric": "$220M",
+    "metricSub": "in sales in 2023 alone",
+    "emoji": "🧽",
+    "score": "8.0",
+    "hook": "A smiley face sponge that a Fortune 500 company literally threw out of an acquisition deal because it seemed worthless.",
+    "spark": "Aaron Krause pitched it on Shark Tank instead, and it now brings in over $220 million a year.",
+    "votes": {
+      "stupid": 1695,
+      "genius": 3520
+    }
+  },
+  {
+    "id": "exploding-kittens",
+    "category": "Startups",
+    "year": "2015",
+    "title": "Exploding Kittens",
+    "metric": "$8.7M",
+    "metricSub": "raised on a $10,000 Kickstarter goal",
+    "emoji": "💥",
+    "score": "8.4",
+    "hook": "A card game about cats exploding, with a laser pointer as a legitimate defense mechanism.",
+    "spark": "Attracted 219,000 backers, a Kickstarter record at the time, in just 30 days.",
+    "votes": {
+      "stupid": 1017,
+      "genius": 6811
+    }
+  },
+  {
+    "id": "florida-man",
+    "category": "Pop Culture",
+    "year": "2013",
+    "title": "Florida Man",
+    "metric": "Netflix show",
+    "metricSub": "spawned an actual streaming series a decade later",
+    "emoji": "🐊",
+    "score": "8.2",
+    "hook": "A Twitter account that just reposts real local news headlines about a single U.S. state.",
+    "spark": "Turned an entire state into a recurring meme character, eventually landing its own Netflix series.",
+    "votes": {
+      "stupid": 6123,
+      "genius": 12195
+    }
+  },
+  {
+    "id": "storm-area-51",
+    "category": "Pop Culture",
+    "year": "2019",
+    "title": "Storm Area 51",
+    "metric": "2M+",
+    "metricSub": "Facebook users RSVP'd \"going\" to raid a military base",
+    "emoji": "👽",
+    "score": "8.6",
+    "hook": "A joke Facebook event inviting the internet to run into a classified military base and 'see them aliens.'",
+    "spark": "Forced an actual county emergency declaration, and a real desert music festival happened instead.",
+    "votes": {
+      "stupid": 2605,
+      "genius": 14490
+    }
+  },
+  {
+    "id": "badger-badger-badger",
+    "category": "Internet Lore",
+    "year": "2003",
+    "title": "Badger Badger Badger",
+    "metric": "UK #79",
+    "metricSub": "charting single a decade later, with Queen's Brian May on guitar",
+    "emoji": "🦡",
+    "score": "7.9",
+    "hook": "A looping Flash animation of dancing badgers set to a two word song, just \"badger\" and \"mushroom.\"",
+    "spark": "Got its creator an MTV deal, then years later became an actual charting UK single for a real cause.",
+    "votes": {
+      "stupid": 7430,
+      "genius": 10359
+    }
+  },
+  {
+    "id": "dramatic-chipmunk",
+    "category": "Internet Lore",
+    "year": "2007",
+    "title": "Dramatic Chipmunk",
+    "metric": "5 sec",
+    "metricSub": "clip that became a universal internet reaction template",
+    "emoji": "🐿️",
+    "score": "7.3",
+    "hook": "Five seconds of a prairie dog, misidentified online as a chipmunk, turning its head to a dramatic music sting.",
+    "spark": "Became one of the internet's first universal reaction video formats, remixed for over a decade.",
+    "votes": {
+      "stupid": 3759,
+      "genius": 3106
+    }
+  },
+  {
+    "id": "vine",
+    "category": "Tech",
+    "year": "2013",
+    "title": "Vine",
+    "metric": "$30M",
+    "metricSub": "Twitter acquisition price, before the app had even launched",
+    "emoji": "🔁",
+    "score": "7.7",
+    "hook": "A video app that only let you post six seconds at a time.",
+    "spark": "Twitter bought it sight unseen, and it hit tens of millions of users within months of launch.",
+    "votes": {
+      "stupid": 3076,
+      "genius": 14438
+    }
+  },
+  {
+    "id": "google-cardboard",
+    "category": "Tech",
+    "year": "2014",
+    "title": "Google Cardboard",
+    "metric": "15M",
+    "metricSub": "viewers shipped worldwide",
+    "emoji": "📦",
+    "score": "7.1",
+    "hook": "Google's entire pitch for virtual reality was 'fold this piece of cardboard and put your phone inside.'",
+    "spark": "Shipped 15 million units and briefly made Google the biggest VR hardware platform on Earth.",
+    "votes": {
+      "stupid": 3557,
+      "genius": 5547
+    }
+  },
+  {
+    "id": "hungry-hungry-hippos",
+    "category": "Toys",
+    "year": "1978",
+    "title": "Hungry Hungry Hippos",
+    "metric": "47 yrs",
+    "metricSub": "in continuous production and counting",
+    "emoji": "🦛",
+    "score": "6.6",
+    "hook": "Four plastic hippo heads that players slam down to gobble marbles off a shared board.",
+    "spark": "Stayed in continuous production for nearly five decades on pure chaotic physical comedy.",
+    "votes": {
+      "stupid": 1196,
+      "genius": 4674
+    }
+  },
+  {
+    "id": "mr-potato-head",
+    "category": "Toys",
+    "year": "1952",
+    "title": "Mr. Potato Head",
+    "metric": "$4M",
+    "metricSub": "earned by Hasbro within its first few months on shelves",
+    "emoji": "🥔",
+    "score": "8.3",
+    "hook": "A bag of plastic facial parts meant to be stuck into an actual potato from your kitchen.",
+    "spark": "Became the first toy ever advertised on television, aimed directly at kids instead of parents.",
+    "votes": {
+      "stupid": 11353,
+      "genius": 8881
+    }
+  },
+  {
+    "id": "scatman-ski-ba-bop-ba-dop-bop",
+    "category": "Music",
+    "year": "1994",
+    "title": "Scatman John — Scatman (Ski-Ba-Bop-Ba-Dop-Bop)",
+    "metric": "6M+",
+    "metricSub": "copies sold worldwide",
+    "emoji": "🎤",
+    "score": "8.1",
+    "hook": "A lifelong stutterer built an entire dance hit around vocal stutters and jazz scatting, at age 53.",
+    "spark": "Hit #1 in twelve countries after his wife suggested he stop hiding his stutter and use it instead.",
+    "votes": {
+      "stupid": 10321,
+      "genius": 7333
+    }
+  },
+  {
+    "id": "my-humps",
+    "category": "Music",
+    "year": "2005",
+    "title": "Black Eyed Peas — My Humps",
+    "metric": "2M+",
+    "metricSub": "digital downloads sold",
+    "emoji": "🎵",
+    "score": "7.4",
+    "hook": "A song built entirely around the word 'humps,' widely mocked by critics as one of the dumbest hits ever written.",
+    "spark": "Still hit #3 on the Billboard Hot 100 despite, or maybe because of, the reviews.",
+    "votes": {
+      "stupid": 3900,
+      "genius": 10527
+    }
+  },
+  {
+    "id": "manscaped",
+    "category": "Startups",
+    "year": "2016",
+    "title": "Manscaped",
+    "metric": "$300M",
+    "metricSub": "in annual revenue by 2022, up from $65M two years earlier",
+    "emoji": "✂️",
+    "score": "7.5",
+    "hook": "An electric trimmer marketed specifically for grooming below the waist.",
+    "spark": "Grew to serve over 7 million customers worldwide on a category nobody wanted to talk about.",
+    "votes": {
+      "stupid": 4197,
+      "genius": 4291
+    }
+  },
+  {
+    "id": "potato-salad-kickstarter",
+    "category": "Startups",
+    "year": "2014",
+    "title": "Potato Salad Kickstarter",
+    "metric": "$55,492",
+    "metricSub": "raised on a joke $10 goal",
+    "emoji": "🥗",
+    "score": "8.5",
+    "hook": "A guy asked the internet for $10 to buy potato salad ingredients, as a joke, with an 11 word project description.",
+    "spark": "Strangers gave him $55,492 instead, which he used to throw an actual charity music festival.",
+    "votes": {
+      "stupid": 7859,
+      "genius": 13299
+    }
+  },
+  {
+    "id": "crying-jordan-meme",
+    "category": "Pop Culture",
+    "year": "2015",
+    "title": "Crying Jordan Meme",
+    "metric": "GOAT",
+    "metricSub": "named the greatest sports meme of all time by ESPN",
+    "emoji": "😭",
+    "score": "8.0",
+    "hook": "A single AP photo of Michael Jordan crying at his Hall of Fame speech, captioned 'why did I buy the Bobcats.'",
+    "spark": "Spread across every sport and every loss for a decade, from the White House to Jeopardy.",
+    "votes": {
+      "stupid": 6571,
+      "genius": 8925
+    }
+  },
+  {
+    "id": "gorilla-glue-girl",
+    "category": "Pop Culture",
+    "year": "2021",
+    "title": "Gorilla Glue Girl",
+    "metric": "Haircare line",
+    "metricSub": "launched off the viral fame just four months later",
+    "emoji": "🦍",
+    "score": "7.8",
+    "hook": "A woman sprayed industrial adhesive into her hair by mistake, believing it was hairspray.",
+    "spark": "Went viral asking the internet for help, got free surgery from a Beverly Hills doctor, then built a business.",
+    "votes": {
+      "stupid": 1733,
+      "genius": 4139
+    }
+  },
+  {
+    "id": "charlie-the-unicorn",
+    "category": "Internet Lore",
+    "year": "2005",
+    "title": "Charlie the Unicorn",
+    "metric": "Merch line",
+    "metricSub": "plus four sequels, from a video made as a birthday gift",
+    "emoji": "🦄",
+    "score": "7.2",
+    "hook": "A weird animated short about a unicorn who gets his kidney stolen on the way to Candy Mountain, made as a birthday gift for someone's mom.",
+    "spark": "Became one of the internet's first massively viral videos, spinning into a real merchandise line.",
+    "votes": {
+      "stupid": 8694,
+      "genius": 7741
+    }
+  },
+  {
+    "id": "honey-badger-dont-care",
+    "category": "Internet Lore",
+    "year": "2011",
+    "title": "Honey Badger Don't Care",
+    "metric": "100M+",
+    "metricSub": "views, plus a bestselling book deal",
+    "emoji": "🍯",
+    "score": "7.6",
+    "hook": "A guy redubbed National Geographic wildlife footage with sarcastic commentary, as a birthday gift for a friend.",
+    "spark": "Racked up over 100 million views and got trademarked, then years later sold as an NFT.",
+    "votes": {
+      "stupid": 2657,
+      "genius": 4654
+    }
+  },
+  {
+    "id": "ipod-socks",
+    "category": "Tech",
+    "year": "2004",
+    "title": "iPod Socks",
+    "metric": "2025 revival",
+    "metricSub": "Apple relaunched the same joke as a $230 \"iPhone Pocket\"",
+    "emoji": "🧦",
+    "score": "8.2",
+    "hook": "Apple sold a six pack of knit socks for $29, purely to put your iPod inside.",
+    "spark": "Widely mocked and discontinued, then quietly revived by Apple two decades later at eight times the price.",
+    "votes": {
+      "stupid": 14081,
+      "genius": 13415
+    }
+  },
+  {
+    "id": "hq-trivia",
+    "category": "Tech",
+    "year": "2017",
+    "title": "HQ Trivia",
+    "metric": "2.38M",
+    "metricSub": "people playing a single live game simultaneously, its all-time peak",
+    "emoji": "❓",
+    "score": "6.7",
+    "hook": "A free livestreamed trivia app hosted twice a day by a guy talking directly into your phone screen.",
+    "spark": "Peaked at a $100 million valuation within a year, built by the same team behind Vine.",
+    "votes": {
+      "stupid": 6290,
+      "genius": 9065
+    }
   }
 ]
