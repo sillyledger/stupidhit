@@ -5198,5 +5198,421 @@
       "stupid": 6290,
       "genius": 9065
     }
+  },
+  {
+    "id": "my-pet-monster",
+    "category": "Toys",
+    "year": "1986",
+    "title": "My Pet Monster",
+    "metric": "Hasbro-owned",
+    "metricSub": "the brand was acquired twice, most recently by Hasbro in 2018",
+    "emoji": "👹",
+    "score": "7.0",
+    "hook": "A blue plush monster with fangs and horns, sold with breakaway plastic handcuffs kids could wear themselves.",
+    "spark": "Got acquired twice as a real brand, first by Saban Brands in 2012, then by Hasbro in 2018.",
+    "votes": {
+      "stupid": 5710,
+      "genius": 9618
+    }
+  },
+  {
+    "id": "sky-dancers",
+    "category": "Toys",
+    "year": "1994",
+    "title": "Sky Dancers",
+    "metric": "8.9M",
+    "metricSub": "units recalled after 150 injury reports",
+    "emoji": "🚁",
+    "score": "7.7",
+    "hook": "A doll you launch into the air with a pull cord, spinning like a mini helicopter blade.",
+    "spark": "Sold for six years before the CPSC recalled nearly 9 million units over eye injuries and a broken rib.",
+    "votes": {
+      "stupid": 1891,
+      "genius": 5929
+    }
+  },
+  {
+    "id": "cabbage-patch-snacktime-kid",
+    "category": "Toys",
+    "year": "1996",
+    "title": "Cabbage Patch Snacktime Kid",
+    "metric": "700,000",
+    "metricSub": "units sold before the recall",
+    "emoji": "🦷",
+    "score": "7.4",
+    "hook": "A battery-powered doll with a mouth that mechanically chews anything fed to it, including hair and fingers.",
+    "spark": "Mattel pulled it from shelves within months and issued $40 refunds to every buyer.",
+    "votes": {
+      "stupid": 6772,
+      "genius": 15449
+    }
+  },
+  {
+    "id": "buckyballs",
+    "category": "Toys",
+    "year": "2009",
+    "title": "Buckyballs",
+    "metric": "$10M",
+    "metricSub": "in sales in its first year alone",
+    "emoji": "🧲",
+    "score": "7.8",
+    "hook": "A set of tiny rare-earth magnets sold as a desk toy for adults.",
+    "spark": "The CPSC issued its first stop-sale order in 11 years after children kept swallowing them.",
+    "votes": {
+      "stupid": 6538,
+      "genius": 9276
+    }
+  },
+  {
+    "id": "disco-duck",
+    "category": "Music",
+    "year": "1976",
+    "title": "Rick Dees — Disco Duck",
+    "metric": "6M+",
+    "metricSub": "copies sold worldwide",
+    "emoji": "🦆",
+    "score": "8.3",
+    "hook": "A radio DJ's satirical jab at the disco craze, sung half in a duck voice.",
+    "spark": "Hit #1 on the Billboard Hot 100, then decades later Rolling Stone readers voted it the worst song of the 1970s.",
+    "votes": {
+      "stupid": 5911,
+      "genius": 11824
+    }
+  },
+  {
+    "id": "the-streak",
+    "category": "Music",
+    "year": "1974",
+    "title": "Ray Stevens — The Streak",
+    "metric": "5M+",
+    "metricSub": "copies sold internationally",
+    "emoji": "🏃",
+    "score": "7.9",
+    "hook": "A novelty song written about a fad, public nude streaking, that was still actively happening on college campuses.",
+    "spark": "Raced to #1 in the US, UK, Canada, and New Zealand while the fad it mocked was still peaking.",
+    "votes": {
+      "stupid": 6716,
+      "genius": 11016
+    }
+  },
+  {
+    "id": "theyre-coming-to-take-me-away",
+    "category": "Music",
+    "year": "1966",
+    "title": "Napoleon XIV — They're Coming to Take Me Away, Ha-Haaa!",
+    "metric": "US #3",
+    "metricSub": "peak position on the Billboard Hot 100",
+    "emoji": "🚑",
+    "score": "8.0",
+    "hook": "A recording engineer set nonsense doggerel about being institutionalized to tambourine and handclaps.",
+    "spark": "It sold over a million copies, and the final line reveals the narrator was talking about a runaway dog the whole time.",
+    "votes": {
+      "stupid": 7293,
+      "genius": 13046
+    }
+  },
+  {
+    "id": "grandma-got-run-over-by-a-reindeer",
+    "category": "Music",
+    "year": "1979",
+    "title": "Elmo Shropshire — Grandma Got Run Over by a Reindeer",
+    "metric": "10M+",
+    "metricSub": "copies sold since 1979",
+    "emoji": "🦌",
+    "score": "8.4",
+    "hook": "A vet recorded a joke song about his grandmother getting killed by Santa's sleigh and sold 45s off the stage at his gigs.",
+    "spark": "It's now the most-requested Christmas song in American radio history.",
+    "votes": {
+      "stupid": 11921,
+      "genius": 9127
+    }
+  },
+  {
+    "id": "caramelldansen",
+    "category": "Music",
+    "year": "2001",
+    "title": "Caramell — Caramelldansen",
+    "metric": "Oricon chart",
+    "metricSub": "the sped-up remix charted in Japan after going viral there first",
+    "emoji": "🍬",
+    "score": "7.1",
+    "hook": "A forgettable Swedish pop track that sat unnoticed for years.",
+    "spark": "A sped-up loop got attached to an anime clip online, and the reaction was big enough that Sweden officially re-released the song and built a spinoff group around it.",
+    "votes": {
+      "stupid": 6211,
+      "genius": 6483
+    }
+  },
+  {
+    "id": "fidget-cube",
+    "category": "Startups",
+    "year": "2016",
+    "title": "Fidget Cube",
+    "metric": "$6.47M",
+    "metricSub": "raised from 154,926 Kickstarter backers",
+    "emoji": "🎲",
+    "score": "8.2",
+    "hook": "A plastic cube with switches, gears, and buttons on every side, built specifically to be fidgeted with.",
+    "spark": "Asked for $15,000 on Kickstarter and became the platform's second most-backed campaign ever.",
+    "votes": {
+      "stupid": 7319,
+      "genius": 5932
+    }
+  },
+  {
+    "id": "ostrich-pillow",
+    "category": "Startups",
+    "year": "2012",
+    "title": "Ostrich Pillow",
+    "metric": "MoMA",
+    "metricSub": "featured in a Museum of Modern Art exhibition before the company even existed",
+    "emoji": "💤",
+    "score": "7.3",
+    "hook": "A giant fabric hood you wear over your entire head to nap in public.",
+    "spark": "The Kickstarter blew past its funding goal in a week, and the pillow ended up in a design exhibit before it was even a real company.",
+    "votes": {
+      "stupid": 6524,
+      "genius": 4359
+    }
+  },
+  {
+    "id": "prime-hydration",
+    "category": "Startups",
+    "year": "2022",
+    "title": "Prime Hydration",
+    "metric": "$1.2B",
+    "metricSub": "in annual sales, projected within two years of launch",
+    "emoji": "🥤",
+    "score": "7.6",
+    "hook": "A sports drink launched by two YouTubers who used to box each other for views.",
+    "spark": "Sold over a million cans in its first month alone and outpaced legacy sports drink brands within two years.",
+    "votes": {
+      "stupid": 16019,
+      "genius": 14098
+    }
+  },
+  {
+    "id": "truff",
+    "category": "Startups",
+    "year": "2017",
+    "title": "Truff",
+    "metric": "20,000+",
+    "metricSub": "retail stores carrying the product",
+    "emoji": "🍄",
+    "score": "7.2",
+    "hook": "Hot sauce infused with black truffle, priced like a luxury condiment.",
+    "spark": "Grew a cult social following before Kim Kardashian's private equity firm bought a stake in the company.",
+    "votes": {
+      "stupid": 3006,
+      "genius": 8183
+    }
+  },
+  {
+    "id": "kombucha-girl",
+    "category": "Pop Culture",
+    "year": "2019",
+    "title": "Kombucha Girl",
+    "metric": "7.5M",
+    "metricSub": "TikTok followers, up from a viral 8-second reaction clip",
+    "emoji": "😳",
+    "score": "7.5",
+    "hook": "A woman's real-time disgusted-then-delighted face while tasting kombucha for the first time.",
+    "spark": "The clip got her fired from her bank job, then built her a media career including a Super Bowl ad and a top-10 podcast.",
+    "votes": {
+      "stupid": 2469,
+      "genius": 12141
+    }
+  },
+  {
+    "id": "renegade-dance",
+    "category": "Pop Culture",
+    "year": "2019",
+    "title": "The Renegade Dance",
+    "metric": "NBA All-Star Game",
+    "metricSub": "performed live after the choreographer went uncredited for months",
+    "emoji": "💃",
+    "score": "8.1",
+    "hook": "A 14-year-old choreographed a dance in her bedroom in under 10 minutes.",
+    "spark": "It became one of TikTok's biggest crazes ever, and after a credit controversy she performed it live at the NBA All-Star Game.",
+    "votes": {
+      "stupid": 11127,
+      "genius": 8939
+    }
+  },
+  {
+    "id": "annoying-orange",
+    "category": "Pop Culture",
+    "year": "2009",
+    "title": "Annoying Orange",
+    "metric": "16 seasons",
+    "metricSub": "and counting, still releasing new episodes",
+    "emoji": "🍊",
+    "score": "6.9",
+    "hook": "A YouTube series about a talking orange that annoys other pieces of fruit with puns.",
+    "spark": "Got picked up by Cartoon Network for two full television seasons and is still producing new episodes over 16 years later.",
+    "votes": {
+      "stupid": 1611,
+      "genius": 4324
+    }
+  },
+  {
+    "id": "bernie-sanders-mittens-meme",
+    "category": "Pop Culture",
+    "year": "2021",
+    "title": "Bernie Sanders Mittens Meme",
+    "metric": "$1.8M",
+    "metricSub": "raised for Vermont charities in five days",
+    "emoji": "🧤",
+    "score": "7.7",
+    "hook": "A photo of a senator sitting cross-legged in homemade mittens at a presidential inauguration.",
+    "spark": "The resulting merchandise sold out in under 30 minutes per drop and raised $1.8 million for charity that week.",
+    "votes": {
+      "stupid": 1220,
+      "genius": 12920
+    }
+  },
+  {
+    "id": "techno-viking",
+    "category": "Internet Lore",
+    "year": "2000",
+    "title": "Techno Viking",
+    "metric": "Documentary",
+    "metricSub": "the man in the video later sued over it, becoming the subject of a real film",
+    "emoji": "🎧",
+    "score": "7.4",
+    "hook": "Four minutes of random parade footage showing a muscular man dancing to techno.",
+    "spark": "Became one of the internet's first massive video memes, and the actual person filmed later fought a legal battle over his own image.",
+    "votes": {
+      "stupid": 6658,
+      "genius": 8857
+    }
+  },
+  {
+    "id": "epic-sax-guy",
+    "category": "Internet Lore",
+    "year": "2010",
+    "title": "Epic Sax Guy",
+    "metric": "CNN",
+    "metricSub": "compared the meme to Rickrolling in a feature story",
+    "emoji": "🎷",
+    "score": "7.8",
+    "hook": "A saxophonist's Eurovision solo, looped endlessly by internet users into an unstoppable meme.",
+    "spark": "He's still touring internationally off the fame, over 15 years after the original performance.",
+    "votes": {
+      "stupid": 4418,
+      "genius": 5634
+    }
+  },
+  {
+    "id": "leave-britney-alone",
+    "category": "Internet Lore",
+    "year": "2007",
+    "title": "Leave Britney Alone",
+    "metric": "$44,477",
+    "metricSub": "price the original video sold for as an NFT in 2021",
+    "emoji": "📹",
+    "score": "8.0",
+    "hook": "A tearful 19-year-old's webcam plea for the media to stop hounding a pop star.",
+    "spark": "Got 2 million views in 24 hours and made him a target of national mockery, before public opinion swung in his favor over a decade later.",
+    "votes": {
+      "stupid": 13482,
+      "genius": 12755
+    }
+  },
+  {
+    "id": "dril",
+    "category": "Internet Lore",
+    "year": "2008",
+    "title": "dril",
+    "metric": "1.8M+",
+    "metricSub": "followers on an account with no real name attached",
+    "emoji": "🐦",
+    "score": "7.3",
+    "hook": "An anonymous Twitter account posting deliberately unhinged, all-caps nonsense since 2008.",
+    "spark": "Self-published a print collection of his tweets, reasoning paper would survive a future 'digital dark age.'",
+    "votes": {
+      "stupid": 1103,
+      "genius": 11244
+    }
+  },
+  {
+    "id": "bitmoji",
+    "category": "Tech",
+    "year": "2016",
+    "title": "Bitmoji",
+    "metric": "$100M",
+    "metricSub": "acquisition price paid by Snapchat",
+    "emoji": "🙋",
+    "score": "6.8",
+    "hook": "An app for building a cartoon avatar of yourself to use as stickers.",
+    "spark": "Over 70% of Snapchat's 280 million daily users now have one linked to their account.",
+    "votes": {
+      "stupid": 2740,
+      "genius": 4798
+    }
+  },
+  {
+    "id": "nintendo-labo",
+    "category": "Tech",
+    "year": "2018",
+    "title": "Nintendo Labo",
+    "metric": "1.39M",
+    "metricSub": "kits sold in its first quarter alone",
+    "emoji": "🎮",
+    "score": "7.6",
+    "hook": "$80 kits of cardboard sheets you fold yourself, sold as an accessory for a $300 game console.",
+    "spark": "Outsold several full Nintendo Switch games in its opening quarter.",
+    "votes": {
+      "stupid": 14536,
+      "genius": 14204
+    }
+  },
+  {
+    "id": "talking-tom",
+    "category": "Tech",
+    "year": "2010",
+    "title": "Talking Tom",
+    "metric": "10B+",
+    "metricSub": "downloads across the franchise",
+    "emoji": "🐱",
+    "score": "6.7",
+    "hook": "An app where a cartoon cat repeats back whatever you say to it in a squeaky voice.",
+    "spark": "Spun into a media franchise with over 10 billion downloads and its own YouTube series.",
+    "votes": {
+      "stupid": 1970,
+      "genius": 9970
+    }
+  },
+  {
+    "id": "dyson-air-multiplier",
+    "category": "Tech",
+    "year": "2009",
+    "title": "Dyson Air Multiplier",
+    "metric": "$300",
+    "metricSub": "launch price for a fan that was widely mocked at the time",
+    "emoji": "🌀",
+    "score": "7.5",
+    "hook": "A fan with no blades, sold for ten times the price of a normal desk fan.",
+    "spark": "It's now part of the V&A Museum's permanent design collection and still sells today.",
+    "votes": {
+      "stupid": 3921,
+      "genius": 8075
+    }
+  },
+  {
+    "id": "3doodler",
+    "category": "Tech",
+    "year": "2013",
+    "title": "3Doodler",
+    "metric": "$2.34M",
+    "metricSub": "raised on a $30,000 Kickstarter goal",
+    "emoji": "✏️",
+    "score": "7.9",
+    "hook": "A pen that extrudes melted plastic so you can draw three-dimensional shapes in mid-air.",
+    "spark": "Sold over 130,000 units and became one of Kickstarter's ten most-funded technology projects ever.",
+    "votes": {
+      "stupid": 4120,
+      "genius": 8401
+    }
   }
 ]
