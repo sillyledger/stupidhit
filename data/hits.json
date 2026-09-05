@@ -5614,5 +5614,805 @@
       "stupid": 4120,
       "genius": 8401
     }
+  },
+  {
+    "id": "jenga",
+    "category": "Toys",
+    "year": "1983",
+    "title": "Jenga",
+    "metric": "100M+",
+    "metricSub": "sets sold in over 100 countries",
+    "emoji": "🧱",
+    "score": "8.1",
+    "hook": "A stacking game built from scrap wooden blocks a family bought at a sawmill in Takoradi, Ghana.",
+    "spark": "Inventor Leslie Scott grew up between Tanzania and Ghana, and named it after the Swahili word for 'to build.'",
+    "votes": {
+      "stupid": 1640,
+      "genius": 4951
+    }
+  },
+  {
+    "id": "kinder-surprise-eggs",
+    "category": "Toys",
+    "year": "1974",
+    "title": "Kinder Surprise Eggs",
+    "metric": "1-3B",
+    "metricSub": "eggs sold every year across 170 countries",
+    "emoji": "🥚",
+    "score": "8.3",
+    "hook": "A hollow chocolate egg from Italy with a toy hidden inside a plastic capsule.",
+    "spark": "Banned in the US since 1997 as a choking hazard, which hasn't stopped a thriving smuggling market with fines up to $2,500 an egg.",
+    "votes": {
+      "stupid": 9203,
+      "genius": 6658
+    }
+  },
+  {
+    "id": "beyblade",
+    "category": "Toys",
+    "year": "1999",
+    "title": "Beyblade",
+    "metric": "25+ yrs",
+    "metricSub": "running franchise, now in its fourth generation",
+    "emoji": "🌀",
+    "score": "7.0",
+    "hook": "Spinning tops based on a traditional Japanese toy, from a company whose last two spinning-top products had already flopped.",
+    "spark": "Became a global franchise with its own anime, still releasing new versions decades later.",
+    "votes": {
+      "stupid": 5490,
+      "genius": 12118
+    }
+  },
+  {
+    "id": "buzzy-bee",
+    "category": "Toys",
+    "year": "1930s",
+    "title": "Buzzy Bee",
+    "metric": "Royal gift",
+    "metricSub": "New Zealand's official present to visiting foreign royalty",
+    "emoji": "🐝",
+    "score": "6.9",
+    "hook": "A wooden pull-along toy bee that clicks its wings as it rolls.",
+    "spark": "Became New Zealand's national toy icon after Prince William was filmed playing with one in 1983.",
+    "votes": {
+      "stupid": 13985,
+      "genius": 11975
+    }
+  },
+  {
+    "id": "diabolo",
+    "category": "Toys",
+    "year": "China",
+    "title": "Diabolo",
+    "metric": "1,000+ yrs",
+    "metricSub": "old, and officially listed as a Chinese intangible cultural heritage",
+    "emoji": "🪀",
+    "score": "7.2",
+    "hook": "A spinning hourglass-shaped prop balanced and thrown on a string tied between two sticks, based on an ancient Chinese toy.",
+    "spark": "A Frenchman modernized the design in 1906, and it's remained a circus and juggling staple worldwide ever since.",
+    "votes": {
+      "stupid": 17110,
+      "genius": 15304
+    }
+  },
+  {
+    "id": "playmobil",
+    "category": "Toys",
+    "year": "1974",
+    "title": "Playmobil",
+    "metric": "3B+",
+    "metricSub": "figures sold since launch",
+    "emoji": "🧑",
+    "score": "7.6",
+    "hook": "Small plastic figures born because the 1970s oil crisis made Playmobil's previous product, plastic hula hoops, too expensive to keep making.",
+    "spark": "Toy wholesalers rejected it at first, until a single Dutch firm agreed to buy an entire year's production.",
+    "votes": {
+      "stupid": 1461,
+      "genius": 6931
+    }
+  },
+  {
+    "id": "hama-beads",
+    "category": "Toys",
+    "year": "1971",
+    "title": "Hama Beads",
+    "metric": "50+",
+    "metricSub": "countries the beads are exported to",
+    "emoji": "🔴",
+    "score": "6.8",
+    "hook": "Small melt-together craft beads, invented by a Danish company that had only ever made plastic drinking straws before.",
+    "spark": "Became the world's leading brand of melt-bead crafts, still going strong over 50 years later.",
+    "votes": {
+      "stupid": 1201,
+      "genius": 4814
+    }
+  },
+  {
+    "id": "yo-yo",
+    "category": "Toys",
+    "year": "1928",
+    "title": "Yo-yo",
+    "metric": "45M",
+    "metricSub": "sold in the US in 1962 alone, the all-time record year",
+    "emoji": "🪀",
+    "score": "7.4",
+    "hook": "A Filipino bellhop named Pedro Flores played with a toy from his childhood on his lunch breaks at a California hotel.",
+    "spark": "He started a company on the spot, and the yo-yo has been to space, on the Space Shuttle Challenger, since.",
+    "votes": {
+      "stupid": 6412,
+      "genius": 10367
+    }
+  },
+  {
+    "id": "tunak-tunak-tun",
+    "category": "Music",
+    "year": "1998",
+    "title": "Daler Mehndi — Tunak Tunak Tun",
+    "metric": "Global meme",
+    "metricSub": "one of the first massive viral videos of the early internet",
+    "emoji": "🕺",
+    "score": "8.0",
+    "hook": "Critics said Daler Mehndi's music videos only worked because of the dancing women in them, so he made one starring four CGI clones of just himself.",
+    "spark": "Became a worldwide internet phenomenon years before YouTube existed, and got an official 2014 remix with Deadmau5.",
+    "votes": {
+      "stupid": 2522,
+      "genius": 11032
+    }
+  },
+  {
+    "id": "jerusalema",
+    "category": "Music",
+    "year": "2019",
+    "title": "Master KG ft. Nomcebo Zikode — Jerusalema",
+    "metric": "173M+",
+    "metricSub": "YouTube views for the official video",
+    "emoji": "🙌",
+    "score": "8.5",
+    "hook": "A South African gospel-house track that spread through a dance challenge started by a group of friends in Angola.",
+    "spark": "Became Shazam's most-searched song in the world and was danced by police officers, doctors, and Cristiano Ronaldo during the pandemic.",
+    "votes": {
+      "stupid": 3721,
+      "genius": 9508
+    }
+  },
+  {
+    "id": "kolaveri-di",
+    "category": "Music",
+    "year": "2011",
+    "title": "Dhanush — Why This Kolaveri Di",
+    "metric": "1M+",
+    "metricSub": "YouTube hits within 24 hours of release",
+    "emoji": "🎤",
+    "score": "7.7",
+    "hook": "A Tamil-English 'Tanglish' song with nonsense lyrics, recorded in a single off-the-cuff take.",
+    "spark": "Became the first Tamil song to premiere on MTV India, with even Amitabh Bachchan tweeting his praise.",
+    "votes": {
+      "stupid": 11269,
+      "genius": 9166
+    }
+  },
+  {
+    "id": "dschinghis-khan",
+    "category": "Music",
+    "year": "1979",
+    "title": "Dschinghis Khan",
+    "metric": "4th place",
+    "metricSub": "Eurovision finish, before becoming huge in Japan and Russia",
+    "emoji": "🏇",
+    "score": "8.2",
+    "hook": "A German pop band literally created and costumed to compete in Eurovision, built entirely around songs about Genghis Khan.",
+    "spark": "Their song 'Moskau' became an unofficial anthem in Japan and Russia, and the band was later invited to perform at Genghis Khan's actual 800th birthday celebration in Mongolia.",
+    "votes": {
+      "stupid": 3588,
+      "genius": 13448
+    }
+  },
+  {
+    "id": "little-apple",
+    "category": "Music",
+    "year": "2014",
+    "title": "Chopstick Brothers — Little Apple",
+    "metric": "1B+",
+    "metricSub": "views on Chinese video platforms",
+    "emoji": "🍎",
+    "score": "7.9",
+    "hook": "A love song comparing a woman to an apple, from a duo already known for one earlier viral video.",
+    "spark": "Became China's official public square-dance anthem and won an award at the American Music Awards.",
+    "votes": {
+      "stupid": 1996,
+      "genius": 4469
+    }
+  },
+  {
+    "id": "ai-se-eu-te-pego",
+    "category": "Music",
+    "year": "2011",
+    "title": "Michel Teló — Ai Se Eu Te Pego",
+    "metric": "#1 in 15",
+    "metricSub": "countries across Europe and Latin America",
+    "emoji": "⚽",
+    "score": "8.4",
+    "hook": "A song about spotting a cute girl at a party, which sat unnoticed until Brazilian soccer player Neymar started dancing to it after a goal.",
+    "spark": "Cristiano Ronaldo and half of European soccer copied the celebration, and the video passed 240 million YouTube views.",
+    "votes": {
+      "stupid": 6082,
+      "genius": 7712
+    }
+  },
+  {
+    "id": "ponponpon",
+    "category": "Music",
+    "year": "2011",
+    "title": "Kyary Pamyu Pamyu — PonPonPon",
+    "metric": "Top 10",
+    "metricSub": "on Japan's Oricon chart, plus a US record deal off the back of it",
+    "emoji": "🎨",
+    "score": "7.3",
+    "hook": "A hyper-colorful debut single built entirely around Harajuku 'kawaii' fashion aesthetics.",
+    "spark": "Went viral internationally, and its psychedelic visuals landed the artist a Sire Records deal in the US in 2013.",
+    "votes": {
+      "stupid": 3331,
+      "genius": 14533
+    }
+  },
+  {
+    "id": "99-luftballons",
+    "category": "Music",
+    "year": "1983",
+    "title": "Nena — 99 Luftballons",
+    "metric": "US #2",
+    "metricSub": "on the Billboard Hot 100, sung entirely in German",
+    "emoji": "🎈",
+    "score": "8.0",
+    "hook": "A German-language protest song about balloons accidentally starting a nuclear war, inspired by watching balloons drift over the Berlin Wall.",
+    "spark": "It remains the highest-charting German-language song in US chart history, over 40 years later.",
+    "votes": {
+      "stupid": 4915,
+      "genius": 3405
+    }
+  },
+  {
+    "id": "alibaba-singles-day",
+    "category": "Startups",
+    "year": "2009",
+    "title": "Alibaba Singles Day",
+    "metric": "$115B",
+    "metricSub": "combined sales in 2020, more than Black Friday and Cyber Monday combined",
+    "emoji": "🛍️",
+    "score": "8.6",
+    "hook": "An 'anti-Valentine's Day' invented by lonely Chinese university students in the 1990s to celebrate being single.",
+    "spark": "Alibaba turned it into the world's biggest single shopping event of the year.",
+    "votes": {
+      "stupid": 1542,
+      "genius": 8956
+    }
+  },
+  {
+    "id": "angry-birds",
+    "category": "Startups",
+    "year": "2009",
+    "title": "Angry Birds",
+    "metric": "2B+",
+    "metricSub": "downloads, from a studio's 52nd game after 51 straight flops",
+    "emoji": "🐦",
+    "score": "8.3",
+    "hook": "A mobile game about flinging birds at pigs, made by a nearly-bankrupt Finnish studio as a last-ditch effort.",
+    "spark": "Spawned a movie that made $352 million, and the company sold for $775 million in 2023.",
+    "votes": {
+      "stupid": 11804,
+      "genius": 9533
+    }
+  },
+  {
+    "id": "oatly",
+    "category": "Startups",
+    "year": "1994",
+    "title": "Oatly",
+    "metric": "$1.43B",
+    "metricSub": "raised in its 2021 IPO",
+    "emoji": "🥛",
+    "score": "7.8",
+    "hook": "An oat milk brand from a Swedish lactose-research lab that printed a customer's review, 'it tastes like shit,' directly on its own cartons.",
+    "spark": "Got sued by Sweden's dairy industry, published the lawsuit publicly, and saw sales jump 45% in Sweden as a result.",
+    "votes": {
+      "stupid": 12908,
+      "genius": 11166
+    }
+  },
+  {
+    "id": "loop-earplugs",
+    "category": "Startups",
+    "year": "2016",
+    "title": "Loop Earplugs",
+    "metric": "15,275%",
+    "metricSub": "revenue growth in four years, per Deloitte's Fast 50",
+    "emoji": "👂",
+    "score": "7.5",
+    "hook": "Stylish earplugs made by two Belgian friends who kept getting ringing ears at concerts.",
+    "spark": "Became Belgium's fastest-growing tech company two years running, selling over 8 million sets.",
+    "votes": {
+      "stupid": 13754,
+      "genius": 11296
+    }
+  },
+  {
+    "id": "vegemite",
+    "category": "Startups",
+    "year": "1923",
+    "title": "Vegemite",
+    "metric": "22.7M",
+    "metricSub": "jars made in Australia every year",
+    "emoji": "🍞",
+    "score": "7.1",
+    "hook": "A spread made from literal leftover brewery yeast waste.",
+    "spark": "Flopped so badly it was renamed 'Parwill' as a pun on rival Marmite, before reverting to its original name and becoming a national icon.",
+    "votes": {
+      "stupid": 5097,
+      "genius": 11045
+    }
+  },
+  {
+    "id": "who-gives-a-crap",
+    "category": "Startups",
+    "year": "2012",
+    "title": "Who Gives A Crap",
+    "metric": "$13M+",
+    "metricSub": "AUD donated to sanitation charities by 2024",
+    "emoji": "🧻",
+    "score": "7.6",
+    "hook": "A toilet paper company whose founder sat on a toilet for 50 hours, livestreamed, to hit his crowdfunding goal.",
+    "spark": "Donates half its profits to building toilets and clean water access worldwide.",
+    "votes": {
+      "stupid": 9547,
+      "genius": 7237
+    }
+  },
+  {
+    "id": "nandos",
+    "category": "Startups",
+    "year": "1987",
+    "title": "Nando's",
+    "metric": "1,200+",
+    "metricSub": "restaurants across 30+ countries",
+    "emoji": "🐔",
+    "score": "7.4",
+    "hook": "Two friends bought a run-down Portuguese-Mozambican chicken takeaway in Johannesburg because one of them loved the peri-peri sauce.",
+    "spark": "Renamed it after one founder's newborn son, and it grew into a global cult chain with its own devoted fanbase.",
+    "votes": {
+      "stupid": 7395,
+      "genius": 10851
+    }
+  },
+  {
+    "id": "mschf",
+    "category": "Startups",
+    "year": "2019",
+    "title": "MSCHF",
+    "metric": "Sold out",
+    "metricSub": "in under a minute, for its 666-pair 'Satan Shoes' drop",
+    "emoji": "👟",
+    "score": "8.5",
+    "hook": "A Brooklyn collective whose entire business model is dropping deliberately absurd products, from holy-water sneakers to $48,000 hybrid Birkenstocks.",
+    "spark": "Its shoe drops routinely sell out instantly and generate real lawsuits from the brands they remix.",
+    "votes": {
+      "stupid": 1328,
+      "genius": 3415
+    }
+  },
+  {
+    "id": "kit-kat-japan-flavors",
+    "category": "Pop Culture",
+    "year": "Japan",
+    "title": "Kit Kat Japan Flavors",
+    "metric": "300+",
+    "metricSub": "exclusive flavors released since the trend began",
+    "emoji": "🍫",
+    "score": "7.9",
+    "hook": "'Kit Kat' happens to sound like the Japanese phrase 'kitto katsu,' meaning 'you will surely win.'",
+    "spark": "Nestlé leaned into it hard, and Kit Kat became Japan's best-selling confection in 2014.",
+    "votes": {
+      "stupid": 5943,
+      "genius": 3800
+    }
+  },
+  {
+    "id": "dubai-chocolate-bar",
+    "category": "Pop Culture",
+    "year": "2021",
+    "title": "Dubai Chocolate Bar",
+    "metric": "120M+",
+    "metricSub": "views on the single TikTok video that made it famous",
+    "emoji": "🍫",
+    "score": "8.2",
+    "hook": "A pistachio-and-kunafa chocolate bar from a small Dubai shop, made by a British-Egyptian chocolatier.",
+    "spark": "Now sold by Lindt and Costco, and blamed for contributing to a real global pistachio shortage.",
+    "votes": {
+      "stupid": 5897,
+      "genius": 13985
+    }
+  },
+  {
+    "id": "peppa-pig-shehuiren",
+    "category": "Pop Culture",
+    "year": "2018",
+    "title": "Peppa Pig 'Shehuiren' Meme",
+    "metric": "30,000+",
+    "metricSub": "videos removed from one Chinese platform during the crackdown",
+    "emoji": "🐷",
+    "score": "8.4",
+    "hook": "A wholesome British cartoon pig adopted by young Chinese adults as a tongue-in-cheek symbol of gangster subculture.",
+    "spark": "China's government banned the hashtag and pulled tens of thousands of videos, unable to stop the tattoos and merch.",
+    "votes": {
+      "stupid": 4749,
+      "genius": 10035
+    }
+  },
+  {
+    "id": "its-corn",
+    "category": "Pop Culture",
+    "year": "2022",
+    "title": "It's Corn",
+    "metric": "31M+",
+    "metricSub": "views on the TikTok remix of the original interview",
+    "emoji": "🌽",
+    "score": "7.8",
+    "hook": "A kid's genuine, breathless enthusiasm about corn-on-the-cob during a playground interview series.",
+    "spark": "Got remixed into a real streaming song and earned him an official state 'Corn-bassador' title.",
+    "votes": {
+      "stupid": 7249,
+      "genius": 6750
+    }
+  },
+  {
+    "id": "unicorn-frappuccino",
+    "category": "Pop Culture",
+    "year": "2017",
+    "title": "Unicorn Frappuccino",
+    "metric": "180,000+",
+    "metricSub": "Instagram posts in the drink's 5-day existence",
+    "emoji": "🦄",
+    "score": "7.6",
+    "hook": "A color-changing, mango-flavored drink Starbucks designed purely to be photographed.",
+    "spark": "Generated millions of dollars in free publicity in less than a week, and returned for a nostalgia weekend in 2026.",
+    "votes": {
+      "stupid": 6323,
+      "genius": 13267
+    }
+  },
+  {
+    "id": "trader-joes-mini-tote",
+    "category": "Pop Culture",
+    "year": "2024",
+    "title": "Trader Joe's Mini Tote Bag",
+    "metric": "$999",
+    "metricSub": "resale price for a set of four $2.99 bags",
+    "emoji": "👜",
+    "score": "7.9",
+    "hook": "A tiny $2.99 canvas grocery bag that sold out nationwide within minutes of release.",
+    "spark": "Resellers flipped it for hundreds of dollars, with customers camping outside stores overnight for restocks.",
+    "votes": {
+      "stupid": 5269,
+      "genius": 10690
+    }
+  },
+  {
+    "id": "domino-day",
+    "category": "Pop Culture",
+    "year": "1998",
+    "title": "Domino Day",
+    "metric": "4.5M+",
+    "metricSub": "dominoes set up for a single televised world record attempt",
+    "emoji": "🁢",
+    "score": "7.2",
+    "hook": "An annual Dutch TV special whose entire premise is knocking over as many dominoes as possible.",
+    "spark": "Broadcast live across 10+ European countries and Russia for over a decade, with one memorable year derailed by a sparrow.",
+    "votes": {
+      "stupid": 6286,
+      "genius": 7112
+    }
+  },
+  {
+    "id": "grimace-shake-trend",
+    "category": "Pop Culture",
+    "year": "2023",
+    "title": "Grimace Shake Trend",
+    "metric": "2.9B",
+    "metricSub": "views on the TikTok trend",
+    "emoji": "💜",
+    "score": "8.1",
+    "hook": "TikTokers turned a purple McDonald's birthday milkshake into a horror-movie parody, filming themselves 'dying' after drinking it.",
+    "spark": "McDonald's played along online, and the joke trend gave the company a real double-digit sales bump that quarter.",
+    "votes": {
+      "stupid": 6099,
+      "genius": 8040
+    }
+  },
+  {
+    "id": "mexican-wave",
+    "category": "Pop Culture",
+    "year": "1986",
+    "title": "The Mexican Wave",
+    "metric": "40 yrs",
+    "metricSub": "since it became a global phenomenon at the 1986 World Cup",
+    "emoji": "🌊",
+    "score": "7.0",
+    "hook": "A stadium crowd standing up in sequence, arms raised, to create a rolling wave effect.",
+    "spark": "Popularized worldwide by TV coverage of the 1986 World Cup in Mexico, even though its earliest known instances trace back to American sports crowds.",
+    "votes": {
+      "stupid": 7393,
+      "genius": 11223
+    }
+  },
+  {
+    "id": "el-risitas",
+    "category": "Internet Lore",
+    "year": "2007",
+    "title": "El Risitas",
+    "metric": "KEKW",
+    "metricSub": "became one of the most-used emotes on Twitch",
+    "emoji": "😂",
+    "score": "8.0",
+    "hook": "A Spanish comedian's 2007 TV story about paella pans getting washed out to sea by the tide.",
+    "spark": "Resurfaced online in 2014 with subtitles in dozens of languages, turning his wheezing laugh into a global reaction meme.",
+    "votes": {
+      "stupid": 3211,
+      "genius": 9585
+    }
+  },
+  {
+    "id": "densha-otoko",
+    "category": "Internet Lore",
+    "year": "2004",
+    "title": "Densha Otoko",
+    "metric": "250,000",
+    "metricSub": "copies sold in three weeks as a novel",
+    "emoji": "🚃",
+    "score": "7.7",
+    "hook": "An anonymous forum post asking for dating advice after standing up to a drunk man on a train.",
+    "spark": "Became a bestselling novel, a hit movie, a TV series, and four separate manga adaptations.",
+    "votes": {
+      "stupid": 2027,
+      "genius": 7407
+    }
+  },
+  {
+    "id": "bongo-cat",
+    "category": "Internet Lore",
+    "year": "2018",
+    "title": "Bongo Cat",
+    "metric": "Best meme of 2018",
+    "metricSub": "according to multiple outlets",
+    "emoji": "🐱",
+    "score": "7.4",
+    "hook": "A GIF of a cat-like blob slapping a table, which someone else remixed with bongo drums to a Super Mario tune.",
+    "spark": "Spawned key-mapping software, merchandise, and a Steam game from a single Twitter reply.",
+    "votes": {
+      "stupid": 15618,
+      "genius": 13742
+    }
+  },
+  {
+    "id": "loituma-girl",
+    "category": "Internet Lore",
+    "year": "2006",
+    "title": "Loituma Girl (Leekspin)",
+    "metric": "Nyan Cat",
+    "metricSub": "format directly inspired by this animation loop",
+    "emoji": "🥬",
+    "score": "7.8",
+    "hook": "A four-frame loop of an anime character twirling a leek, set to a Finnish folk song's scat-singing section.",
+    "spark": "A German ringtone company sold merchandise off it, and its endlessly looping format later inspired Nyan Cat.",
+    "votes": {
+      "stupid": 13041,
+      "genius": 11567
+    }
+  },
+  {
+    "id": "pawri-ho-rahi-hai",
+    "category": "Internet Lore",
+    "year": "2021",
+    "title": "Pawri Ho Rahi Hai",
+    "metric": "6M+",
+    "metricSub": "Instagram views for the original 5-second clip",
+    "emoji": "🎉",
+    "score": "7.9",
+    "hook": "A Pakistani influencer's 5-second self-deprecating joke about her friends and their car.",
+    "spark": "An Indian producer's remix spread it across the India-Pakistan border, adopted by Bollywood stars and even the Indian Army.",
+    "votes": {
+      "stupid": 4777,
+      "genius": 6274
+    }
+  },
+  {
+    "id": "ikea-monkey",
+    "category": "Internet Lore",
+    "year": "2012",
+    "title": "IKEA Monkey",
+    "metric": "Fashion highlight",
+    "metricSub": "of 2012, per The Guardian",
+    "emoji": "🐒",
+    "score": "7.6",
+    "hook": "A pet macaque named Darwin escaped its owner's car and wandered a Toronto IKEA parking lot in a tiny shearling coat.",
+    "spark": "Became an instant global meme and the subject of a real court case over custody of the monkey.",
+    "votes": {
+      "stupid": 7568,
+      "genius": 10645
+    }
+  },
+  {
+    "id": "hola-soy-german",
+    "category": "Internet Lore",
+    "year": "2011",
+    "title": "HolaSoyGerman",
+    "metric": "100M+",
+    "metricSub": "combined followers across platforms",
+    "emoji": "😂",
+    "score": "7.3",
+    "hook": "A Chilean guy's goofy videos about everyday life, like applying for jobs and going to the gym.",
+    "spark": "Became the second most-subscribed channel on all of YouTube at its peak, behind only PewDiePie.",
+    "votes": {
+      "stupid": 13429,
+      "genius": 11145
+    }
+  },
+  {
+    "id": "duang",
+    "category": "Internet Lore",
+    "year": "2015",
+    "title": "Duang",
+    "metric": "8M+",
+    "metricSub": "mentions on Weibo within days",
+    "emoji": "💇",
+    "score": "8.0",
+    "hook": "A made-up sound effect Jackie Chan said in a 2004 shampoo ad, describing how his hair magically becomes shiny.",
+    "spark": "A 2015 remix turned it into a nonsense word so viral that someone invented an entirely new Chinese character for it.",
+    "votes": {
+      "stupid": 15065,
+      "genius": 13877
+    }
+  },
+  {
+    "id": "wechat-red-envelopes",
+    "category": "Tech",
+    "year": "2014",
+    "title": "WeChat Red Envelopes",
+    "metric": "1B+",
+    "metricSub": "digital red envelopes sent in a single year, up from 16 million the year before",
+    "emoji": "🧧",
+    "score": "8.1",
+    "hook": "A digital version of a 500-year-old Chinese tradition of gifting cash in red envelopes, turned into a 'shake your phone' game.",
+    "spark": "Alibaba's Jack Ma called the feature 'a Pearl Harbor-style attack' on his own payments business.",
+    "votes": {
+      "stupid": 7451,
+      "genius": 8188
+    }
+  },
+  {
+    "id": "line-stickers",
+    "category": "Tech",
+    "year": "2011",
+    "title": "LINE Stickers",
+    "metric": "$270M+",
+    "metricSub": "in annual revenue at its peak",
+    "emoji": "💬",
+    "score": "6.9",
+    "hook": "Cartoon stickers added to a messaging app that was originally built as an emergency tool after the 2011 Tohoku earthquake.",
+    "spark": "Users send over a billion stickers a day, and the characters spawned physical retail stores worldwide.",
+    "votes": {
+      "stupid": 3734,
+      "genius": 4611
+    }
+  },
+  {
+    "id": "qq-show",
+    "category": "Tech",
+    "year": "2003",
+    "title": "QQ Show",
+    "metric": "43%",
+    "metricSub": "operating margin at parent company Tencent, versus 10% for Yahoo at the time",
+    "emoji": "🧑‍🎨",
+    "score": "7.0",
+    "hook": "A virtual avatar dress-up platform, modeled after Korea's Cyworld, selling digital clothing for cartoon avatars.",
+    "spark": "Became one of Tencent's first big revenue streams in an era when almost nobody paid for digital goods online.",
+    "votes": {
+      "stupid": 2299,
+      "genius": 11440
+    }
+  },
+  {
+    "id": "purikura",
+    "category": "Tech",
+    "year": "1995",
+    "title": "Purikura",
+    "metric": "$950M+",
+    "metricSub": "a year at the market's 1997 peak",
+    "emoji": "📸",
+    "score": "7.5",
+    "hook": "Sticker photo booths that flopped completely when first launched with caricature-face effects nobody wanted.",
+    "spark": "Took off after Japanese boy band SMAP was seen using one on TV, and is now called 'the grandmother of the selfie.'",
+    "votes": {
+      "stupid": 11937,
+      "genius": 9975
+    }
+  },
+  {
+    "id": "cyworld",
+    "category": "Tech",
+    "year": "1999",
+    "title": "Cyworld",
+    "metric": "32M",
+    "metricSub": "users at its 2009 peak, in a country of 48.75 million people",
+    "emoji": "🐿️",
+    "score": "7.7",
+    "hook": "A Korean social network where users decorated tiny virtual apartments and paid in a currency literally called 'acorns.'",
+    "spark": "At one point nearly a quarter of South Korea's entire population had an account.",
+    "votes": {
+      "stupid": 2841,
+      "genius": 4053
+    }
+  },
+  {
+    "id": "wii-fit-balance-board",
+    "category": "Tech",
+    "year": "2008",
+    "title": "Wii Fit Balance Board",
+    "metric": "32M+",
+    "metricSub": "units sold, a Guinness World Record for best-selling personal weighing device",
+    "emoji": "⚖️",
+    "score": "6.8",
+    "hook": "A pressure-sensing board you stand on to play video games, dismissed by critics as a pure gimmick at its 2007 reveal.",
+    "spark": "Became one of the best-selling accessories in gaming history.",
+    "votes": {
+      "stupid": 6923,
+      "genius": 9064
+    }
+  },
+  {
+    "id": "kpop-light-sticks",
+    "category": "Tech",
+    "year": "Korea",
+    "title": "K-pop Light Sticks",
+    "metric": "6x",
+    "metricSub": "markup on resale prices ahead of major concerts",
+    "emoji": "🔦",
+    "score": "7.2",
+    "hook": "Bluetooth-connected LED wands fans buy just to wave at their favorite group's concerts.",
+    "spark": "BTS's official 'Army Bomb' regularly sells out and resells for hundreds of dollars on secondhand markets.",
+    "votes": {
+      "stupid": 914,
+      "genius": 9738
+    }
+  },
+  {
+    "id": "casio-g-shock",
+    "category": "Tech",
+    "year": "1983",
+    "title": "Casio G-Shock",
+    "metric": "100M+",
+    "metricSub": "units sold worldwide",
+    "emoji": "⌚",
+    "score": "8.0",
+    "hook": "A watch designed after an engineer's childhood watch shattered when he dropped it, built to survive a 10-meter fall.",
+    "spark": "Guinness later certified it as surviving a 24.97-ton dump truck driving directly over it.",
+    "votes": {
+      "stupid": 3178,
+      "genius": 4510
+    }
+  },
+  {
+    "id": "karaoke",
+    "category": "Tech",
+    "year": "1971",
+    "title": "Karaoke",
+    "metric": "$100M/yr",
+    "metricSub": "in royalties its inventor missed out on by never patenting it",
+    "emoji": "🎙️",
+    "score": "8.3",
+    "hook": "A struggling Japanese musician built a machine so businessmen could sing along to backing tracks without a live band.",
+    "spark": "Never patented, it grew into a multi-billion dollar global industry he never profited from directly.",
+    "votes": {
+      "stupid": 12295,
+      "genius": 11955
+    }
   }
 ]
